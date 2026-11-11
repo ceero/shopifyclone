@@ -9,19 +9,19 @@
   "tooltipText": null,
   "theatreSheetUrl": "/media/sidekick-prod-2026-06-17T00-12-04.json",
   "mobileFallbackBackground": {
-    "altText": null,
-    "height": 1034,
+    "altText": "Three classical statues against a vivid blue background.",
+    "height": 1184,
     "id": "gid://shopify/ImageSource/26631938211934",
-    "url": "/media/sidekick-mobile-optimized.webp",
-    "width": 1000,
+    "url": "/media/sidekick-statues-11c5e685.jpg",
+    "width": 720,
     "__typename": "Image"
   },
   "desktopFallbackBackground": {
-    "altText": null,
-    "height": 1116,
+    "altText": "Three classical statues against a vivid blue background.",
+    "height": 1184,
     "id": "gid://shopify/ImageSource/26635757158494",
-    "url": "/media/prod-3-sidekick-optimized.webp",
-    "width": 2000,
+    "url": "/media/sidekick-statues-11c5e685.jpg",
+    "width": 720,
     "__typename": "Image"
   },
   "products": [

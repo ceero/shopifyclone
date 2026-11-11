@@ -6,6 +6,7 @@ import {
 import { ReleaseGrid } from './ReleaseGrid.jsx';
 import { OpeningChapterPicture } from './OpeningChapterPicture.jsx';
 import { edition, editionPath } from './content.js';
+import './sidekick-cover.css';
 
 function ChapterTitle({ chapter }) {
   const subhead = 'section-hero-subhead col-span-6 sm:col-span-5 md:col-span-9 mt-24 sm:mt-40 md:mt-56 lg:mt-64 xl:mt-64';

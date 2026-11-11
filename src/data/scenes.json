@@ -3482,7 +3482,7 @@
       },
       "environment": {
         "url": "/media/autumnField.hdr",
-        "background": true,
+        "background": false,
         "blur": 0.6078481012658238,
         "darken": 0.6075949367088608,
         "rotation": {
@@ -3494,11 +3494,11 @@
       "pointcloud": {
         "sources": [
           {
-            "src": "/media/0521_Submerged_Arches_and_Verdant_Ruins-512-df9.mdpc",
+            "src": "/media/sidekick-statues-11c5e685-512.mdpc",
             "resolution": 512
           },
           {
-            "src": "/media/0521_Submerged_Arches_and_Verdant_Ruins-256-df9.mdpc",
+            "src": "/media/sidekick-statues-11c5e685-256.mdpc",
             "resolution": 256
           }
         ],
@@ -3522,7 +3522,7 @@
             "y": -0.25999999999999973,
             "z": 0
           },
-          "conveyorEnabled": true,
+          "conveyorEnabled": false,
           "conveyorSpeed": 0.3,
           "conveyorDepth": 6,
           "conveyorRotation": {
@@ -3583,7 +3583,7 @@
           }
         },
         "colorCorrections": {
-          "enabled": true,
+          "enabled": false,
           "amount": 1,
           "reds": {
             "h": 180,
@@ -3631,7 +3631,7 @@
             "l": 0.2199999999999999
           }
         },
-        "pointSize": 0.015000000000000006,
+        "pointSize": 0.09,
         "distanceSizeInfluence": 0.19000000000000003,
         "distanceSizeNear": 4,
         "distanceSizeFar": 18,
@@ -3663,14 +3663,14 @@
         },
         "opacity": 0.8899999999999999,
         "transparent": true,
-        "blendMode": "additive",
+        "blendMode": "normal",
         "randomize": {
           "x": 0.04999999999999996,
           "y": 0,
           "z": 0
         },
         "cameraFade": {
-          "enabled": true,
+          "enabled": false,
           "near": 0,
           "far": 4.5
         },
@@ -3683,6 +3683,16 @@
         "particleScalars": {
           "source512": 1.45,
           "source256": 1
+        },
+        "photoBase": {
+          "image": "/media/sidekick-statues-11c5e685.jpg",
+          "aspect": 0.6081081081081081,
+          "focal": [
+            0.5,
+            1
+          ],
+          "distance": 6,
+          "background": "#0824fb"
         }
       },
       "postprocessing": {
