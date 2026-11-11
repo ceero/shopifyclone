@@ -4,16 +4,22 @@
       "staticOverrides": {
         "byObject": {
           "Scene": {
-            "preset": "prod-3-sidekick",
-            "fboDpr": {
-              "background": 0.5
-            }
+            "preset": "prod-3-sidekick"
           },
           "Camera": {
             "scrollDrift": {
-              "backgroundVolumeScrollScrub": -0.4,
-              "foregroundVolumeScrollScrub": -0.2,
-              "up": 0.4
+              "backgroundVolumeScrollScrub": 3,
+              "foregroundVolumeScrollScrub": 3,
+              "up": 0.5,
+              "back": 0.25
+            },
+            "positionOffset": {
+              "x": -0.08699999999999983,
+              "z": 0.019000000000000086,
+              "y": 0.018999999999999996
+            },
+            "rotationOffset": {
+              "y": 0.183
             }
           }
         }

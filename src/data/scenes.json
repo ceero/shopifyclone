@@ -3433,17 +3433,16 @@
       "title": "prod-3-sidekick",
       "camera": {
         "position": [
-          -0.06529842694898869,
-          -0.8382708806791748,
-          1.385315364440076
+          -0.3047772913518115,
+          0.025351934661357444,
+          0.9090432030993345
         ],
         "target": [
-          -0.7625028751251123,
-          -0.6982143291912241,
-          0.08578020035017547
+          -0.3491091846373982,
+          0.02882983727812112,
+          -0.5426586847654913
         ],
         "fov": 50,
-        "mobileFov": 90,
         "animation": "scrollDrift",
         "positionOffset": [
           0,
@@ -3458,7 +3457,7 @@
         "rotationOffset": [
           0,
           0,
-          -0.04
+          0
         ],
         "mobileRotationOffset": [
           0,
@@ -3467,12 +3466,12 @@
         ],
         "pointerInfluence": [
           [
-            0.15,
-            -0.15
-          ],
-          [
             0.1,
             -0.1
+          ],
+          [
+            0.05,
+            -0.05
           ]
         ],
         "scrollDrift": {
@@ -3481,82 +3480,84 @@
         }
       },
       "environment": {
-        "url": "/media/autumnField.hdr",
+        "url": "",
         "background": false,
-        "blur": 0.6078481012658238,
-        "darken": 0.6075949367088608,
-        "rotation": {
-          "x": 0,
-          "y": 0,
-          "z": 3.141592653589793
-        }
+        "blur": 0,
+        "darken": 0,
+        "bgMode": "linear",
+        "bgColor1": "#01051c",
+        "bgColor2": "#03135a",
+        "bgColor3": "#0824fb",
+        "bgAngle": 126,
+        "bgSpread": 100,
+        "bgBias1": 0.3799999999999999
       },
       "pointcloud": {
         "sources": [
           {
-            "src": "/media/sidekick-statues-11c5e685-512.mdpc",
+            "src": "/media/minipointcloud-512-df9.mdpc",
             "resolution": 512
           },
           {
-            "src": "/media/sidekick-statues-11c5e685-256.mdpc",
+            "src": "/media/minipointcloud-256-df9.mdpc",
             "resolution": 256
           }
         ],
         "flow": {
           "enabled": true,
           "type": "curl",
-          "layout": "off",
-          "strength": 0.1772151898734178,
-          "speed": 1,
-          "scale": 3.8607594936708822,
-          "gridEnabled": false,
-          "gridSize": 0.03299999999999998,
-          "gridStrength": 1,
+          "layout": "dots",
+          "strength": 1,
+          "speed": 1.860759493670887,
+          "scale": 10,
+          "gridEnabled": true,
+          "gridSize": 0.03699999999999995,
+          "gridStrength": 0.09999999999999999,
           "gridMix": {
-            "x": 1,
-            "y": 1,
-            "z": 1
+            "x": 0.09999999999999999,
+            "y": 0.09999999999999999,
+            "z": 0.09999999999999999
           },
           "gridRotation": {
             "x": 0,
-            "y": -0.25999999999999973,
+            "y": 0,
             "z": 0
           },
-          "conveyorEnabled": false,
-          "conveyorSpeed": 0.3,
-          "conveyorDepth": 6,
+          "conveyorEnabled": true,
+          "conveyorSpeed": 0.44303797468354517,
+          "conveyorDepth": 1.2025316455696209,
           "conveyorRotation": {
             "x": 0,
-            "y": 0.7460000000000027,
+            "y": 0,
             "z": 0
           },
           "conveyorDistance": {
-            "near": 0.06329113924050633,
-            "far": 3
+            "near": 3.60759493670886,
+            "far": 0.7594936708860782
           },
-          "randomnessExponent": 142,
-          "distanceNear": 0.25316455696202533,
-          "distanceFar": 1.2658227848101267,
-          "layoutRadius": 0.001,
-          "layoutThickness": 0.9,
-          "layoutPreserveY": 0.35,
-          "layoutTwist": -3.45,
+          "randomnessExponent": 99,
+          "distanceNear": 3.60759493670886,
+          "distanceFar": 0.7594936708860782,
+          "layoutRadius": 10,
+          "layoutThickness": 0.8299999999999998,
+          "layoutPreserveY": 0.75,
+          "layoutTwist": 0.7500000000000002,
           "layoutAmplitude": 0.16,
-          "layoutFrequency": 11.5,
+          "layoutFrequency": 24.10000000000001,
           "layoutSpokes": 24,
           "layoutRadialSpacing": 0,
-          "layoutTurns": 3,
-          "layoutHeight": 5
+          "layoutTurns": 12,
+          "layoutHeight": 9.999999999999998
         },
         "fluid": {
           "enabled": true,
-          "influence": 0.6,
-          "curl": 1.5,
-          "velocityDissipation": 0.965,
-          "densityDissipation": 0.9,
-          "pressure": 0.6,
-          "splatRadius": 0.25,
-          "splatForce": 0.125,
+          "influence": 0.8,
+          "curl": 3,
+          "velocityDissipation": 0.96,
+          "densityDissipation": 0.98,
+          "pressure": 0.9,
+          "splatRadius": 0.7,
+          "splatForce": 0.3,
           "simSize": 128,
           "dyeSize": 256
         },
@@ -3566,29 +3567,29 @@
           "scale": 2,
           "axisScale": {
             "x": 1,
-            "y": 1,
-            "z": 10
+            "y": 2,
+            "z": 2.4
           },
           "speed": {
-            "x": -0.15000000000000002,
-            "y": -0.1,
-            "z": -0.2
+            "x": 0.1,
+            "y": -0.5,
+            "z": -0.05
           },
-          "power": 10,
+          "power": 8,
           "sparkle": 0,
           "color": {
-            "r": 0.5019607843137255,
-            "g": 0.3058823529411765,
-            "b": 0.8705882352941177
+            "r": 0.11372549019607843,
+            "g": 0.6274509803921569,
+            "b": 1
           }
         },
         "colorCorrections": {
-          "enabled": false,
+          "enabled": true,
           "amount": 1,
           "reds": {
-            "h": 180,
-            "s": -1,
-            "l": 0.17999999999999988
+            "h": 0,
+            "s": 0,
+            "l": 0
           },
           "yellows": {
             "h": 0,
@@ -3596,8 +3597,8 @@
             "l": 0
           },
           "greens": {
-            "h": 4,
-            "s": 0.15,
+            "h": 0,
+            "s": 0,
             "l": 0
           },
           "cyans": {
@@ -3611,44 +3612,44 @@
             "l": 0
           },
           "magentas": {
-            "h": 0,
-            "s": -1,
-            "l": 0.06999999999999992
+            "h": -126,
+            "s": 1,
+            "l": 0
           },
           "whites": {
-            "h": 0,
-            "s": -0.41000000000000025,
-            "l": -0.5099999999999995
+            "h": 24,
+            "s": -1,
+            "l": 0
           },
           "neutrals": {
             "h": 180,
-            "s": 0,
-            "l": -0.32
+            "s": -1,
+            "l": -0.2999999999999998
           },
           "blacks": {
-            "h": 81,
-            "s": -0.049999999999999795,
-            "l": 0.2199999999999999
+            "h": 0,
+            "s": -1,
+            "l": 0
           }
         },
-        "pointSize": 0.09,
-        "distanceSizeInfluence": 0.19000000000000003,
+        "pointSize": 0.06800000000000003,
+        "distanceSizeInfluence": 0.25,
         "distanceSizeNear": 4,
         "distanceSizeFar": 18,
         "distanceSizeMax": 1.5,
         "maxPointSize": 1.8037974683544302,
-        "maxPoints": 230000,
+        "maxPoints": 284001,
         "position": {
-          "x": -2.6999999999999926,
-          "y": 1.9600000000000017,
-          "z": -2.4399999999999897
+          "x": 0.6400000000000011,
+          "y": -0.2400000000000001,
+          "z": -0.0899999999999998
         },
         "rotation": {
-          "x": 0,
-          "y": -21.900000000000006,
-          "z": -2.900000000000001
+          "x": 183,
+          "y": 226,
+          "z": 0
         },
-        "scale": 5.189999999999995,
+        "scale": 1.5,
         "mobile": {
           "position": {
             "x": 0,
@@ -3661,48 +3662,38 @@
             "z": 0
           }
         },
-        "opacity": 0.8899999999999999,
+        "opacity": 0.5599999999999997,
         "transparent": true,
         "blendMode": "normal",
         "randomize": {
-          "x": 0.04999999999999996,
+          "x": 0,
           "y": 0,
           "z": 0
         },
         "cameraFade": {
-          "enabled": false,
+          "enabled": true,
           "near": 0,
-          "far": 4.5
+          "far": 5.799999999999994
         },
         "densityFill": {
-          "enabled": true,
-          "opacity": 1,
-          "pointSizeScale": 2,
-          "jitter": 0.002
+          "enabled": false,
+          "opacity": 0.35,
+          "pointSizeScale": 0.75,
+          "jitter": 0.01
         },
         "particleScalars": {
-          "source512": 1.45,
+          "source512": 1.25,
           "source256": 1
-        },
-        "photoBase": {
-          "image": "/media/sidekick-statues-11c5e685.jpg",
-          "aspect": 0.6081081081081081,
-          "focal": [
-            0.5,
-            1
-          ],
-          "distance": 6,
-          "background": "#0824fb"
         }
       },
       "postprocessing": {
         "bloom": {
           "enabled": true,
-          "intensity": 0.8860759493670889,
-          "opacity": 0.05063291139240506,
-          "threshold": 0.35848101265822796,
+          "intensity": 0.0949367088607595,
+          "opacity": 0.17721518987341767,
+          "threshold": 0,
           "softness": 0,
-          "radius": 0.23544303797468333,
+          "radius": 0.4303797468354431,
           "tint": [
             1,
             1,
@@ -3712,20 +3703,20 @@
           "rgbAngle": 0
         },
         "chromatic": {
-          "enabled": true,
-          "amount": 0.005221518987341728,
-          "angle": 0.35790296053554593
+          "enabled": false,
+          "amount": 0,
+          "angle": 1
         },
         "vignette": {
           "enabled": true,
-          "amount": 0.6265822784810127,
-          "radius": 1.0089240506329114,
-          "softness": 0.7128797468354431
+          "amount": 0.5,
+          "radius": 0.895,
+          "softness": 0.441
         },
         "afterimage": {
           "enabled": true,
-          "strength": 0.8354430379746836,
-          "damp": 0.3287341772151899,
+          "strength": 0.99,
+          "damp": 0.95,
           "threshold": 0.2
         },
         "noise": {
@@ -3737,79 +3728,80 @@
         "toneMappingExposure": 1
       },
       "behindContent": {
-        "darken": 0,
+        "darken": 0.5,
         "speed": 0.2,
-        "saturation": 1,
-        "pointerInfluence": 0.6,
+        "saturation": 0.7000000000000001,
+        "pointerInfluence": 0,
         "reduceQuality": true,
         "offset": 0
       },
       "volumetric": null,
-      "videoLightVolume": {
-        "videoUrl": "/media/15de67fa52a247e9805165ba4417e3b7.mp4",
-        "ktx2Url": "/media/sidekick-voice_50f_429x239_etc1s.ktx2",
+      "videoLightVolume": null,
+      "foregroundVideoLightVolume": {
+        "videoUrl": "/media/sidekick-statues-11c5e685.jpg",
+        "ktx2Url": null,
         "visible": true,
-        "layer": "background",
+        "layer": "foreground",
         "source": "vf-source",
         "width": 1,
-        "depth": 1.2100000000000017,
-        "opacity": 1.5799999999999996,
-        "brightness": 1.6,
-        "threshold": 0.05500000000000001,
-        "softness": 0.96,
-        "edgeFade": 0.27999999999999997,
+        "depth": 0.26,
+        "opacity": 2,
+        "brightness": 1.65,
+        "threshold": 0.025,
+        "softness": 1,
+        "edgeFade": 0,
         "blendMode": "additive",
-        "renderBehindPointCloud": true,
-        "loopCount": 2,
+        "renderBehindPointCloud": false,
+        "loopCount": 1,
         "grid": {
           "enabled": false,
           "columns": 1,
           "rows": 1,
           "spacing": [
-            1.1,
+            3.0500000000000003,
             1.1
           ],
           "randomTimeOffset": 0,
           "outerOpacity": 1
         },
-        "nearFade": 1.5,
-        "playbackSpeed": -0.6,
+        "nearFade": 0,
+        "playbackSpeed": 4,
         "fluidStrength": [
-          0.1,
-          0.1
+          -0.25,
+          0.25
         ],
         "fluidDepthStrength": [
-          3,
+          1,
           0
         ],
         "fluidDistanceRange": [
           0,
           1000
         ],
-        "raymarchSteps": 50,
+        "raymarchSteps": 100,
         "centerFade": [
           0.5,
           0,
           0
         ],
         "position": [
-          -0.239,
-          -0.6849999999999997,
-          0.9699999999999995
+          -0.31000000000000005,
+          0,
+          0
         ],
         "rotation": [
-          0.06038839211900395,
-          0.47647488579445135,
-          3.0770154712660025
+          0,
+          0.4014257279586958,
+          0
         ],
         "scale": [
-          2,
-          3,
-          2.01
+          2.300000000000016,
+          2.300000000000016,
+          0.4800000000000001
         ],
         "hsl": [
-          0.025499999999999967,
-          -0.1799999999999993,
+          0,
+          0,
           0
         ],
         "noiseScale": [
@@ -3823,87 +3815,16 @@
           0
         ],
         "noiseStrength": 0,
-        "depthMapUrl": null
-      },
-      "foregroundVideoLightVolume": {
-        "videoUrl": "/media/15de67fa52a247e9805165ba4417e3b7.mp4",
-        "ktx2Url": "/media/sidekickuiartifact_50f_427x539_etc1s.ktx2",
-        "visible": true,
-        "layer": "background",
-        "source": "vf-source",
-        "width": 1,
-        "depth": 3.8,
-        "opacity": 1.1299999999999997,
-        "brightness": 4,
-        "threshold": 0.025,
-        "softness": 0.001,
-        "edgeFade": 0,
-        "blendMode": "normal",
-        "renderBehindPointCloud": false,
-        "loopCount": 2,
-        "grid": {
-          "enabled": false,
-          "columns": 4,
-          "rows": 3,
-          "spacing": [
-            0.35,
-            0.10000000000000002
+        "depthMapUrl": "/media/sidekick-statues-depth-11c5e685.png",
+        "photoBase": {
+          "aspect": 0.6081081081081081,
+          "focal": [
+            0.5,
+            1
           ],
-          "randomTimeOffset": 1,
-          "outerOpacity": 1
-        },
-        "nearFade": 5.5000000000000115,
-        "playbackSpeed": -0.5,
-        "fluidStrength": [
-          -0.2,
-          0.2
-        ],
-        "fluidDepthStrength": [
-          2,
-          0
-        ],
-        "fluidDistanceRange": [
-          0,
-          1000
-        ],
-        "raymarchSteps": 30,
-        "centerFade": [
-          0.5,
-          0,
-          0
-        ],
-        "position": [
-          1.996999999999999,
-          -0.5839999999999999,
-          4
-        ],
-        "rotation": [
-          -0.0523598775598299,
-          0.6021385919380453,
-          0
-        ],
-        "scale": [
-          5.879999999999999,
-          6,
-          4
-        ],
-        "hsl": [
-          -0.015000000000000218,
-          0.25,
-          0
-        ],
-        "noiseScale": [
-          0,
-          0,
-          0
-        ],
-        "noiseMovement": [
-          0,
-          0,
-          0
-        ],
-        "noiseStrength": 0,
-        "depthMapUrl": null
+          "distance": 4,
+          "depth": 0.26
+        }
       }
     }
   },

@@ -31,3 +31,30 @@ export function fitPhotoCloud(cloud, photo, scene, defaultCamera, size) {
   cloud.quaternion.copy(frame.rotation);
   cloud.scale.setScalar(scale);
 }
+
+// Reuse the native light-volume shader for a photograph plus depth texture.
+// Only framing runs here, inside the renderer's existing frame callback; fluid
+// simulation, distortion and raymarching stay in the native GPU pipeline.
+export function fitPhotoVolume(volume, photo, scene, defaultCamera, size) {
+  if (!photo) return;
+  let frame = frames.get(volume);
+  if (!frame) {
+    frame = { position: new Vector3(), offset: new Vector3(), rotation: defaultCamera.quaternion.clone() };
+    frames.set(volume, frame);
+  }
+  frame.camera ||= scene.getObjectByProperty('type', 'PerspectiveCamera');
+  const camera = frame.camera || defaultCamera;
+  camera.updateWorldMatrix(true, false);
+  camera.getWorldPosition(frame.position);
+  camera.getWorldQuaternion(frame.rotation);
+  const height = 2 * photo.distance * Math.tan(camera.fov * Math.PI / 360) / camera.zoom;
+  const width = height * size.width / size.height;
+  const imageHeight = Math.max(height, width / photo.aspect) * 1.025;
+  const imageWidth = imageHeight * photo.aspect;
+  const [fx, fy] = photo.focal;
+  frame.offset.set((width - imageWidth) * (fx - .5),
+    (height - imageHeight) * (.5 - fy), -photo.distance);
+  volume.position.copy(frame.offset).applyQuaternion(frame.rotation).add(frame.position);
+  volume.quaternion.copy(frame.rotation);
+  volume.scale.set(imageWidth, imageHeight, photo.depth);
+}
