@@ -119,6 +119,7 @@ export function mountCover(stage, photo, canvas, cover, isLoaded) {
   let id = 0, last = 0, time = 0, visible = true, targetX = 0, targetY = 0;
   const gaze = {x: 0, y: 0};
   let previousScroll = scrollY, speed = 0, targetSpeed = 0;
+  let photoCovered = false, photoTransform = '', departed = false;
   function request() {
     if (!id && visible && !document.hidden) id = requestAnimationFrame(tick);
   }
@@ -127,7 +128,7 @@ export function mountCover(stage, photo, canvas, cover, isLoaded) {
     if (!visible || document.hidden || !w || !h) return;
     const drive = clamp(scrollY / Math.max(1, track));
     const exit = clamp((scrollY - (track - h)) / h);
-    stage.toggleAttribute('data-departed', exit >= 1);
+    if ((exit >= 1) !== departed) { departed = exit >= 1; stage.toggleAttribute('data-departed', departed); }
     if (!photo.naturalWidth || !art) return;
     const moving = !motion.matches && !stage.hasAttribute('data-paused');
     const dt = last ? Math.min((now-last)/1000,.06) : 1/60;
@@ -147,9 +148,19 @@ export function mountCover(stage, photo, canvas, cover, isLoaded) {
     const particleCanvas = motion.matches ? null : particles.render({
       width:w, height:h, frame, gaze, time, now, dt, speed, scrollDelta, pointer:pointerSample, moving,
     });
-    photo.style.width = photo.naturalWidth + 'px';
-    photo.style.height = photo.naturalHeight + 'px';
-    photo.style.transform = 'matrix(' + [frame.scale,0,0,frame.scale,frame.left,frame.top].join(',') + ')';
+    // The particle canvas repaints the photograph opaquely; skip compositing a
+    // second full-size, per-frame transformed copy underneath it.
+    const covered = !!particleCanvas;
+    if (covered !== photoCovered) { photoCovered = covered; stage.toggleAttribute('data-photo-covered', covered); }
+    if (!covered) {
+      const transform = 'matrix(' + [frame.scale,0,0,frame.scale,frame.left,frame.top].join(',') + ')';
+      if (transform !== photoTransform) {
+        photoTransform = transform;
+        photo.style.width = photo.naturalWidth + 'px';
+        photo.style.height = photo.naturalHeight + 'px';
+        photo.style.transform = transform;
+      }
+    }
     const turns = motion.matches ? 0 : time / cover.orbit.period + drive * .15 + gaze.x * .018;
     drawOrbit(ctx, art, cover, frame, photo.naturalWidth, w, h, dpr, turns);
     opening.update({width:w, height:h, elapsed:drive, progress:exit, time, speed, still:!moving,

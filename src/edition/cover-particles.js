@@ -9,6 +9,9 @@ const fieldSettings = {
 const desktopLimit = 262144;
 const phoneLimit = 85000;
 const fallbackLimit = 4200;
+// Medium and low graphics tiers (typically integrated GPUs) draw fewer points.
+const tierLimits = { 1: phoneLimit, 2: 160000 };
+const tierLimit = () => tierLimits[document.documentElement.dataset.renderTier] ?? desktopLimit;
 
 function pointSamples(count) {
   let seed = 21;
@@ -142,7 +145,7 @@ function createGpuRenderer(canvas, photo) {
         gl.drawArrays(gl.TRIANGLE_STRIP, 0, 4);
         gl.disableVertexAttribArray(base.attribute);
 
-        const count = Math.min(width <= 600 ? phoneLimit : desktopLimit, Math.ceil(width*height/4.8));
+        const count = Math.min(width <= 600 ? phoneLimit : tierLimit(), Math.ceil(width*height/4.8));
         bind(points, 3, crop);
         gl.uniform1i(points.uniforms.uFluid, 1);
         gl.uniform1f(points.uniforms.uTime, time);

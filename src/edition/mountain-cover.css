@@ -22,7 +22,9 @@
   background: linear-gradient(180deg, rgba(10,12,13,.48), transparent 16%, transparent 62%, rgba(8,15,13,.42) 80%, rgba(6,13,10,.89));
 }
 .mountain-cover[data-gpu-wipe], .mountain-cover[data-departed] { opacity: 0; }
-.mountain-cover .opening-wipe-fallback { z-index: 1; }
+/* The particle canvas paints the photograph opaquely on top. */
+/* Opacity rather than visibility keeps the photo's alt text exposed. */
+.mountain-cover[data-photo-covered] > img { opacity: 0; }.mountain-cover .opening-wipe-fallback { z-index: 1; }
 .opening-chapter-poster {
   position: sticky;
   display: block;

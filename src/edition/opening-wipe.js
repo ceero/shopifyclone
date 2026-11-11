@@ -13,16 +13,21 @@ export function createOpeningSurface(stage, photo, title, canvas, arrival, reque
   const maskContext = mask.getContext('2d');
   const fallback = canvas.getContext('2d');
   let frame, currentVersion = 0, paintedVersion = -1, shade, lastWidth, lastHeight;
-  let gpuActive = false, disposed = false;
+  let gpuActive = false, disposed = false, lastTint, lastTitle;
 
   function update(next) {
     frame = next;
     currentVersion++;
     const active = next.progress > 0 && next.progress < 1;
-    section.toggleAttribute('data-opening-wipe', active);
-    section.style.setProperty('--opening-controls', next.tint);
-    stage.style.setProperty('--opening-tint', next.tint);
-    title.style.opacity = next.titleOpacity;
+    // These run every animation frame; only touch styles when values change so
+    // the hero subtree is not re-styled on idle frames.
+    if (active !== section.hasAttribute('data-opening-wipe')) section.toggleAttribute('data-opening-wipe', active);
+    if (next.tint !== lastTint) {
+      lastTint = next.tint;
+      section.style.setProperty('--opening-controls', next.tint);
+      stage.style.setProperty('--opening-tint', next.tint);
+    }
+    if (next.titleOpacity !== lastTitle) { lastTitle = next.titleOpacity; title.style.opacity = next.titleOpacity; }
     if (!active || gpuActive || !fallback || !arrival.naturalWidth) {
       canvas.hidden = true;
       return;
