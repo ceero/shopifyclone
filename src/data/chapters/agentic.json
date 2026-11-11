@@ -1,0 +1,571 @@
+{
+  "id": "gid://shopify/Collection/293666127966",
+  "handle": "agentic",
+  "title": "Agentic",
+  "descriptionHtml": "<p>The only platform you need to be in every AI channel</p>",
+  "sceneText": null,
+  "sceneType": null,
+  "hideSubsectionTitles": true,
+  "tooltipText": null,
+  "theatreSheetUrl": "/media/agentic-prod-2026-06-15T14-54-12.json",
+  "mobileFallbackBackground": {
+    "altText": null,
+    "height": 1034,
+    "id": "gid://shopify/ImageSource/26631898464350",
+    "url": "/media/agentic-mobile-optimized.webp",
+    "width": 1000,
+    "__typename": "Image"
+  },
+  "desktopFallbackBackground": {
+    "altText": null,
+    "height": 1116,
+    "id": "gid://shopify/ImageSource/26635757355102",
+    "url": "/media/prod-2-agentic-optimized.webp",
+    "width": 2000,
+    "__typename": "Image"
+  },
+  "products": [],
+  "nestedCollections": [
+    {
+      "id": "gid://shopify/Collection/293666160734",
+      "handle": "agentic-discovery",
+      "title": "Discovery",
+      "descriptionHtml": "",
+      "sceneText": null,
+      "sceneType": null,
+      "hideSubsectionTitles": false,
+      "tooltipText": null,
+      "theatreSheetUrl": null,
+      "mobileFallbackBackground": null,
+      "desktopFallbackBackground": null,
+      "products": [
+        {
+          "headlineTitle": "Your products optimized for AI",
+          "isxxl": true,
+          "knockout": true,
+          "id": "gid://shopify/Product/7576948768862",
+          "handle": "agentic-storefronts-insights",
+          "title": "Agentic Storefronts insights",
+          "descriptionHtml": "<p>Shopify gets your products in AI channels automatically. See how you’re performing, track sales, and get guidance on what’s missing to drive conversion.</p>",
+          "ctas": [
+            {
+              "title": "Learn about selling in AI",
+              "url": "https://help.shopify.com/en/manual/online-sales-channels/agentic-storefronts/agentic-home",
+              "ariaLabel": null
+            },
+            {
+              "title": "Find out how your products are doing",
+              "url": "https://admin.shopify.com/agentic",
+              "ariaLabel": null,
+              "authenticated": true
+            }
+          ],
+          "productMedia": {
+            "customVideo": {
+              "h264DesktopW1250": "/media/3b01db6053db7965448793f1bc13f50d.mp4",
+              "h264DesktopW2500": "/media/791b0c232a421d18feaafd5eb3b90ca7.mp4",
+              "h264MobileW1440": "/media/2d084d9775b0aa28ac6166bf9a6cb9b8.mp4",
+              "h264MobileW720": "/media/3a4b0db24c385d9664e754f1fbdbed58.mp4",
+              "hevcDesktopW1250": "/media/b031d73ba61400e01f5eb194c1992165.mp4",
+              "hevcDesktopW2500": "/media/b41ff67561ae47d8de8f4a23968c3a01.mp4",
+              "hevcMobileW1440": "/media/df337241e63c9cc37c08876074e1c88d.mp4",
+              "hevcMobileW720": "/media/fdf791ee6e039ab00761ff9fcd7574a0.mp4",
+              "isStacked": true,
+              "mp4DesktopW1250": "/media/f72ede00ec19f444ba0ad3ee57210b8b.mp4",
+              "mp4DesktopW2500": "/media/110612a2a2600570141366a529c4b290.mp4",
+              "mp4MobileW1440": "/media/d7082b3ad4775958fd082a64c11fd7e8.mp4",
+              "mp4MobileW720": "/media/78dd1914f11c449c2dc24466da2a824d.mp4",
+              "posterDesktop": "/media/3b005b6be5fa9a10cfd5c9b11462cd02.png",
+              "posterMobile": "/media/e2850c7aafd5afcfdde65e54e67a225d.png",
+              "title": "Agentic Storefronts insights - Generated Video",
+              "webmDesktopW1250": "/media/f0ddf5830acf2dfeb46098cfa46b0b60.webm",
+              "webmDesktopW2500": "/media/2748f4f679ee12871fa4889f493856bb.webm",
+              "webmMobileW1440": "/media/23ce12d14bd9ff25646b97e789f2efe8.webm",
+              "webmMobileW720": "/media/1b2d744acf5ef8467722844ab37ee0f5.webm"
+            },
+            "youtubeId": "K1nR7pe49cM"
+          },
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Product data structured for agents",
+          "headlineTooltip": "Read help doc",
+          "knockout": true,
+          "id": "gid://shopify/Product/7580273836126",
+          "handle": "shopify-catalog-structured-data",
+          "title": "Shopify Catalog structured data",
+          "descriptionHtml": "<p><a href=\"https://www.shopify.com/blog/what-is-shopify-catalog\" target=\"_blank\" title=\"Learn more\">Shopify Catalog</a> automatically standardizes and enriches your product data. Data syndicated by Shopify drives 2x more conversion in AI chats.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://help.shopify.com/en/manual/promoting-marketing/seo/shopify-catalog",
+              "ariaLabel": null
+            }
+          ],
+          "productMedia": {
+            "image": {
+              "altText": "Close-up of structured data for a product with fields and values highlighted in green on a dark background, representing how Shopify Catalog organizes product data for AI agents",
+              "height": 600,
+              "id": "gid://shopify/ImageSource/26095304802398",
+              "url": "/media/U207_Shopify_Catalog_desktop-fallback.png",
+              "width": 800
+            }
+          },
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Checkout on more surfaces",
+          "headlineTooltip": "Read help doc",
+          "knockout": true,
+          "id": "gid://shopify/Product/7576948834398",
+          "handle": "universal-commerce-protocol-copilot-meta-shop-pay",
+          "title": "Universal Commerce Protocol: Copilot, Meta, Shop Pay",
+          "descriptionHtml": "<p>Shopping in Copilot, and soon Meta ads, is powered by the Universal Commerce Protocol. Customers can purchase directly in chat and pay with Shop Pay in Copilot.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://help.shopify.com/en/manual/online-sales-channels/agentic-storefronts/ai-channels-with-built-in-checkout",
+              "ariaLabel": null
+            }
+          ],
+          "productMedia": {
+            "customVideo": {
+              "h264DesktopW1000": "/media/71ddc87979192d9f421290a3ec07c0fc.mp4",
+              "h264DesktopW500": "/media/91edf78ab725331619b93f88ad967aaf.mp4",
+              "h264MobileW1440": "/media/6643be5c9466a1c432ae2b30fe39d8d1.mp4",
+              "h264MobileW720": "/media/ec1939e576054eceb7bdae2ef3066017.mp4",
+              "hevcDesktopW1000": "/media/e458f5375856e405558be45a5e751c59.mp4",
+              "hevcDesktopW500": "/media/ddc902e14f6f3c0c7184ac215e03b894.mp4",
+              "hevcMobileW1440": "/media/f8d15c9002fb79fc208d80a953f53579.mp4",
+              "hevcMobileW720": "/media/25633aa060dfe7ae5758d9a9591530aa.mp4",
+              "isStacked": true,
+              "mp4DesktopW1000": "/media/492df30d353c0a79c2e828dbd7befaa9.mp4",
+              "mp4DesktopW500": "/media/1bfd19744a42ce7b2f05b25e2d38f9aa.mp4",
+              "mp4MobileW1440": "/media/45dd49dd1c5cc3887223d2e5522e925b.mp4",
+              "mp4MobileW720": "/media/a305dd8f4a71844ede181cdf4371bb0b.mp4",
+              "posterDesktop": "/media/90d0835280024545f48f014fb9afcb83.png",
+              "posterMobile": "/media/90d0835280024545f48f014fb9afcb83.png",
+              "title": "u-14-checkouts-in-ai-chats - Generated Video",
+              "webmDesktopW1000": "/media/5af1945ebbc705596cdf759e2eef287b.webm",
+              "webmDesktopW500": "/media/c9059ccaabb0fa2a76627d2645433832.webm",
+              "webmMobileW1440": "/media/78d1aff4f6e92c8ce33a0907691badeb.webm",
+              "webmMobileW720": "/media/4cc8a2f21555a91aed988964710d30c6.webm"
+            },
+            "rive": {
+              "aspectRatio": "4:3",
+              "description": "A smartphone shows an AI chat assistant recommending a lime-green Viviane Tote handbag with product details, price, and a Buy button to check out inside the conversation",
+              "fallbackImage": {
+                "altText": "",
+                "height": 600,
+                "id": "gid://shopify/ImageSource/26297175441502",
+                "url": "/media/U14_checkoutinaichats.png",
+                "width": 800
+              },
+              "fontsFull": [
+                {
+                  "id": "gid://shopify/GenericFile/25808766206046",
+                  "mimeType": "text/plain",
+                  "url": "/media/Inter.txt"
+                },
+                {
+                  "id": "gid://shopify/GenericFile/26550767878238",
+                  "mimeType": "text/plain",
+                  "url": "/media/GintoCopilotUprightVariable.txt"
+                }
+              ],
+              "posterImage": {
+                "image": {
+                  "altText": "",
+                  "height": 600,
+                  "id": "gid://shopify/ImageSource/26297175441502",
+                  "url": "/media/U14_checkoutinaichats.png",
+                  "width": 800
+                }
+              },
+              "posterImageMobile": null,
+              "fallbackImageMobile": null,
+              "globalRiveEnabled": "enabled",
+              "lazyRiveRuntime": true
+            }
+          },
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Agentic plan",
+          "headlineTooltip": "Learn more",
+          "knockout": true,
+          "id": "gid://shopify/Product/7580268363870",
+          "handle": "agentic-plan",
+          "title": "Agentic plan",
+          "descriptionHtml": "<p>Businesses not on Shopify can sync their products to Shopify Catalog and sell across AI channels and in the Shop app.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://www.shopify.com/agentic-plan",
+              "ariaLabel": null
+            }
+          ],
+          "productMedia": {
+            "rive": {
+              "aspectRatio": "4:3",
+              "description": "A branching diagram connecting a single source to the logos of four leading AI assistants, including OpenAI, Microsoft Copilot, and Google, with green arrows showing products syndicated across agentic channels",
+              "fallbackImage": {
+                "altText": "",
+                "height": 600,
+                "id": "gid://shopify/ImageSource/26418391220318",
+                "url": "/media/U205_Agentic_Plan.png",
+                "width": 800
+              },
+              "posterImage": {
+                "image": {
+                  "altText": "",
+                  "height": 600,
+                  "id": "gid://shopify/ImageSource/26459198423134",
+                  "url": "/media/0_9e0dee50-935d-4ed6-9902-5806efb9c803.png",
+                  "width": 800
+                }
+              },
+              "posterImageMobile": null,
+              "fallbackImageMobile": null,
+              "globalRiveEnabled": "enabled",
+              "lazyRiveRuntime": true
+            }
+          },
+          "mobileHeadlineTitle": null
+        }
+      ],
+      "scenePresetName": null,
+      "drivePortalTargetSceneName": null
+    },
+    {
+      "id": "gid://shopify/Collection/293666193502",
+      "handle": "agentic-development",
+      "title": "Development",
+      "descriptionHtml": "",
+      "sceneText": null,
+      "sceneType": null,
+      "hideSubsectionTitles": false,
+      "tooltipText": null,
+      "theatreSheetUrl": null,
+      "mobileFallbackBackground": null,
+      "desktopFallbackBackground": null,
+      "products": [
+        {
+          "headlineTitle": "The open protocol for agentic commerce",
+          "isxxl": true,
+          "knockout": true,
+          "id": "gid://shopify/Product/7576949227614",
+          "handle": "universal-commerce-protocol",
+          "title": "Universal Commerce Protocol",
+          "descriptionHtml": "<p>Build agentic shopping experiences from discovery to purchase with Catalog, Cart, and Checkout MCPs powered by the Universal Commerce Protocol.</p>",
+          "ctas": [
+            {
+              "title": "Explore dev docs",
+              "url": "https://shopify.dev/docs/agents",
+              "ariaLabel": null
+            }
+          ],
+          "productMedia": {
+            "customVideo": {
+              "h264DesktopW1250": "/media/5783f8b3678660f47ba07cec62accf8b.mp4",
+              "h264DesktopW2500": "/media/2763b89ead87bd958ee5135a4cfb9ebf.mp4",
+              "h264MobileW1440": "/media/2a19ca43ce573250211fa0e5c9b17d5f.mp4",
+              "h264MobileW720": "/media/a412fdd7c3b989ceac9b64af756b244a.mp4",
+              "hevcDesktopW1250": "/media/3c6e716188000f40971a8877df219db0.mp4",
+              "hevcDesktopW2500": "/media/15885462a2b0061b8a7da8e937b256b9.mp4",
+              "hevcMobileW1440": "/media/198ac05ab2463b8497b27d7a330bdec3.mp4",
+              "hevcMobileW720": "/media/9f424803b0811806c28bc3e9906371fb.mp4",
+              "isStacked": true,
+              "mp4DesktopW1250": "/media/435ee0223fd2d8c630a39cd2f6f3739c.mp4",
+              "mp4DesktopW2500": "/media/6fb8129539414dd76b16cfaac9e85a67.mp4",
+              "mp4MobileW1440": "/media/1d36ff941e0477be897192f2f562aa2e.mp4",
+              "mp4MobileW720": "/media/1e82a5663cbe723a336c3656dfc981ef.mp4",
+              "posterDesktop": "/media/91c43550318219a1d4393cb8d5062fd4.png",
+              "posterMobile": "/media/91c43550318219a1d4393cb8d5062fd4.png",
+              "title": "Universal Commerce Protocol - Generated Video",
+              "webmDesktopW1250": "/media/eded97f3ecb66a918a7124d31f10343f.webm",
+              "webmDesktopW2500": "/media/2011104a01abc00ebe6d56bbbf32d8dc.webm",
+              "webmMobileW1440": "/media/96bca16789347a5e397704e86b1a06b3.webm",
+              "webmMobileW720": "/media/7528c09824c0753334004bbf138c9c67.webm"
+            },
+            "image": {
+              "altText": "",
+              "height": 720,
+              "id": "gid://shopify/ImageSource/26421520793694",
+              "url": "/media/The_only_protocol_for_commerce_preroll_still.png",
+              "width": 1280
+            },
+            "youtubeId": "mWRMjEIh4hE"
+          },
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Sponsored products with Catalog API",
+          "headlineTooltip": "Read dev docs",
+          "isxxl": false,
+          "knockout": true,
+          "id": "gid://shopify/Product/7630199226462",
+          "handle": "sponsored-products-with-catalog-api",
+          "title": "Sponsored products with Catalog API",
+          "descriptionHtml": "<p>Earn revenue on sales made in your agentic experiences with Catalog API. Developer preview coming soon.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://shopify.dev/docs/agents/catalog#earn-with-paid-placements",
+              "ariaLabel": null
+            }
+          ],
+          "productMedia": {
+            "image": {
+              "altText": "A row of product recommendation cards showing apparel, including a green dress, surfaced through the Catalog API",
+              "height": 600,
+              "id": "gid://shopify/ImageSource/26418577440862",
+              "url": "/media/U286_Affilate_links_in_catalog.png",
+              "width": 800
+            }
+          },
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Catalog API supports Shop sign-in",
+          "headlineTooltip": "Read dev docs",
+          "isxxl": false,
+          "knockout": true,
+          "id": "gid://shopify/Product/7630199193694",
+          "handle": "catalog-api-supports-shop-sign-in",
+          "title": "Catalog API supports Shop sign-in",
+          "descriptionHtml": "<p>Add Shop sign-in to experiences built with Catalog API, so shoppers can connect their Shop account. Personalized search results coming soon.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://shopify.dev/docs/agents/profiles/auth-and-rate-limiting#token",
+              "ariaLabel": null
+            }
+          ],
+          "productMedia": {
+            "customVideo": {
+              "h264DesktopW1000": "/media/d8f2573442e2242fbba0aff2a87125ca.mp4",
+              "h264DesktopW500": "/media/d6ccdab32c827b276ec2ae28360b7268.mp4",
+              "h264MobileW1440": "/media/0faeffeb42d9b2c951375499322059ea.mp4",
+              "h264MobileW720": "/media/b3862dcf8bad321c21c55a51f0d92693.mp4",
+              "hevcDesktopW1000": "/media/88615a0a562f638e43ea2aa09445fb48.mp4",
+              "hevcDesktopW500": "/media/8e34a375d4a88125bd25e225964e83bc.mp4",
+              "hevcMobileW1440": "/media/2b01b72c8996dcbaa463760ee17a49ed.mp4",
+              "hevcMobileW720": "/media/0c6b188ad5724be9495070b417c1141d.mp4",
+              "isStacked": true,
+              "mp4DesktopW1000": "/media/d1e28f5e5f99764e9690ad86bb202e8c.mp4",
+              "mp4DesktopW500": "/media/0560de7243f6bb2b38aa9ebf6c48f55e.mp4",
+              "mp4MobileW1440": "/media/d205e08a2c1a69a1e6820a2ab4c1b96b.mp4",
+              "mp4MobileW720": "/media/84a9907857ef4b848884c0d4d7a1d926.mp4",
+              "posterDesktop": "/media/897639d901ad579ec859c3e1f2ea98f0.png",
+              "posterMobile": "/media/586bec714d0ddefc03f3397b82c30f2b.png",
+              "title": "u-285-personalized-recommendations-in-ai - Generated Video",
+              "webmDesktopW1000": "/media/517e0fe1a3ac18de6e1ca810494d9ea0.webm",
+              "webmDesktopW500": "/media/e3a607808391d00f552266cec1a560a5.webm",
+              "webmMobileW1440": "/media/ae18c530b49dfbec614daaf62a1050e4.webm",
+              "webmMobileW720": "/media/58809ace7f8e3038413eb2e0981c4e77.webm"
+            },
+            "rive": {
+              "description": "A \"Sign in with Shop\" card showing shopper Stella Bandoc's profile photo, name, and email above a purple \"Sign in with Shop\" button",
+              "fallbackImage": {
+                "altText": "",
+                "height": 600,
+                "id": "gid://shopify/ImageSource/26418651332702",
+                "url": "/media/U285_Personalized_AI_Chats.png",
+                "width": 800
+              },
+              "fontsFull": [
+                {
+                  "id": "gid://shopify/GenericFile/25808766206046",
+                  "mimeType": "text/plain",
+                  "url": "/media/Inter.txt"
+                },
+                {
+                  "id": "gid://shopify/GenericFile/26550801170526",
+                  "mimeType": "text/plain",
+                  "url": "/media/GT-Standard-L-Standard-Heavy.txt"
+                },
+                {
+                  "id": "gid://shopify/GenericFile/26553020907614",
+                  "mimeType": "text/plain",
+                  "url": "/media/JetBrainsMono.txt"
+                }
+              ],
+              "posterImage": {
+                "image": {
+                  "altText": "",
+                  "height": 600,
+                  "id": "gid://shopify/ImageSource/26418651332702",
+                  "url": "/media/U285_Personalized_AI_Chats.png",
+                  "width": 800
+                }
+              },
+              "posterImageMobile": null,
+              "fallbackImageMobile": null,
+              "globalRiveEnabled": "enabled",
+              "lazyRiveRuntime": true
+            }
+          },
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Experiences built with Catalog API and UCP",
+          "headlineTooltip": "Read dev docs",
+          "knockout": true,
+          "id": "gid://shopify/Product/7608080662622",
+          "handle": "experiences-built-with-catalog-api-and-universal-commerce-protocol",
+          "title": "Experiences built with Catalog API and Universal Commerce Protocol",
+          "descriptionHtml": "<p>Create new ways to shop. Check out our demos: plan for a trip, ask an agent for board games, get inspiration from shows, browse photo lookalikes, and shop your star sign.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://shopify.dev/docs/agents/catalog/global-catalog",
+              "ariaLabel": null
+            }
+          ],
+          "productMedia": {
+            "image": {
+              "altText": "Rotating visuals that represent different shopping experiences built with Catalog API and Universal Commerce Protocol",
+              "height": 600,
+              "id": "gid://shopify/ImageSource/26418692325470",
+              "url": "/media/U265_Goldrush.png",
+              "width": 800
+            }
+          },
+          "mobileHeadlineTitle": null,
+          "demos": [
+            {
+              "label": "All Set demo",
+              "href": "https://www.shopify.com/editions/demos/all-set",
+              "src": "/media/0028ea4b62ed4b419a6959483bca6f82.HD-720p-1.6Mbps-86306909.mp4",
+              "poster": "/media/Allset2_1.webp",
+              "orientation": "landscape",
+              "icon": {
+                "altText": "",
+                "height": 256,
+                "id": "gid://shopify/ImageSource/26487845847134",
+                "url": "/media/bf9a39a71cf448e22ac39ccf12009201df9dd0c3.webp",
+                "width": 256
+              },
+              "ariaLabel": "Open the \"All Set\" demo"
+            },
+            {
+              "label": "Sourced demo",
+              "href": "https://www.shopify.com/editions/demos/sourced",
+              "src": "/media/744a0dc565394d169befe4bb03c22565.HD-720p-1.6Mbps-86306911.mp4",
+              "poster": "/media/sourced-preview-poster.jpg",
+              "orientation": "landscape",
+              "icon": {
+                "altText": "",
+                "height": 256,
+                "id": "gid://shopify/ImageSource/26487845912670",
+                "url": "/media/832b993ccb541296640cd496a6e116e37bb32b03.webp",
+                "width": 256
+              },
+              "ariaLabel": "Open the \"Sourced\" demo"
+            },
+            {
+              "label": "Starred demo",
+              "href": "https://www.shopify.com/editions/demos/starred",
+              "src": "/media/32eed937a98a470ca75d56f490f24fc1.HD-720p-1.6Mbps-86306913.mp4",
+              "poster": "/media/starred_2_1.webp",
+              "orientation": "landscape",
+              "icon": {
+                "altText": "",
+                "height": 256,
+                "id": "gid://shopify/ImageSource/26487845814366",
+                "url": "/media/ba40aa832f65efb4a9093b0d2264806c8a4698b7.webp",
+                "width": 256
+              },
+              "ariaLabel": "Open the \"Starred\" demo"
+            },
+            {
+              "label": "Showroom demo",
+              "href": "https://www.shopify.com/editions/demos/showroom",
+              "src": "/media/dbf84ed2b27140c883759e1a0f54ffdd.HD-720p-2.1Mbps-86306439.mp4",
+              "poster": "/media/the_showroom_2.webp",
+              "orientation": "landscape",
+              "icon": {
+                "altText": "",
+                "height": 256,
+                "id": "gid://shopify/ImageSource/26487845879902",
+                "url": "/media/aa1932a0fe7cb247a14d97cc94afb74a097e9367.webp",
+                "width": 256
+              },
+              "iconHasBorder": true,
+              "ariaLabel": "Open the \"Showroom\" demo"
+            },
+            {
+              "label": "Pippin demo",
+              "href": "https://www.shopify.com/editions/demos/pippin",
+              "src": "/media/9ec279e2e833435baa39393b3f6676f1.HD-720p-1.6Mbps-86713745.mp4",
+              "poster": "/media/s26_pippin_new_0616_poster.jpg",
+              "orientation": "landscape",
+              "icon": {
+                "altText": "",
+                "height": 256,
+                "id": "gid://shopify/ImageSource/26487845781598",
+                "url": "/media/81e4fdf4eec665e57395f1bda8a415deea91c4e6.webp",
+                "width": 256
+              },
+              "ariaLabel": "Open the \"pippin\" demo"
+            }
+          ],
+          "isDemoCard": true
+        },
+        {
+          "headlineTitle": "Catalog API image search",
+          "headlineTooltip": "Read dev docs",
+          "id": "gid://shopify/Product/7580268494942",
+          "handle": "catalog-api-image-search",
+          "title": "Catalog API image search",
+          "descriptionHtml": "<p>Agents can pass images directly to the Catalog API to return visually similar products and enhance search capabilities.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://shopify.dev/docs/agents/catalog/global-catalog#search_catalog",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Catalog API product lookup",
+          "headlineTooltip": "Read dev docs",
+          "id": "gid://shopify/Product/7580268462174",
+          "handle": "catalog-api-product-lookup",
+          "title": "Catalog API product lookup",
+          "descriptionHtml": "<p>Use the product ID or URL to retrieve real-time data, like pricing and availability, for up to 50 products in a single request.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://shopify.dev/docs/agents/catalog/global-catalog#lookup_catalog",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Richer product data in agentic experiences",
+          "headlineTooltip": "Read dev docs",
+          "id": "gid://shopify/Product/7580268560478",
+          "handle": "richer-product-data-in-agentic-experiences-with-catalog-api",
+          "title": "Richer product data in agentic experiences with Catalog API",
+          "descriptionHtml": "<p>Agents can show product details from the Catalog API, including media, variants, availability, and offers from multiple sellers.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://shopify.dev/docs/agents/catalog/global-catalog-extension",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        }
+      ],
+      "scenePresetName": null,
+      "drivePortalTargetSceneName": null
+    }
+  ],
+  "scenePresetName": "prod-2-agentic",
+  "drivePortalTargetSceneName": null
+}

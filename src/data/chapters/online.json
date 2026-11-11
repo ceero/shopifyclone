@@ -1,0 +1,723 @@
+{
+  "id": "gid://shopify/Collection/293896552542",
+  "handle": "online",
+  "title": "Online",
+  "descriptionHtml": "",
+  "sceneText": null,
+  "sceneType": null,
+  "hideSubsectionTitles": true,
+  "tooltipText": null,
+  "theatreSheetUrl": "/media/online-prod-update-2026-06-22T16-43-19.json",
+  "mobileFallbackBackground": {
+    "altText": null,
+    "height": 1034,
+    "id": "gid://shopify/ImageSource/26635759812702",
+    "url": "/media/prod-4-online-mobile_31100904-c72b-4964-ac6c-a2735ccdc1f4-optimized.webp",
+    "width": 1000,
+    "__typename": "Image"
+  },
+  "desktopFallbackBackground": {
+    "altText": null,
+    "height": 1116,
+    "id": "gid://shopify/ImageSource/26635759911006",
+    "url": "/media/prod-4-online-optimized.webp",
+    "width": 2000,
+    "__typename": "Image"
+  },
+  "products": [],
+  "nestedCollections": [
+    {
+      "id": "gid://shopify/Collection/292893720670",
+      "handle": "online-store",
+      "title": "Online store",
+      "descriptionHtml": "",
+      "sceneText": null,
+      "sceneType": null,
+      "hideSubsectionTitles": false,
+      "tooltipText": null,
+      "theatreSheetUrl": null,
+      "mobileFallbackBackground": null,
+      "desktopFallbackBackground": null,
+      "products": [
+        {
+          "headlineTitle": "Your AI sales associate",
+          "eyebrow": "Online store",
+          "isxxl": true,
+          "knockout": true,
+          "id": "gid://shopify/Product/7576949063774",
+          "handle": "ai-sales-associate-from-shopify-inbox",
+          "title": "AI sales associate from Shopify Inbox",
+          "descriptionHtml": "<p>Help drive sales with an AI assistant on your online store from our messaging tool <a href=\"https://www.shopify.com/inbox\" target=\"_blank\" title=\"Learn more\">Shopify Inbox</a>. For customers signed in with Shop, it recommends products based on their history.</p>",
+          "ctas": [
+            {
+              "title": "Explore AI messaging apps",
+              "url": "https://apps.shopify.com/collections/ai-shopping-assistants",
+              "ariaLabel": null
+            }
+          ],
+          "xxlButtonCtas": [
+            {
+              "title": "Get Shopify Inbox",
+              "url": "https://apps.shopify.com/inbox",
+              "ariaLabel": "Get Shopify Inbox"
+            }
+          ],
+          "productMedia": {
+            "rive": {
+              "aspectRatio": "16:9",
+              "description": "An AI agent asks the shopper what they're looking for, and the shopper asks for a curated outfit for a trip to Spain. The agent shares products from the store in a curated collection.",
+              "fallbackImage": {
+                "altText": "",
+                "height": 1530,
+                "id": "gid://shopify/ImageSource/26582974300254",
+                "url": "/media/U41_Inbox_fallback.png",
+                "width": 2720
+              },
+              "fallbackImageMobile": {
+                "altText": "",
+                "height": 590,
+                "id": "gid://shopify/ImageSource/26582976036958",
+                "url": "/media/U41_Inbox_mobile_fallback.png",
+                "width": 786
+              },
+              "fontsFull": [
+                {
+                  "id": "gid://shopify/GenericFile/25808766206046",
+                  "mimeType": "text/plain",
+                  "url": "/media/Inter.txt"
+                },
+                {
+                  "id": "gid://shopify/GenericFile/26549589639262",
+                  "mimeType": "text/plain",
+                  "url": "/media/RadioCanadaBig.txt"
+                }
+              ],
+              "mobileAspectRatio": "4:3",
+              "playsOnHover": false,
+              "posterImage": {
+                "image": {
+                  "altText": "",
+                  "height": 1530,
+                  "id": "gid://shopify/ImageSource/26582921019486",
+                  "url": "/media/u41_poster_desktop_en.webp",
+                  "width": 2720
+                }
+              },
+              "posterImageMobile": {
+                "image": {
+                  "altText": "",
+                  "height": 1530,
+                  "id": "gid://shopify/ImageSource/26582922461278",
+                  "url": "/media/u41_poster_mobile_en.webp",
+                  "width": 2040
+                }
+              },
+              "globalRiveEnabled": "enabled",
+              "lazyRiveRuntime": true
+            }
+          },
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Storefront search delivers more results",
+          "headlineTooltip": "Read help doc",
+          "eyebrow": "Online store",
+          "knockout": true,
+          "id": "gid://shopify/Product/7641747193950",
+          "handle": "storefront-search-delivers-more-results",
+          "title": "Storefront search delivers more results",
+          "descriptionHtml": "<p>Even when shoppers search on your store using typos or unusual phrasing, they'll get relevant results.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://help.shopify.com/en/manual/online-store/storefront-search",
+              "ariaLabel": null
+            }
+          ],
+          "productMedia": {
+            "image": {
+              "altText": "Storefront search results show several jackets in muted tones even though the query was typed incorrectly in the search field",
+              "height": 600,
+              "id": "gid://shopify/ImageSource/26418835587166",
+              "url": "/media/U300_Storefront_search_fallback.png",
+              "width": 800
+            }
+          },
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "AI-powered store analysis on any theme",
+          "headlineTooltip": "Read help doc",
+          "eyebrow": "Online store",
+          "knockout": true,
+          "id": "gid://shopify/Product/7576950341726",
+          "handle": "ai-powered-store-analysis-on-any-theme-with-simgym",
+          "title": "AI-powered store analysis on any theme with SimGym",
+          "descriptionHtml": "<p>Analyze a single theme to get ideas from AI-simulated shoppers on ways to improve your store with SimGym.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://help.shopify.com/en/manual/online-store/simgym#simulations",
+              "ariaLabel": null
+            }
+          ],
+          "productMedia": {
+            "customVideo": {
+              "h264DesktopW1000": "/media/06ac60e8d7e97eb71699f44ff486ae57.mp4",
+              "h264DesktopW500": "/media/f7baccd593d4939e4d65577462629331.mp4",
+              "h264MobileW1440": "/media/5cc23aa8db6169e7775269ba3dc2093a.mp4",
+              "h264MobileW720": "/media/0da0f209b439641a3da3cc420d7f733f.mp4",
+              "hevcDesktopW1000": "/media/dd9240d0242a7aa560db56d86fcafb43.mp4",
+              "hevcDesktopW500": "/media/7fc01c5e8fae19b7a9ce5bf0e3dd4164.mp4",
+              "hevcMobileW1440": "/media/bd86ab47a60cc90e8ee116acdf3c8224.mp4",
+              "hevcMobileW720": "/media/b8124f0f541703efda3f2dcb21a6b032.mp4",
+              "isStacked": true,
+              "mp4DesktopW1000": "/media/8f2fbeabc22033dba2bf0301cfc2f4ee.mp4",
+              "mp4DesktopW500": "/media/0c65b0df513f04bab6d8aaa9e2755ecf.mp4",
+              "mp4MobileW1440": "/media/6c7820f48354078e853cfc5e47673a49.mp4",
+              "mp4MobileW720": "/media/c52e332ad929231fef195d3633d0721e.mp4",
+              "posterDesktop": "/media/23944cb6e99a7475d6c63047ebc82ea7.png",
+              "posterMobile": "/media/f6a8dbe44923be3409a59363887d5bdd.png",
+              "title": "u-93-single-theme-analysis-with-sim-gym - Generated Video",
+              "webmDesktopW1000": "/media/0d36ce39098a91cd5cc2553cb6ad1855.webm",
+              "webmDesktopW500": "/media/501d7495d91fd8a23f1f2b1279a5ad7a.webm",
+              "webmMobileW1440": "/media/86ea357952717ef1a5c17f39a36d18cf.webm",
+              "webmMobileW720": "/media/398d6d021d927e612f13509693b63849.webm"
+            },
+            "rive": {
+              "aspectRatio": "4:3",
+              "fallbackImage": {
+                "altText": "",
+                "height": 600,
+                "id": "gid://shopify/ImageSource/26419159203934",
+                "url": "/media/U93_Analysis_with_SimGym_desktop-fallback_6ed298fa-2867-4df3-92be-392115791586.png",
+                "width": 800
+              },
+              "fontsFull": [
+                {
+                  "id": "gid://shopify/GenericFile/25808766206046",
+                  "mimeType": "text/plain",
+                  "url": "/media/Inter.txt"
+                },
+                {
+                  "id": "gid://shopify/GenericFile/26549589639262",
+                  "mimeType": "text/plain",
+                  "url": "/media/RadioCanadaBig.txt"
+                }
+              ],
+              "posterImageMobile": {
+                "image": {
+                  "altText": "",
+                  "height": 600,
+                  "id": "gid://shopify/ImageSource/26217189867614",
+                  "url": "/media/u93poster.png",
+                  "width": 800
+                }
+              },
+              "posterImage": null,
+              "fallbackImageMobile": null,
+              "globalRiveEnabled": "enabled",
+              "lazyRiveRuntime": true
+            }
+          },
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "A/B tests on online store and checkout",
+          "headlineTooltip": "Read help doc",
+          "headlineAuthTooltip": "Try it",
+          "eyebrow": "Online store",
+          "knockout": true,
+          "id": "gid://shopify/Product/7597468024926",
+          "handle": "a-b-tests-on-online-store-and-checkout",
+          "title": "A/B tests on online store and checkout",
+          "descriptionHtml": "<p>Publish a new theme, checkout configuration, or customer accounts setup at a scheduled time or as an A/B test using Rollouts.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://help.shopify.com/manual/markets-new/rollouts",
+              "ariaLabel": null
+            },
+            {
+              "title": null,
+              "url": "https://admin.shopify.com/rollouts",
+              "ariaLabel": null,
+              "authenticated": true
+            }
+          ],
+          "productMedia": {
+            "image": {
+              "altText": "A/B tests for a spring sale theme and spring checkout configuration are set to roll out to all site vistors on June 17 and roll back on June 21",
+              "height": 600,
+              "id": "gid://shopify/ImageSource/26582262644830",
+              "url": "/media/U249_Rollouts.png",
+              "width": 800
+            }
+          },
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Visualized markets graph",
+          "headlineTooltip": "Read help doc",
+          "eyebrow": "Online store",
+          "knockout": true,
+          "id": "gid://shopify/Product/7641747456094",
+          "handle": "visualized-markets-graph",
+          "title": "Visualized markets graph",
+          "descriptionHtml": "<p>Understand your <a href=\"https://www.shopify.com/markets\" target=\"_blank\" title=\"Learn more\">Shopify Markets</a> setup with a clearer view across discounts, products, and other settings for each market in one graph.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://help.shopify.com/manual/markets/graph-view",
+              "ariaLabel": null
+            }
+          ],
+          "productMedia": {
+            "image": {
+              "altText": "The markets section of the admin shows a line graph of international sales performance alongside summary metric cards",
+              "height": 600,
+              "id": "gid://shopify/ImageSource/26418816876638",
+              "url": "/media/U313_Improved_Markets_graph.png",
+              "width": 800
+            }
+          },
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Better online store editing on mobile",
+          "headlineTooltip": "Read help doc",
+          "eyebrow": "Online store",
+          "knockout": true,
+          "id": "gid://shopify/Product/7582953209950",
+          "handle": "better-editing-for-online-store-in-the-shopify-app",
+          "title": "Better editing for online store in the Shopify app",
+          "descriptionHtml": "<p>Edit your store in the <a href=\"https://www.shopify.com/mobile\" title=\"Get app\" target=\"_blank\">Shopify app</a> with controls designed for mobile, a preview that stays on-screen as you edit, and <a href=\"https://www.shopify.com/sidekick\" target=\"_blank\" title=\"Learn more\">Sidekick</a> built right in.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://help.shopify.com/en/manual/shopify-admin/shopify-app/mobile-online-store#theme-editor",
+              "ariaLabel": null
+            }
+          ],
+          "productMedia": {
+            "rive": {
+              "aspectRatio": "4:3",
+              "description": "A smartphone shows the VESNA online store being edited with a typed prompt to \"Add a 15% off accessories promo banner\" and a model in a pink jacket shown on the storefront",
+              "fallbackImage": {
+                "altText": "",
+                "height": 600,
+                "id": "gid://shopify/ImageSource/26453153382494",
+                "url": "/media/U223_Editing_in_Shopify_app_fallback.png",
+                "width": 800
+              },
+              "fontsFull": [
+                {
+                  "id": "gid://shopify/GenericFile/25808766206046",
+                  "mimeType": "text/plain",
+                  "url": "/media/Inter.txt"
+                },
+                {
+                  "id": "gid://shopify/GenericFile/26549589639262",
+                  "mimeType": "text/plain",
+                  "url": "/media/RadioCanadaBig.txt"
+                }
+              ],
+              "posterImage": {
+                "image": {
+                  "altText": "",
+                  "height": 600,
+                  "id": "gid://shopify/ImageSource/26550883156062",
+                  "url": "/media/u223-poster.png",
+                  "width": 800
+                }
+              },
+              "posterImageMobile": null,
+              "fallbackImageMobile": null,
+              "globalRiveEnabled": "enabled",
+              "lazyRiveRuntime": true
+            }
+          },
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Variant-level publishing for products",
+          "headlineTooltip": "Read help doc",
+          "eyebrow": "Online store",
+          "isxxl": false,
+          "knockout": true,
+          "id": "gid://shopify/Product/7580268658782",
+          "handle": "variant-level-publishing-for-products",
+          "title": "Variant-level publishing for products",
+          "descriptionHtml": "<p>Control which product variants are published by channel and per market without any workarounds.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://help.shopify.com/en/manual/products/variants/publish-variants",
+              "ariaLabel": null
+            }
+          ],
+          "productMedia": {
+            "image": {
+              "altText": "A product publishing panel displays options to manage sales-channel availability for seven individual product variants",
+              "height": 600,
+              "id": "gid://shopify/ImageSource/26418854723678",
+              "url": "/media/U215_Variant_level_product_publishing_fallback.png",
+              "width": 800
+            }
+          },
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Scheduling and testing for localized themes",
+          "headlineTooltip": "Read help doc",
+          "eyebrow": "Online store",
+          "id": "gid://shopify/Product/7576950145118",
+          "handle": "scheduling-and-testing-for-localized-themes-with-rollouts",
+          "title": "Scheduling and testing for localized themes with rollouts",
+          "descriptionHtml": "<p>Translate your theme across markets, then schedule to publish or A/B test it with Rollouts.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://help.shopify.com/en/manual/markets-new/rollouts",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Discounts by market",
+          "headlineTooltip": "Read help doc",
+          "eyebrow": "Online store",
+          "id": "gid://shopify/Product/7576952438878",
+          "handle": "discounts-by-market",
+          "title": "Discounts by market",
+          "descriptionHtml": "<p>Run targeted promotions for customers across specific regions, different retail locations, and B2B setups.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://help.shopify.com/en/manual/discounts#assign",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Sales channel control in markets",
+          "headlineTooltip": "Read help doc",
+          "eyebrow": "Online store",
+          "id": "gid://shopify/Product/7577055985758",
+          "handle": "sales-channel-control-in-markets",
+          "title": "Sales channel control in markets",
+          "descriptionHtml": "<p>Customize product availability, pricing, and currency for each sales channel connection with <a href=\"https://www.shopify.com/markets\" target=\"_blank\" title=\"Learn more\">Shopify Markets</a>.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://help.shopify.com/manual/online-sales-channels/channel-markets",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Product compliance disclosure",
+          "headlineTooltip": "Read help doc",
+          "eyebrow": "Online store",
+          "id": "gid://shopify/Product/7641747423326",
+          "handle": "mandatory-product-warnings-display-across-channels",
+          "title": "Mandatory product warnings display across channels",
+          "descriptionHtml": "<p>Add mandatory warnings on products and display them on your store, in AI channels, and the Shop app.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://help.shopify.com/manual/products/product-disclosures",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Stacking multiple product discounts",
+          "headlineTooltip": "Read help doc",
+          "eyebrow": "Online store",
+          "id": "gid://shopify/Product/7592461402206",
+          "handle": "stacking-multiple-product-discounts",
+          "title": "Stacking multiple product discounts",
+          "descriptionHtml": "<p>Apply multiple discounts to the same product in one order like a percentage off and fixed amount discount.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://help.shopify.com/en/manual/discounts/discount-combinations",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Refreshed customer accounts",
+          "headlineTooltip": "Learn more",
+          "eyebrow": "Online store",
+          "id": "gid://shopify/Product/7641747030110",
+          "handle": "refreshed-customer-accounts",
+          "title": "Refreshed customer accounts",
+          "descriptionHtml": "<p>Customer account pages feature intuitive navigation, branded sign-in, and recommendations for first-time shoppers.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://changelog.shopify.com/posts/customer-accounts-get-a-design-uplift",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Customer data syncs from identity providers",
+          "headlineTooltip": "Read help doc",
+          "eyebrow": "Online store",
+          "id": "gid://shopify/Product/7576949981278",
+          "handle": "customer-data-syncs-from-identity-providers",
+          "title": "Customer data syncs from identity providers",
+          "descriptionHtml": "<p>Sync profile fields and custom tags from supported identity providers like Auth0, Ping Identity, and Azure ID.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://help.shopify.com/en/manual/customers/customer-accounts/sign-in-options/identity-provider/sync-customer-data",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "365-day sessions for customer accounts",
+          "headlineTooltip": "Read help doc",
+          "eyebrow": "Online store",
+          "id": "gid://shopify/Product/7576949882974",
+          "handle": "365-day-sessions-for-customer-accounts",
+          "title": "365-day sessions for customer accounts",
+          "descriptionHtml": "<p>Customers stay signed in for a full year, making it easier for them to pick up where they left off.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://help.shopify.com/en/manual/customers/customer-accounts#:~:text=Sign%2Din%20sessions%20persist%20for%20up%20to%20365%20days",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Shopify Smart Pricing app",
+          "headlineTooltip": "Get app",
+          "eyebrow": "Online store",
+          "id": "gid://shopify/Product/7641746571358",
+          "handle": "brand-new-shopify-smart-pricing",
+          "title": "Brand-new Shopify Smart Pricing",
+          "descriptionHtml": "<p>Get product-level pricing tips based on your store's sales, inventory, costs, seasonality.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://apps.shopify.com/shopify-smart-pricing",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Better editing experience on laptops",
+          "eyebrow": "Online store",
+          "id": "gid://shopify/Product/7576949719134",
+          "handle": "better-editing-experience-on-laptops",
+          "title": "Better editing experience on laptops",
+          "descriptionHtml": "<p>The <a href=\"https://help.shopify.com/en/manual/online-store/themes/customizing-themes\" target=\"_blank\" title=\"Read help doc\">theme</a> and <a href=\"https://help.shopify.com/en/manual/checkout-settings/customize-checkout-configurations\" target=\"_blank\" title=\"Read help doc\">checkout</a> editors show your sections and settings side by side.</p>",
+          "ctas": [],
+          "mobileHeadlineTitle": null
+        }
+      ],
+      "scenePresetName": null,
+      "drivePortalTargetSceneName": null
+    },
+    {
+      "id": "gid://shopify/Collection/292893786206",
+      "handle": "online-b2b",
+      "title": "B2B",
+      "descriptionHtml": "",
+      "sceneText": null,
+      "sceneType": null,
+      "hideSubsectionTitles": false,
+      "tooltipText": null,
+      "theatreSheetUrl": null,
+      "mobileFallbackBackground": null,
+      "desktopFallbackBackground": null,
+      "products": [
+        {
+          "headlineTitle": "B2B features on more plans",
+          "headlineTooltip": "Read help doc",
+          "headlineAuthTooltip": "Try it",
+          "eyebrow": "B2B",
+          "knockout": true,
+          "id": "gid://shopify/Product/7576948998238",
+          "handle": "b2b-features-on-more-plans",
+          "title": "B2B features on more plans",
+          "descriptionHtml": "<p>Access company profiles, volume pricing, up to three B2B catalogs, and more from your admin at no extra cost.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://help.shopify.com/en/manual/b2b/getting-started",
+              "ariaLabel": null
+            },
+            {
+              "title": null,
+              "url": "https://admin.shopify.com/companies",
+              "ariaLabel": null,
+              "authenticated": true
+            }
+          ],
+          "productMedia": {
+            "image": {
+              "altText": "A plan comparison shows B2B features available across the Basic, Grow, and Advanced plans, each marked with a green checkmark",
+              "height": 600,
+              "id": "gid://shopify/ImageSource/26095594045534",
+              "url": "/media/U9_B2B_on_all_plans.png",
+              "width": 800
+            }
+          },
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Product sourcing insights in Shopify Collective",
+          "headlineTooltip": "Read help doc",
+          "eyebrow": "B2B",
+          "knockout": true,
+          "id": "gid://shopify/Product/7641746866270",
+          "handle": "product-sourcing-insights-in-shopify-collective",
+          "title": "Product sourcing insights in Shopify Collective",
+          "descriptionHtml": "<p>Retailers can make data-informed sourcing decisions with visibility into empty search results, audience trends, and milestones.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://help.shopify.com/en/manual/online-sales-channels/shopify-collective/retailers/analytics-insights",
+              "ariaLabel": null
+            }
+          ],
+          "productMedia": {
+            "image": {
+              "altText": "A set of product cards in Shopify Collective show sourcing insights for items such as sunscreen",
+              "height": 600,
+              "id": "gid://shopify/ImageSource/26418909708382",
+              "url": "/media/U291_Product_sourcing_insights_fallback.png",
+              "width": 800
+            }
+          },
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Tax-inclusive pricing for Shopify Collective",
+          "headlineTooltip": "Read help doc",
+          "eyebrow": "B2B",
+          "knockout": true,
+          "id": "gid://shopify/Product/7576953389150",
+          "handle": "tax-inclusive-pricing-for-shopify-collective",
+          "title": "Tax-inclusive pricing for Shopify Collective",
+          "descriptionHtml": "<p>B2B taxes are automatically calculated for tax-inclusive pricing, protecting profitability and effective margins.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://help.shopify.com/en/manual/online-sales-channels/shopify-collective/retailers/taxes",
+              "ariaLabel": null
+            }
+          ],
+          "productMedia": {
+            "image": {
+              "altText": "A product listing for a pink jacket priced at €99.00 with a label indicating tax-inclusive pricing",
+              "height": 600,
+              "id": "gid://shopify/ImageSource/26174008229982",
+              "url": "/media/U10_Tax-inclusive_pricing_for_Collective_products.png",
+              "width": 800
+            }
+          },
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Improved product discovery in Shopify Collective",
+          "headlineTooltip": "Read help doc",
+          "headlineAuthTooltip": "Try it",
+          "eyebrow": "B2B",
+          "id": "gid://shopify/Product/7576949686366",
+          "handle": "improved-product-discovery-in-shopify-collective",
+          "title": "Improved product discovery in Shopify Collective",
+          "descriptionHtml": "<p>Find and add products faster with category pills, more filtering options, and the ability to import products before payments are set up.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://help.shopify.com/en/manual/online-sales-channels/shopify-collective/retailers/discovery",
+              "ariaLabel": null
+            },
+            {
+              "title": null,
+              "url": "https://admin.shopify.com/apps/merchant-to-merchant/discovery/recommendations",
+              "ariaLabel": null,
+              "authenticated": true
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Shipping performance and trust badges",
+          "headlineTooltip": "Read help doc",
+          "eyebrow": "B2B",
+          "id": "gid://shopify/Product/7641746800734",
+          "handle": "shipping-performance-and-trust-badges-in-shopify-collective",
+          "title": "Shipping performance and trust badges in Shopify Collective",
+          "descriptionHtml": "<p>Suppliers can view their shipping performance in <a href=\"https://apps.shopify.com/collective-supplier\" target=\"_blank\" title=\"Get app\">Shopify Collective</a>, and earn a Verified Tracking badge to boost their discoverability.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://help.shopify.com/manual/online-sales-channels/shopify-collective/suppliers/manage-shipping-performance",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Shopify Collective available in Australia",
+          "eyebrow": "B2B",
+          "id": "gid://shopify/Product/7649839579230",
+          "handle": "shopify-collective-available-in-australia",
+          "title": "Shopify Collective available in Australia",
+          "descriptionHtml": "<p>Businesses in Australia can manage existing <a href=\"https://apps.shopify.com/collective-supplier\" target=\"_blank\" title=\"Get app\">suppliers</a> and <a href=\"https://apps.shopify.com/collective\" target=\"_blank\" title=\"Get app\">retailers</a> or connect with new partners from the admin.</p>",
+          "ctas": [],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Automated vaulted payments",
+          "headlineTooltip": "Read help doc",
+          "eyebrow": "B2B",
+          "id": "gid://shopify/Product/7576953421918",
+          "handle": "automated-vaulted-payments-with-shopify-flow",
+          "title": "Automated vaulted payments with Shopify Flow",
+          "descriptionHtml": "<p>Automatically charge vaulted payment methods for B2B customers using a <a href=\"https://apps.shopify.com/flow\" target=\"_blank\" title=\"Get app\">Shopify Flow</a> action triggered by fulfillment, due dates, or invoicing.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://help.shopify.com/manual/shopify-flow/reference/actions/charge-vaulted-payment-for-b2b-order",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "QuickBooks and Mailchimp natively support B2B",
+          "eyebrow": "B2B",
+          "id": "gid://shopify/Product/7580268265566",
+          "handle": "quickbooks-and-mailchimp-natively-support-b2b",
+          "title": "QuickBooks and Mailchimp natively support B2B",
+          "descriptionHtml": "<p>Sync B2B orders, PO numbers, and company details to <a href=\"https://apps.shopify.com/qbconnector\" target=\"_blank\" title=\"Get app\">QuickBooks</a>. Create B2B segments to send targeted emails with <a href=\"https://apps.shopify.com/mailchimp\" target=\"_blank\" title=\"Get app\">Mailchimp</a>.</p>",
+          "ctas": [],
+          "mobileHeadlineTitle": null
+        }
+      ],
+      "scenePresetName": null,
+      "drivePortalTargetSceneName": null
+    }
+  ],
+  "scenePresetName": "prod-4-online-3",
+  "drivePortalTargetSceneName": null
+}

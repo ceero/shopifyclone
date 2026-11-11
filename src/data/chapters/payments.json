@@ -1,0 +1,590 @@
+{
+  "id": "gid://shopify/Collection/291366895710",
+  "handle": "payments",
+  "title": "Payments",
+  "descriptionHtml": "",
+  "sceneText": null,
+  "sceneType": null,
+  "hideSubsectionTitles": false,
+  "tooltipText": null,
+  "theatreSheetUrl": "/media/payments-prod-2026-06-15T13-49-01.json",
+  "mobileFallbackBackground": {
+    "altText": null,
+    "height": 1034,
+    "id": "gid://shopify/ImageSource/26635759353950",
+    "url": "/media/prod-9-payments-mobile_7b549825-79cb-4f84-8518-ceb5793e7b77-optimized.webp",
+    "width": 1000,
+    "__typename": "Image"
+  },
+  "desktopFallbackBackground": {
+    "altText": null,
+    "height": 1116,
+    "id": "gid://shopify/ImageSource/26635759386718",
+    "url": "/media/prod-9-payments_d7620db5-dc9f-40ae-887f-6335456ae2e1-optimized.webp",
+    "width": 2000,
+    "__typename": "Image"
+  },
+  "products": [
+    {
+      "headlineTitle": "Shop Pay available to any brand on any platform",
+      "isxxl": true,
+      "knockout": true,
+      "id": "gid://shopify/Product/7576953028702",
+      "handle": "shop-pay-available-on-any-platform",
+      "title": "Shop Pay available on any platform",
+      "descriptionHtml": "<p>Businesses of all sizes can offer Shop Pay at checkout even if they aren't using Shopify's online store. Get access to 250M+ shoppers and one-click purchasing. Now with simplified onboarding.</p>",
+      "ctas": [
+        {
+          "title": "Get Shop Pay",
+          "url": "https://help.shopify.com/en/manual/payments/shop-pay/shop-pay-on-any-platform",
+          "ariaLabel": null
+        }
+      ],
+      "productMedia": {
+        "rive": {
+          "aspectRatio": "16:9",
+          "description": "Several branded checkouts rotate through the screen and the Shop button gets added to each express checkout section after lines of code are executed ",
+          "fallbackImage": {
+            "altText": "",
+            "height": 1530,
+            "id": "gid://shopify/ImageSource/26549344370782",
+            "url": "/media/U8_Shop_Pay_Everywhere_fallback.png",
+            "width": 2720
+          },
+          "fallbackImageMobile": {
+            "altText": "",
+            "height": 590,
+            "id": "gid://shopify/ImageSource/26549345583198",
+            "url": "/media/U8_Shop_Pay_Everywhere_mobile_fallback_abbcce88-8a3f-45ce-ad10-3cf98a2ee266.png",
+            "width": 786
+          },
+          "fontsFull": [
+            {
+              "id": "gid://shopify/GenericFile/25808766206046",
+              "mimeType": "text/plain",
+              "url": "/media/Inter.txt"
+            },
+            {
+              "id": "gid://shopify/GenericFile/26550837313630",
+              "mimeType": "text/plain",
+              "url": "/media/FaunaOne.txt"
+            },
+            {
+              "id": "gid://shopify/GenericFile/26550837346398",
+              "mimeType": "text/plain",
+              "url": "/media/InstrumentSans.txt"
+            }
+          ],
+          "mobileAspectRatio": "4:3",
+          "posterImage": {
+            "image": {
+              "altText": "",
+              "height": 1530,
+              "id": "gid://shopify/ImageSource/26582917218398",
+              "url": "/media/u8_poster_desktop_en.webp",
+              "width": 2720
+            }
+          },
+          "posterImageMobile": {
+            "image": {
+              "altText": "",
+              "height": 1530,
+              "id": "gid://shopify/ImageSource/26582918692958",
+              "url": "/media/u8_poster_mobile_en.webp",
+              "width": 2040
+            }
+          },
+          "globalRiveEnabled": "enabled",
+          "lazyRiveRuntime": true
+        }
+      },
+      "mobileHeadlineTitle": null
+    },
+    {
+      "headlineTitle": "Managed payment methods",
+      "headlineTooltip": "Read help doc",
+      "isxxl": false,
+      "knockout": true,
+      "id": "gid://shopify/Product/7576950472798",
+      "handle": "managed-payment-methods",
+      "title": "Managed payment methods",
+      "descriptionHtml": "<p><a href=\"https://www.shopify.com/payments\" target=\"_blank\" title=\"Learn more\">Shopify Payments</a> dynamically orders payment methods in each checkout, displaying the options most likely to convert.</p>",
+      "ctas": [
+        {
+          "title": null,
+          "url": "https://help.shopify.com/en/manual/payments/shopify-payments/managed-payment-methods",
+          "ariaLabel": null
+        }
+      ],
+      "productMedia": {
+        "customVideo": {
+          "h264DesktopW1000": "/media/b4016a271145d3baadc5619da3675f6c.mp4",
+          "h264DesktopW500": "/media/25b053310f782fa437a04ddf39c788cf.mp4",
+          "h264MobileW1440": "/media/60f30cae66c6ce2a464b11cc7e81a62a.mp4",
+          "h264MobileW720": "/media/4d72ae817a9300d3a8a922eb5bce4a26.mp4",
+          "hevcDesktopW1000": "/media/620b57c56aebe625a04f073449f2b60d.mp4",
+          "hevcDesktopW500": "/media/312c05e1418a6203c06644b3919d6b08.mp4",
+          "hevcMobileW1440": "/media/811069320e6c1f7593e5fd5ba4736571.mp4",
+          "hevcMobileW720": "/media/27f032621e838f82aa82efddefaa133d.mp4",
+          "isStacked": true,
+          "mp4DesktopW1000": "/media/ad6db8b4461049b2edebe76c7f66bf86.mp4",
+          "mp4DesktopW500": "/media/9c09abb710103b54f7531571432b460a.mp4",
+          "mp4MobileW1440": "/media/c01412d9b6df874a812100666791e7a3.mp4",
+          "mp4MobileW720": "/media/c5592a8f1af07a53d8a16a8f6362e6fb.mp4",
+          "posterDesktop": "/media/621f37b28941299b79220e5767600c57.png",
+          "posterMobile": "/media/621f37b28941299b79220e5767600c57.png",
+          "title": "u-190-rive - Generated Video",
+          "webmDesktopW1000": "/media/5d583406cf1a89c4d93a5960a8eff96d.webm",
+          "webmDesktopW500": "/media/788448d782d6534c469db2e5c21c745c.webm",
+          "webmMobileW1440": "/media/7a070ab7be447425c08de2fe99f0dd10.webm",
+          "webmMobileW720": "/media/a11f67e98a490b113a68854ca9488ba7.webm"
+        },
+        "rive": {
+          "aspectRatio": "4:3",
+          "description": "Several payment methods are reordered in a checkout. Each method is named with an icon and radio button. ",
+          "fallbackImage": {
+            "altText": "",
+            "height": 872,
+            "id": "gid://shopify/ImageSource/26182721110110",
+            "url": "/media/U190_Auto-enable_local_payment_methods.png",
+            "width": 1163
+          },
+          "fontsFull": [
+            {
+              "id": "gid://shopify/GenericFile/25808766206046",
+              "mimeType": "text/plain",
+              "url": "/media/Inter.txt"
+            }
+          ],
+          "posterImage": {
+            "image": {
+              "altText": "",
+              "height": 600,
+              "id": "gid://shopify/ImageSource/26550930374750",
+              "url": "/media/u190-poster.png",
+              "width": 800
+            }
+          },
+          "posterImageMobile": null,
+          "fallbackImageMobile": null,
+          "globalRiveEnabled": "enabled",
+          "lazyRiveRuntime": true
+        }
+      },
+      "mobileHeadlineTitle": null
+    },
+    {
+      "headlineTitle": "Ship and pick up in one checkout",
+      "headlineTooltip": "Read help doc",
+      "knockout": true,
+      "id": "gid://shopify/Product/7641747325022",
+      "handle": "ship-and-pick-up-in-one-checkout",
+      "title": "Ship and pick up in one checkout",
+      "descriptionHtml": "<p>Customers can select shipping and in-store pickup for different items within a single checkout.</p>",
+      "ctas": [
+        {
+          "title": null,
+          "url": "https://help.shopify.com/manual/checkout-settings/ship-and-pickup",
+          "ariaLabel": null
+        }
+      ],
+      "productMedia": {
+        "customVideo": {
+          "h264DesktopW1000": "/media/26ab5c73bbf779b310fe8060b18e1133.mp4",
+          "h264DesktopW500": "/media/d317f448d3a110bd851355a5d867d218.mp4",
+          "h264MobileW1440": "/media/89ebdd4caab933f77d9f4f6451cbaf66.mp4",
+          "h264MobileW720": "/media/039e85a3db8ffb65bb7b39830f00c904.mp4",
+          "hevcDesktopW1000": "/media/aab68ec9122dc129804daf45788833cd.mp4",
+          "hevcDesktopW500": "/media/d932ef4ae6a0f1f29f97b061d31a91fa.mp4",
+          "hevcMobileW1440": "/media/d7764df697f31688813a3b3e9759d80f.mp4",
+          "hevcMobileW720": "/media/52f3c03c33b3bfc2b12f110ba37ef799.mp4",
+          "isStacked": true,
+          "mp4DesktopW1000": "/media/bb0d34bca6659b10ebe4ad939563a659.mp4",
+          "mp4DesktopW500": "/media/58b3a30d618924ae1ed1384636a43034.mp4",
+          "mp4MobileW1440": "/media/25897482bb6e9ede28f5d0a247894c91.mp4",
+          "mp4MobileW720": "/media/b333b2eef763e87576002918785e6c8c.mp4",
+          "posterDesktop": "/media/0f72fb0a172ae7e1ad2bdd07eb6e3d37.png",
+          "posterMobile": "/media/d041bd7afdfee0a9293e26815e45ef44.png",
+          "title": "u-304-shipping-and-pick-up-in-one-order - Generated Video",
+          "webmDesktopW1000": "/media/8f7aa9c93dc17d65473acd40a1a0ded1.webm",
+          "webmDesktopW500": "/media/db27b41c31431e4a6911452fe18e15ea.webm",
+          "webmMobileW1440": "/media/8c18ac1f959fdc87428877ba30fc8672.webm",
+          "webmMobileW720": "/media/4e21bf7e61e8788ccae5ac5c5e6b0494.webm"
+        },
+        "rive": {
+          "aspectRatio": "4:3",
+          "description": "Three products are each tagged \"Ship\" or \"Pick up\" and float above a purple \"Pay now\" button, showing mixed fulfillment in a single checkout",
+          "fallbackImage": {
+            "altText": "",
+            "height": 600,
+            "id": "gid://shopify/ImageSource/26550961176670",
+            "url": "/media/U304_Shipping_and_pick_up_in_one_order_fallback.png",
+            "width": 800
+          },
+          "fontsFull": [
+            {
+              "id": "gid://shopify/GenericFile/25808766206046",
+              "mimeType": "text/plain",
+              "url": "/media/Inter.txt"
+            }
+          ],
+          "posterImage": {
+            "image": {
+              "altText": "",
+              "height": 600,
+              "id": "gid://shopify/ImageSource/26550968189022",
+              "url": "/media/U304-poster.png",
+              "width": 800
+            }
+          },
+          "posterImageMobile": null,
+          "fallbackImageMobile": null,
+          "globalRiveEnabled": "enabled",
+          "lazyRiveRuntime": true
+        }
+      },
+      "mobileHeadlineTitle": null
+    },
+    {
+      "headlineTitle": "Shop Pay includes more local payment methods",
+      "headlineTooltip": "Read help doc",
+      "headlineAuthTooltip": "Try it",
+      "id": "gid://shopify/Product/7600647602270",
+      "handle": "shop-pay-includes-more-local-payment-methods",
+      "title": "Shop Pay includes more local payment methods",
+      "descriptionHtml": "<p>Businesses around the globe can offer customers local and regional payment methods in one wallet with Shop Pay.</p>",
+      "ctas": [
+        {
+          "title": null,
+          "url": "https://help.shopify.com/en/manual/payments/shop-pay/shop-pay",
+          "ariaLabel": null
+        },
+        {
+          "title": null,
+          "url": "https://admin.shopify.com/settings/payments/shopify-payments/advanced-settings",
+          "ariaLabel": null,
+          "authenticated": true
+        }
+      ],
+      "mobileHeadlineTitle": null
+    },
+    {
+      "headlineTitle": "Meses Sin Intereses as payment method",
+      "headlineTooltip": "Read help doc",
+      "id": "gid://shopify/Product/7576950571102",
+      "handle": "meses-sin-intereses-available-as-payment-method-in-mexico",
+      "title": "Meses Sin Intereses available as payment method in Mexico",
+      "descriptionHtml": "<p>Let customers in Mexico pay in installments using MSI. Choose which plans to offer alongside your existing card payments.</p>",
+      "ctas": [
+        {
+          "title": null,
+          "url": "https://help.shopify.com/en/manual/payments/shopify-payments/local-payment-methods/installments-with-msi",
+          "ariaLabel": null
+        }
+      ],
+      "mobileHeadlineTitle": null
+    },
+    {
+      "headlineTitle": "Shopify Payments available in the UAE",
+      "headlineTooltip": "Read help doc",
+      "id": "gid://shopify/Product/7597467861086",
+      "handle": "shopify-payments-available-in-the-uae",
+      "title": "Shopify Payments available in the UAE",
+      "descriptionHtml": "<p>Businesses located in the United Arab Emirates can accept online payments through Shopify. Exclusive to Shopify Plus.</p>",
+      "ctas": [
+        {
+          "title": null,
+          "url": "https://help.shopify.com/en/manual/payments/shopify-payments/supported-countries/united-arab-emirates",
+          "ariaLabel": null
+        }
+      ],
+      "mobileHeadlineTitle": null
+    },
+    {
+      "headlineTitle": "Multi-currency payouts",
+      "headlineTooltip": "Read help doc",
+      "id": "gid://shopify/Product/7588208214110",
+      "handle": "multi-currency-payouts-available-in-more-countries",
+      "title": "Multi-currency payouts available in more countries",
+      "descriptionHtml": "<p>Businesses in the US, Hong Kong, and Singapore can settle in more currencies, saving on conversion fees. Coming soon to France.</p>",
+      "ctas": [
+        {
+          "title": null,
+          "url": "https://help.shopify.com/en/manual/payments/shopify-payments/store-currency/payouts-in-multiple-currencies#requirements-for-multi-currency-payouts",
+          "ariaLabel": null
+        }
+      ],
+      "mobileHeadlineTitle": null
+    },
+    {
+      "headlineTitle": "Multi-entity selling from the same country",
+      "headlineTooltip": "Read help doc",
+      "id": "gid://shopify/Product/7576951324766",
+      "handle": "multi-entity-selling-from-the-same-country",
+      "title": "Multi-entity selling from the same country",
+      "descriptionHtml": "<p>Operate multiple legal entities in the same country from one Shopify store with different <a href=\"https://www.shopify.com/payments\" target=\"_blank\" title=\"Learn more\">Shopify Payments</a> accounts. Exclusive to Shopify Plus.</p>",
+      "ctas": [
+        {
+          "title": null,
+          "url": "https://help.shopify.com/en/manual/payments/shopify-payments/onboarding/selling-with-multiple-entities",
+          "ariaLabel": null
+        }
+      ],
+      "mobileHeadlineTitle": null
+    },
+    {
+      "headlineTitle": "Local payment methods in more countries",
+      "headlineTooltip": "Read help doc",
+      "id": "gid://shopify/Product/7665235099742",
+      "handle": "local-payment-methods-in-more-countries",
+      "title": "Local payment methods in more countries",
+      "descriptionHtml": "<p>Offer MobilePay, TWINT, BLIK, and Przelewy24 to customers in more countries through <a href=\"https://www.shopify.com/payments\" target=\"_blank\">Shopify Payments</a>.</p>",
+      "ctas": [
+        {
+          "title": null,
+          "url": "https://help.shopify.com/en/manual/payments/shopify-payments/local-payment-methods",
+          "ariaLabel": null
+        }
+      ],
+      "mobileHeadlineTitle": null
+    },
+    {
+      "headlineTitle": "Cashback for paying with USDC",
+      "headlineTooltip": "Read help doc",
+      "id": "gid://shopify/Product/7576950407262",
+      "handle": "cashback-for-paying-with-usdc",
+      "title": "Cashback for paying with USDC",
+      "descriptionHtml": "<p>Customers who pay with USDC on Base at checkout automatically get cashback in their crypto wallet.</p>",
+      "ctas": [
+        {
+          "title": null,
+          "url": "https://help.shopify.com/en/manual/payments/shopify-payments/usdc-payments#buyer-cashback",
+          "ariaLabel": null
+        }
+      ],
+      "mobileHeadlineTitle": null
+    },
+    {
+      "headlineTitle": "Accept more USDC",
+      "headlineTooltip": "Read help doc",
+      "id": "gid://shopify/Product/7576950440030",
+      "handle": "accept-usdc-on-ethereum-base-or-other-chains",
+      "title": "Accept USDC on Ethereum, Base, or other chains",
+      "descriptionHtml": "<p>Customers can pay with USDC on Ethereum, Base, or other chains. Funds bridge automatically.</p>",
+      "ctas": [
+        {
+          "title": null,
+          "url": "https://help.shopify.com/en/manual/payments/shopify-payments/usdc-payments",
+          "ariaLabel": null
+        }
+      ],
+      "mobileHeadlineTitle": null
+    },
+    {
+      "headlineTitle": "Enhanced fraud prevention for card testing",
+      "headlineTooltip": "Read article",
+      "id": "gid://shopify/Product/7588207951966",
+      "handle": "enhanced-fraud-prevention-for-card-testing-with-shopify-payments",
+      "title": "Enhanced fraud prevention for card testing with Shopify Payments",
+      "descriptionHtml": "<p><a href=\"https://www.shopify.com/payments\" target=\"_blank\" title=\"Learn more\">Shopify Payments</a> uses improved machine learning models to block card testing attacks by scoring transactions for decline and fraud risk.</p>",
+      "ctas": [
+        {
+          "title": null,
+          "url": "https://shopify.com/enterprise/blog/block-card-testing-attacks",
+          "ariaLabel": null
+        }
+      ],
+      "mobileHeadlineTitle": null
+    },
+    {
+      "headlineTitle": "Deeper dispute insights",
+      "headlineTooltip": "Read help doc",
+      "isxxl": false,
+      "knockout": true,
+      "id": "gid://shopify/Product/7597467893854",
+      "handle": "more-dispute-insights-including-evidence-to-resolve-chargebacks",
+      "title": "More dispute insights, including evidence to resolve chargebacks",
+      "descriptionHtml": "<p>Find out why a dispute was opened, won, or lost, and get tailored evidence to resolve chargebacks.</p>",
+      "ctas": [
+        {
+          "title": null,
+          "url": "https://help.shopify.com/en/manual/payments/chargebacks/chargebacks-in-admin#issuer-claims-responses",
+          "ariaLabel": null
+        }
+      ],
+      "productMedia": {
+        "image": {
+          "altText": "A dispute notification card shows a chargeback of $240.00 with options to submit evidence or accept",
+          "height": 1200,
+          "id": "gid://shopify/ImageSource/26479483322462",
+          "url": "/media/U247_Deeper_dispute_insights.png",
+          "width": 1600
+        }
+      },
+      "mobileHeadlineTitle": null
+    },
+    {
+      "headlineTitle": "Chargeback health monitoring",
+      "headlineTooltip": "Read help doc",
+      "id": "gid://shopify/Product/7588208050270",
+      "handle": "chargeback-health-monitoring-with-shopify-payments",
+      "title": "Chargeback health monitoring with Shopify Payments",
+      "descriptionHtml": "<p>Manage and reduce your chargeback rate with proactive alerts and guidance to improve your standing.</p>",
+      "ctas": [
+        {
+          "title": null,
+          "url": "https://help.shopify.com/en/manual/payments/chargebacks/chargeback-monitoring",
+          "ariaLabel": null
+        }
+      ],
+      "mobileHeadlineTitle": null
+    },
+    {
+      "headlineTitle": "Higher-converting, redesigned checkout",
+      "isxxl": false,
+      "knockout": true,
+      "id": "gid://shopify/Product/7576950603870",
+      "handle": "higher-converting-redesigned-checkout",
+      "title": "Higher-converting, redesigned checkout",
+      "descriptionHtml": "<p>A tighter checkout makes delivery options easier to scan, elevates the pay button, and reduces scrolling on mobile.</p>",
+      "ctas": [],
+      "mobileHeadlineTitle": null
+    },
+    {
+      "headlineTitle": "VAT ID validation at checkout",
+      "headlineTooltip": "Read help doc",
+      "id": "gid://shopify/Product/7576954470494",
+      "handle": "vat-id-validation-at-checkout-with-shopify-tax",
+      "title": "VAT ID validation at checkout with Shopify Tax",
+      "descriptionHtml": "<p>Collect and validate buyer VAT IDs at checkout with <a href=\"http://www.shopify.com/uk/tax\" target=\"_blank\" title=\"Learn more\">Shopify Tax</a> in the EU and UK.</p>",
+      "ctas": [
+        {
+          "title": null,
+          "url": "https://help.shopify.com/en/manual/taxes/shopify-tax/vat-validate",
+          "ariaLabel": null
+        }
+      ],
+      "mobileHeadlineTitle": null
+    },
+    {
+      "headlineTitle": "Faster, more accurate address suggestions",
+      "headlineTooltip": "Read help doc",
+      "id": "gid://shopify/Product/7576950374494",
+      "handle": "faster-more-accurate-address-suggestions-in-checkout",
+      "title": "Faster, more accurate address suggestions in checkout",
+      "descriptionHtml": "<p>Customers in the US, Canada, Australia, France, and the Netherlands get more precise address autocomplete and validation in checkout.</p>",
+      "ctas": [
+        {
+          "title": null,
+          "url": "https://help.shopify.com/en/manual/checkout-settings/address-collection-preferences#checkout-setup-autocomplete-orderaddress",
+          "ariaLabel": null
+        }
+      ],
+      "mobileHeadlineTitle": null
+    },
+    {
+      "headlineTitle": "Address format validation for all checkouts",
+      "headlineTooltip": "Read help doc",
+      "id": "gid://shopify/Product/7576955715678",
+      "handle": "address-format-validation-for-all-checkouts",
+      "title": "Address format validation for all checkouts",
+      "descriptionHtml": "<p>Enforce address restrictions in checkouts across online and agentic experiences, using rules in <a href=\"https://apps.shopify.com/checkout-blocks\" target=\"_blank\" title=\"Get app\">Checkout Blocks</a>.</p>",
+      "ctas": [
+        {
+          "title": null,
+          "url": "https://help.shopify.com/en/manual/checkout-settings/checkout-blocks/customizations/address-format-validation",
+          "ariaLabel": null
+        }
+      ],
+      "mobileHeadlineTitle": null
+    },
+    {
+      "headlineTitle": "Customized branding in checkout, accounts, and sign-in",
+      "headlineTooltip": "Read help doc",
+      "headlineAuthTooltip": "Try it",
+      "id": "gid://shopify/Product/7576950014046",
+      "handle": "customized-branding-in-checkout-accounts-and-sign-in",
+      "title": "Customized branding in checkout, accounts, and sign-in",
+      "descriptionHtml": "<p>Set your logo, colors, and typography once, and it gets applied consistently across checkout, customer account, and sign-in pages.</p>",
+      "ctas": [
+        {
+          "title": null,
+          "url": "https://help.shopify.com/en/manual/checkout-settings/customize-checkout-configurations/checkout-style",
+          "ariaLabel": null
+        },
+        {
+          "title": null,
+          "url": "https://admin.shopify.com/settings/checkout/editor",
+          "ariaLabel": null,
+          "authenticated": true
+        }
+      ],
+      "mobileHeadlineTitle": null
+    },
+    {
+      "headlineTitle": "Order value limits for all plans",
+      "headlineTooltip": "Read help doc",
+      "id": "gid://shopify/Product/7641747062878",
+      "handle": "order-value-limits-available-for-all-plans",
+      "title": "Order value limits available for all plans",
+      "descriptionHtml": "<p>Set order value limits in <a href=\"https://apps.shopify.com/checkout-blocks\" target=\"_blank\" title=\"Get app\">Checkout Blocks</a> to prevent checkout when an order falls outside your minimum and/or maximum subtotal.</p>",
+      "ctas": [
+        {
+          "title": null,
+          "url": "https://help.shopify.com/en/manual/checkout-settings/checkout-blocks/order-value-limits",
+          "ariaLabel": null
+        }
+      ],
+      "mobileHeadlineTitle": null
+    },
+    {
+      "headlineTitle": "Quick Sale supports tipping, shipping, and payment links",
+      "headlineTooltip": "Read help doc",
+      "headlineAuthTooltip": "Try it",
+      "id": "gid://shopify/Product/7576953782366",
+      "handle": "tipping-shipping-and-payment-links-with-quick-sale-from-shopify-app",
+      "title": "Tipping, shipping, and payment links with Quick Sale from Shopify app",
+      "descriptionHtml": "<p>Collect tips, calculate change for cash payments, add shipping, and send payment links from the <a href=\"https://www.shopify.com/mobile\" target=\"_blank\" title=\"Get app\">Shopify app</a>.</p>",
+      "ctas": [
+        {
+          "title": null,
+          "url": "https://help.shopify.com/en/manual/shopify-admin/shopify-app/quick-sale",
+          "ariaLabel": null
+        },
+        {
+          "title": null,
+          "url": "https://admin.shopify.com/quick-sale",
+          "ariaLabel": null,
+          "authenticated": true
+        }
+      ],
+      "mobileHeadlineTitle": null
+    },
+    {
+      "headlineTitle": "Quick Sale in more markets",
+      "headlineTooltip": "Read help doc",
+      "headlineAuthTooltip": "Try it",
+      "eyebrow": "Global",
+      "id": "gid://shopify/Product/7576953847902",
+      "handle": "quick-sale-in-the-shopify-app-available-to-more-markets",
+      "title": "Quick Sale in the Shopify app available to more markets",
+      "descriptionHtml": "<p>Start selling in any country by sharing payment links or accepting cash with the <a href=\"https://www.shopify.com/mobile\" target=\"_blank\" title=\"Get app\">Shopify app</a>.</p>",
+      "ctas": [
+        {
+          "title": null,
+          "url": "https://help.shopify.com/en/manual/shopify-admin/shopify-app/quick-sale/create-quick-sale",
+          "ariaLabel": null
+        },
+        {
+          "title": null,
+          "url": "https://admin.shopify.com/quick-sale",
+          "ariaLabel": null,
+          "authenticated": true
+        }
+      ],
+      "mobileHeadlineTitle": null
+    }
+  ],
+  "scenePresetName": "prod-9-payments",
+  "drivePortalTargetSceneName": null
+}

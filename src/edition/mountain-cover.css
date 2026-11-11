@@ -1,0 +1,145 @@
+.mountain-cover {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  overflow: hidden;
+  background: #0b2535;
+}
+.mountain-cover img, .mountain-cover canvas, .mountain-cover::after {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+}
+.mountain-cover img {
+  max-width: none;
+  object-fit: cover;
+  transform-origin: 0 0;
+}
+.mountain-cover::after {
+  content: '';
+  opacity: var(--opening-tint, 1);
+  background: linear-gradient(180deg, rgba(10,12,13,.48), transparent 16%, transparent 62%, rgba(8,15,13,.42) 80%, rgba(6,13,10,.89));
+}
+.mountain-cover[data-gpu-wipe], .mountain-cover[data-departed] { opacity: 0; }
+.mountain-cover .opening-wipe-fallback { z-index: 1; }
+.opening-chapter-poster {
+  position: sticky;
+  display: block;
+  top: 0;
+  height: 100lvh;
+  margin-bottom: -100lvh;
+  pointer-events: none;
+}
+.opening-chapter-poster img { width: 100%; height: 100%; object-fit: cover; }
+#hero[data-opening-wipe] + section .opening-chapter-poster { visibility: hidden; }
+#hero[data-opening-wipe] .hero-exit:not(:focus-within) { opacity: var(--opening-controls); }
+.mountain-particles { position: absolute; inset: 0; }
+@media (prefers-reduced-motion: reduce) { .mountain-particles { display: none; } }
+.mountain-cover h1 {
+  position: absolute;
+  inset: 30% 0 auto;
+  margin: 0;
+  text-align: center;
+  color: white;
+  text-shadow: 0 1px 5px #123346;
+  font: 400 clamp(2rem, 7vw, 7rem)/1 "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.mountain-cover[data-painted] h1 {
+  inset: 0 auto auto 0;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+@media (max-width: 600px) {
+  .mountain-cover::after {
+    background: linear-gradient(180deg, #11181366, transparent 17%, transparent 42%, #09130f38 55%, #080f0cdc);
+  }
+}
+
+/* Keep the edition's working chapter links and use the reference cover's margins and index layout. */
+#hero[data-photo-cover] .grid-container {
+  max-width: none;
+  padding-inline: 0;
+}
+#hero[data-photo-cover] .hero-exit {
+  position: relative;
+  display: grid;
+  grid-template-columns: 1.15fr 1.45fr auto;
+  align-items: end;
+  gap: clamp(20px,4vw,90px);
+  max-width: none;
+  padding: 0 clamp(20px,4.25vw,78px) max(clamp(26px,4.5vh,56px),env(safe-area-inset-bottom));
+}
+@media (min-width: 58.75rem) and (prefers-reduced-motion: no-preference) {
+  #hero[data-photo-cover] .hero-exit { position: fixed; }
+}
+#hero[data-photo-cover] .hero-description-text {
+  max-width: 16em;
+  align-self: start;
+  font: 400 clamp(19px,1.75vw,30px)/1.1 "Helvetica Neue",Helvetica,Arial,sans-serif;
+  letter-spacing: -.045em;
+}
+#hero[data-photo-cover] .hero-description-text p { font: inherit; }
+#hero[data-photo-cover] .hero-nav-list {
+  counter-reset: cover-link;
+  grid-template-columns: repeat(3,minmax(0,1fr));
+  grid-template-rows: repeat(4,auto);
+  gap: 0 16px;
+}
+#hero[data-photo-cover] .hero-nav-list li { counter-increment: cover-link; }
+#hero[data-photo-cover] .hero-nav-list a {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 8px;
+  padding-block: 3px;
+}
+#hero[data-photo-cover] .hero-nav-list a::before {
+  content: counter(cover-link, decimal-leading-zero) / '';
+  font: 400 10px/1 ui-monospace,monospace;
+  letter-spacing: .02em;
+  opacity: .85;
+}
+.mountain-controls { display: flex; gap: 6px; pointer-events: auto; }
+.mountain-controls :is(a,button) {
+  display: grid;
+  place-items: center;
+  width: 40px;
+  height: 40px;
+  border: 1px solid #ffffff6f;
+  border-radius: 50%;
+  background: #15201926;
+  color: white;
+  cursor: pointer;
+  text-decoration: none;
+  font: 400 21px/1 Helvetica,Arial,sans-serif;
+}
+.mountain-controls :is(a,button):hover { background: #ffffff25; }
+.mountain-controls :focus-visible { outline: 2px solid white; outline-offset: 3px; }
+.mountain-pause span { width: 9px; height: 11px; border-inline: 3px solid currentColor; }
+.mountain-pause[data-paused] span {
+  width: 0; height: 0; border: solid transparent; border-width: 6px 0 6px 9px;
+  border-left-color: white; margin-left: 2px;
+}
+@media (prefers-reduced-motion: reduce) { .mountain-controls .mountain-pause { display: none; } }
+@media (max-width: 780px) {
+  #hero[data-photo-cover] .hero-exit { grid-template-columns: 1fr 1.3fr; }
+  .mountain-controls { position: absolute; right: clamp(20px,4.25vw,78px); bottom: calc(100% + 12px); }
+}
+@media (max-width: 600px) {
+  #hero[data-photo-cover] .hero-exit {
+    display: flex; flex-direction: column; align-items: stretch;
+    gap: 18px; padding-bottom: max(20px,env(safe-area-inset-bottom));
+  }
+  #hero[data-photo-cover] .hero-description-text { max-width: 16em; padding-right: 96px; font-size: 22px; }
+  #hero[data-photo-cover] .hero-nav-list {
+    grid-template-columns: repeat(2,minmax(0,1fr));
+    grid-template-rows: repeat(5,auto);
+    border-top: 1px solid #ffffff45;
+    padding-top: 9px;
+  }
+  #hero[data-photo-cover] .hero-nav-list a { min-height: 32px; align-items: center; }
+  .mountain-controls { top: 0; bottom: auto; }
+}

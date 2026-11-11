@@ -1,0 +1,1 @@
+import{i as e}from"./rolldown-runtime-aKtaBQYM.js";import{t}from"./react-Dvkprh6u.js";var n=e(t());function r(e,t=3){let r=0,i=async()=>{try{return await e()}catch{return r<t?(r++,i()):{default:(()=>null)}}};return(0,n.lazy)(i)}export{r as t};

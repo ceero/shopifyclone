@@ -1,0 +1,495 @@
+{
+  "isLive": true,
+  "locale": null,
+  "globalStrings": {
+    "argoTrigger": 1,
+    "nav": {
+      "heading": "Spark and Zen",
+      "logoUrl": "/media/spark-and-zen-logo.png",
+      "siteLink": {
+        "label": "Spark and Zen",
+        "href": "#hero"
+      },
+      "menuLabel": "Menu",
+      "navButtonGroups": {
+        "allEditions": "Editions",
+        "freeTrial": "Start for free",
+        "letsTalk": "Let's talk"
+      }
+    },
+    "allEditions": {
+      "navigationData": {
+        "heading": "Editions",
+        "links": {
+          "spring2026": {
+            "name": "Spring ’26",
+            "description": "Everywhere",
+            "logoUrl": "/media/fav-180.png"
+          },
+          "winter2026": {
+            "name": "Winter ’26",
+            "description": "Renaissance",
+            "logoUrl": "/media/favicon_256.png"
+          },
+          "summer2025": {
+            "name": "Summer ’25",
+            "description": "Horizons",
+            "logoUrl": "/media/Summer2025.svg"
+          },
+          "winter2025": {
+            "name": "Winter ’25",
+            "description": "Boring",
+            "logoUrl": "/media/Editions-Winter-25-compressed.svg"
+          },
+          "summer2024": {
+            "name": "Summer ’24",
+            "description": "Unified",
+            "logoUrl": "/media/Editions_Summer_24.svg"
+          },
+          "winter2024": {
+            "name": "Winter ’24",
+            "description": "Foundations",
+            "logoUrl": "/media/Editions_Winter_24.svg"
+          },
+          "summer2023": {
+            "name": "Summer ’23",
+            "description": "Imagine My Business",
+            "logoUrl": "/media/Editions_Summer_23.svg"
+          },
+          "winter2023": {
+            "name": "Winter ’23",
+            "description": "Built to Last",
+            "logoUrl": "/media/Editions_Winter_23.svg"
+          },
+          "summer2022": {
+            "name": "Summer ’22",
+            "description": "Connect to Consumer",
+            "logoUrl": "/media/Editions_Summer_22.svg"
+          },
+          "fall2026": {
+            "name": "Fall ’26",
+            "description": "Exponential",
+            "logoUrl": "/media/6d65c49783ba5b195dff711092e418c3.png"
+          }
+        }
+      }
+    },
+    "viewAllEditions": {
+      "button": "View all Editions"
+    },
+    "clearButton": {
+      "button": "Clear"
+    },
+    "dismissButton": {
+      "button": "Dismiss"
+    },
+    "loadingSpinner": {
+      "label": "Loading"
+    },
+    "predictiveSearchResults": {
+      "label": "Search suggestions",
+      "suggestions": "Suggestions",
+      "results": "Results",
+      "searchFor": "Search for"
+    },
+    "search": {
+      "button": "Search"
+    },
+    "searchList": {
+      "button": "Show more"
+    },
+    "searchResults": {
+      "checkSpelling": "Check the spelling or use a different word or phrase.",
+      "label": "Search results",
+      "noResults": "No results found for",
+      "results": "results",
+      "resultsFound": "results found",
+      "resultsLabels": {
+        "spring2026": "Spring ’26 results",
+        "winter2026": "Winter ’26 results",
+        "summer2025": "Summer ’25 results",
+        "winter2025": "Winter ’25 results",
+        "summer2024": "Summer ’24 results",
+        "winter2024": "Winter ’24 results",
+        "summer2023": "Summer ’23 results",
+        "winter2023": "Winter ’23 results",
+        "summer2022": "Summer ’22 results",
+        "fall2026": "Fall ’26 results"
+      },
+      "logoUrls": {
+        "fall2026": "/media/6d65c49783ba5b195dff711092e418c3.png",
+        "spring2026": "/media/fav-180.png",
+        "winter2026": "/media/favicon_256.png",
+        "summer2025": "/media/Summer2025.svg",
+        "winter2025": "/media/Editions-Winter-25-compressed.svg",
+        "summer2024": "/media/Editions_Summer_24.svg",
+        "winter2024": "/media/Editions_Winter_24.svg",
+        "summer2023": "/media/Editions_Summer_23.svg",
+        "winter2023": "/media/Editions_Winter_23.svg",
+        "summer2022": "/media/Editions_Summer_22.svg"
+      }
+    },
+    "skipLink": {
+      "label": "Skip to main content"
+    },
+    "submitButton": {
+      "button": "Search"
+    }
+  },
+  "shopInfo": {
+    "name": "Editions | Spring 2026",
+    "description": "100+ updates to Shopify.",
+    "riveEnabled": "enabled",
+    "easterEggKillswitch": false
+  },
+  "heroCollection": {
+    "id": "gid://shopify/Collection/293041045598",
+    "handle": "hero",
+    "title": "Hero",
+    "descriptionHtml": "<p>150+ updates to sell, shop, and build everywhere</p>",
+    "sceneText": null,
+    "sceneType": "hero",
+    "hideSubsectionTitles": false,
+    "tooltipText": null,
+    "theatreSheetUrl": "/media/hero-prod-2026-06-23T06-22-06.json",
+    "mobileFallbackBackground": null,
+    "desktopFallbackBackground": null,
+    "products": [],
+    "scenePresetName": "prod-1-hero",
+    "drivePortalTargetSceneName": null
+  },
+  "sideNav": [
+    {
+      "id": "gid://shopify/MenuItem/509442981982",
+      "title": "Agentic",
+      "handle": "agentic",
+      "nestedItems": [
+        {
+          "id": "gid://shopify/MenuItem/512042729566",
+          "title": "Discovery",
+          "handle": "agentic-discovery"
+        },
+        {
+          "id": "gid://shopify/MenuItem/512042762334",
+          "title": "Development",
+          "handle": "agentic-development"
+        }
+      ]
+    },
+    {
+      "id": "gid://shopify/MenuItem/515681386590",
+      "title": "Sidekick",
+      "handle": "sidekick"
+    },
+    {
+      "id": "gid://shopify/MenuItem/515681419358",
+      "title": "Online",
+      "handle": "online",
+      "nestedItems": [
+        {
+          "id": "gid://shopify/MenuItem/515681452126",
+          "title": "Online store",
+          "handle": "online-store"
+        },
+        {
+          "id": "gid://shopify/MenuItem/515681484894",
+          "title": "B2B",
+          "handle": "online-b2b"
+        }
+      ]
+    },
+    {
+      "id": "gid://shopify/MenuItem/515681517662",
+      "title": "Retail",
+      "handle": "retail",
+      "nestedItems": [
+        {
+          "id": "gid://shopify/MenuItem/520402272350",
+          "title": "Retail Merch",
+          "handle": "retail-merch"
+        },
+        {
+          "id": "gid://shopify/MenuItem/516902813790",
+          "title": "POS XXL",
+          "handle": "pos-xxl"
+        }
+      ]
+    },
+    {
+      "id": "gid://shopify/MenuItem/508962766942",
+      "title": "Marketing",
+      "handle": "marketing"
+    },
+    {
+      "id": "gid://shopify/MenuItem/508962373726",
+      "title": "Operations",
+      "handle": "operations",
+      "nestedItems": [
+        {
+          "id": "gid://shopify/MenuItem/515681812574",
+          "title": "Plugins",
+          "handle": "operations-plugins"
+        },
+        {
+          "id": "gid://shopify/MenuItem/512125861982",
+          "title": "Admin",
+          "handle": "operations-admin"
+        },
+        {
+          "id": "gid://shopify/MenuItem/514762276958",
+          "title": "Inventory",
+          "handle": "operations-inventory"
+        },
+        {
+          "id": "gid://shopify/MenuItem/512125894750",
+          "title": "Shipping",
+          "handle": "operations-shipping"
+        },
+        {
+          "id": "gid://shopify/MenuItem/512125829214",
+          "title": "Global",
+          "handle": "operations-global"
+        }
+      ]
+    },
+    {
+      "id": "gid://shopify/MenuItem/515681550430",
+      "title": "Shop app",
+      "handle": "shop-app"
+    },
+    {
+      "id": "gid://shopify/MenuItem/508962406494",
+      "title": "Payments",
+      "handle": "payments"
+    },
+    {
+      "id": "gid://shopify/MenuItem/512125960286",
+      "title": "Finance",
+      "handle": "finance"
+    },
+    {
+      "id": "gid://shopify/MenuItem/508962275422",
+      "title": "Developer",
+      "handle": "developer",
+      "nestedItems": [
+        {
+          "id": "gid://shopify/MenuItem/512126091358",
+          "title": "Platform",
+          "handle": "dev-platform"
+        },
+        {
+          "id": "gid://shopify/MenuItem/512126124126",
+          "title": "Apps + Extensions",
+          "handle": "dev-apps-extensions"
+        }
+      ]
+    }
+  ],
+  "globalContent": {
+    "backToNavigation": "Back to navigation",
+    "close": "Close",
+    "comingSoon": "Coming soon",
+    "comingSoonHeroImage": {
+      "altText": "",
+      "height": 1544,
+      "id": "gid://shopify/ImageSource/26582694789214",
+      "url": "/media/coming-soon-desktop.webp",
+      "width": 3024
+    },
+    "comingSoonHeroImageMobile": {
+      "altText": "",
+      "height": 2078,
+      "id": "gid://shopify/ImageSource/26582695149662",
+      "url": "/media/coming-soon-mobile.webp",
+      "width": 2010
+    },
+    "comingSoonSeason": "Spring ’26",
+    "consoleMessage": "Shopify Editions | Spring ’26",
+    "emailModalErrorMessage": "Something went wrong. Please try again.",
+    "emailModalErrorTitle": "Error:",
+    "emailModalHeading": "Get notified",
+    "emailModalPlaceholderText": "Enter your email address",
+    "emailModalPrivacyText": "<p>By signing up, you agree to receive marketing emails from Shopify. Personal data will be used in accordance with Shopify's <a href=\"https://www.shopify.com/legal/privacy\" target=\"_blank\">Privacy Policy</a>.</p>",
+    "emailModalSubheading": "This feature will be available soon. Sign up to get notified when it's available.",
+    "emailModalSubmit": "Submit",
+    "emailModalSuccessMessage": "Thank you!",
+    "listViewSidebarEverywhere": "Everywhere",
+    "listViewSidebarYou": "You",
+    "loading": "Loading",
+    "privacyPolicy": "Privacy Policy",
+    "privacyPolicyUrl": "https://www.shopify.com/legal/privacy",
+    "termsOfService": "Terms of Service",
+    "termsOfServiceUrl": "https://www.shopify.com/legal/terms"
+  },
+  "socialShare": {
+    "description": "Sell face to face, online, in social channels, and AI chats with 150+ updates to Shopify. The only platform you need to sell everywhere. ",
+    "shareImage": {
+      "altText": "",
+      "height": 630,
+      "id": "gid://shopify/ImageSource/26587512111198",
+      "url": "/media/ShopifyEditions_S26_SocialShareCard_1200x630_EN_d827b4c8-631a-491e-8df9-cf3f561bbc3f.webp",
+      "width": 1200
+    },
+    "title": "Shopify Editions | Spring ’26"
+  },
+  "youtubeVideos": {
+    "agentic-storefronts-insights": "K1nR7pe49cM",
+    "universal-commerce-protocol": "mWRMjEIh4hE",
+    "rebuilt-pos-checkout-in-action": "37zOjqRl-3Q",
+    "better-context-for-your-store-s-data": "DiJc9gsgzn8",
+    "enhanced-inventory-management": "dsW4E40Y0UI",
+    "online-to-in-person-with-the-shop-app": "9LkIxHbr1Ik"
+  },
+  "storeURL": "https://editions-spring-2026.myshopify.com",
+  "posContent": {
+    "ariaLabel": "POS features",
+    "featurefallbacks": [
+      {
+        "alt": "",
+        "previewImage": {
+          "url": "/media/addProduct.png"
+        },
+        "image": {
+          "altText": "",
+          "height": 1818,
+          "id": "gid://shopify/ImageSource/26428721496158",
+          "url": "/media/addProduct.png",
+          "width": 2553
+        }
+      },
+      {
+        "alt": "",
+        "previewImage": {
+          "url": "/media/addDiscount.png"
+        },
+        "image": {
+          "altText": "",
+          "height": 1818,
+          "id": "gid://shopify/ImageSource/26428721430622",
+          "url": "/media/addDiscount.png",
+          "width": 2553
+        }
+      },
+      {
+        "alt": "",
+        "previewImage": {
+          "url": "/media/addCustomer.png"
+        },
+        "image": {
+          "altText": "",
+          "height": 1818,
+          "id": "gid://shopify/ImageSource/26428720971870",
+          "url": "/media/addCustomer.png",
+          "width": 2553
+        }
+      },
+      {
+        "alt": "",
+        "previewImage": {
+          "url": "/media/splitPayment.png"
+        },
+        "image": {
+          "altText": "",
+          "height": 1818,
+          "id": "gid://shopify/ImageSource/26428721463390",
+          "url": "/media/splitPayment.png",
+          "width": 2553
+        }
+      }
+    ],
+    "features": [
+      "Add product",
+      "Custom discount",
+      "Add customer",
+      "Split payment"
+    ]
+  },
+  "drivePortalTheatreSheetUrl": "/media/developer-drive-portal-developer-prod-2026-06-17T01-47-35.json",
+  "driveEasterEggEnabled": true,
+  "debugOverlayEnabled": false,
+  "fpsTrackerEnabled": false,
+  "allEditionsDropdownItems": [
+    {
+      "description": "Exponential",
+      "editionKey": "fall2026",
+      "logoUrl": "/media/6d65c49783ba5b195dff711092e418c3.png",
+      "name": "Fall ’26",
+      "url": "https://www.shopify.com/editions/fall2026"
+    },
+    {
+      "description": "Everywhere",
+      "editionKey": "spring2026",
+      "logoUrl": "/media/fav-180.png",
+      "name": "Spring ’26",
+      "url": ""
+    },
+    {
+      "description": "Renaissance",
+      "editionKey": "winter2026",
+      "logoUrl": "/media/favicon_256.png",
+      "name": "Winter ’26",
+      "url": "https://www.shopify.com/editions/winter2026"
+    },
+    {
+      "description": "Horizons",
+      "editionKey": "summer2025",
+      "logoUrl": "/media/Summer2025.svg",
+      "name": "Summer ’25",
+      "url": "https://www.shopify.com/editions/summer2025"
+    },
+    {
+      "description": "Boring",
+      "editionKey": "winter2025",
+      "logoUrl": "/media/Editions-Winter-25-compressed.svg",
+      "name": "Winter ’25",
+      "url": "https://www.shopify.com/editions/winter2025"
+    },
+    {
+      "description": "Unified",
+      "editionKey": "summer2024",
+      "logoUrl": "/media/Editions_Summer_24.svg",
+      "name": "Summer ’24",
+      "url": "https://www.shopify.com/editions/summer2024"
+    },
+    {
+      "description": "Foundations",
+      "editionKey": "winter2024",
+      "logoUrl": "/media/Editions_Winter_24.svg",
+      "name": "Winter ’24",
+      "url": "https://www.shopify.com/editions/winter2024"
+    },
+    {
+      "description": "Imagine My Business",
+      "editionKey": "summer2023",
+      "logoUrl": "/media/Editions_Summer_23.svg",
+      "name": "Summer ’23",
+      "url": "https://www.shopify.com/editions/summer2023"
+    },
+    {
+      "description": "Built to Last",
+      "editionKey": "winter2023",
+      "logoUrl": "/media/Editions_Winter_23.svg",
+      "name": "Winter ’23",
+      "url": "https://www.shopify.com/editions/winter2023"
+    },
+    {
+      "description": "Connect to Consumer",
+      "editionKey": "summer2022",
+      "logoUrl": "/media/Editions_Summer_22.svg",
+      "name": "Summer ’22",
+      "url": "https://www.shopify.com/editions/summer2022"
+    }
+  ],
+  "searchResultEditionKeys": [
+    "fall2026",
+    "spring2026",
+    "winter2026",
+    "summer2025",
+    "winter2025",
+    "summer2024",
+    "winter2024",
+    "summer2023",
+    "winter2023",
+    "summer2022"
+  ]
+}

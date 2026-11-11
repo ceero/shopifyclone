@@ -1,0 +1,388 @@
+{
+  "id": "gid://shopify/Collection/291366797406",
+  "handle": "marketing",
+  "title": "Marketing",
+  "descriptionHtml": "",
+  "sceneText": null,
+  "sceneType": null,
+  "hideSubsectionTitles": false,
+  "tooltipText": null,
+  "theatreSheetUrl": "/media/marketing-prod-2026-06-17T03-23-40.json",
+  "mobileFallbackBackground": {
+    "altText": null,
+    "height": 1034,
+    "id": "gid://shopify/ImageSource/26635759616094",
+    "url": "/media/prod-6-marketing-mobile_e7ff2be4-d065-4927-bacb-b960894df4d1-optimized.webp",
+    "width": 1000,
+    "__typename": "Image"
+  },
+  "desktopFallbackBackground": {
+    "altText": null,
+    "height": 1116,
+    "id": "gid://shopify/ImageSource/26635759648862",
+    "url": "/media/prod-6-marketing-optimized.webp",
+    "width": 2000,
+    "__typename": "Image"
+  },
+  "products": [
+    {
+      "headlineTitle": "Introducing Campaign Autopilot",
+      "isxxl": true,
+      "knockout": true,
+      "id": "gid://shopify/Product/7576949260382",
+      "handle": "introducing-campaign-autopilot",
+      "title": "Introducing Campaign Autopilot",
+      "descriptionHtml": "<p>Run campaigns across channels with AI-powered marketing that learns, optimizes, and drives performance. Set guardrails to stay in control, and track results over time.</p>",
+      "ctas": [
+        {
+          "title": "Read about automating your marketing",
+          "url": "https://shopify.com/blog/introducing-campaign-autopilot",
+          "ariaLabel": null
+        },
+        {
+          "title": "See it in your admin",
+          "url": "https://admin.shopify.com/growth/autopilot",
+          "ariaLabel": null,
+          "authenticated": true
+        }
+      ],
+      "productMedia": {
+        "rive": {
+          "aspectRatio": "16:9",
+          "description": "Campaign Autopilot is being set up in the admin. Channels are connected and a budget is set before ads are created with on-brand visuals, featuring products from the VESNA store.",
+          "fallbackImage": {
+            "altText": "",
+            "height": 1530,
+            "id": "gid://shopify/ImageSource/26549338636382",
+            "url": "/media/U178_Autopilot_fallback.png",
+            "width": 2720
+          },
+          "fallbackImageMobile": {
+            "altText": "",
+            "height": 590,
+            "id": "gid://shopify/ImageSource/26549339193438",
+            "url": "/media/U178_Autopilot_mobile_fallback.png",
+            "width": 786
+          },
+          "fontsFull": [
+            {
+              "id": "gid://shopify/GenericFile/25808766206046",
+              "mimeType": "text/plain",
+              "url": "/media/Inter.txt"
+            },
+            {
+              "id": "gid://shopify/GenericFile/26549589639262",
+              "mimeType": "text/plain",
+              "url": "/media/RadioCanadaBig.txt"
+            }
+          ],
+          "mobileAspectRatio": "4:3",
+          "posterImage": {
+            "image": {
+              "altText": "",
+              "height": 1532,
+              "id": "gid://shopify/ImageSource/26582932389982",
+              "url": "/media/u178_poster_desktop_en.webp",
+              "width": 2760
+            }
+          },
+          "posterImageMobile": {
+            "image": {
+              "altText": "",
+              "height": 1530,
+              "id": "gid://shopify/ImageSource/26582933569630",
+              "url": "/media/u178_poster_mobile_en.webp",
+              "width": 2040
+            }
+          },
+          "globalRiveEnabled": "enabled",
+          "lazyRiveRuntime": true
+        }
+      },
+      "mobileHeadlineTitle": null
+    },
+    {
+      "headlineTitle": "Shop Campaigns on more channels",
+      "headlineTooltip": "Read help doc",
+      "headlineAuthTooltip": "Try it",
+      "isxxl": false,
+      "knockout": true,
+      "id": "gid://shopify/Product/7576952799326",
+      "handle": "shop-campaigns-on-more-channels",
+      "title": "Shop Campaigns on more channels",
+      "descriptionHtml": "<p>Run one campaign across channels with <a href=\"https://www.shopify.com/shop-campaigns\" target=\"_blank\" title=\"Learn more\">Shop Campaigns</a>, including ChatGPT, programmatic ads via Microsoft Monetize, and Pinterest.</p>",
+      "ctas": [
+        {
+          "title": null,
+          "url": "https://help.shopify.com/en/manual/online-sales-channels/shop/shop-campaigns/understanding-campaigns#other-platforms",
+          "ariaLabel": null
+        },
+        {
+          "title": null,
+          "url": "https://admin.shopify.com/apps/shop-72/merchant/advertising",
+          "ariaLabel": null,
+          "authenticated": true
+        }
+      ],
+      "productMedia": {
+        "customVideo": {
+          "h264DesktopW1000": "/media/6b3e590185c1a7a85ea27ab5dc3a403e.mp4",
+          "h264DesktopW500": "/media/7aa2cd7cf96ab957acc3712113e00d4e.mp4",
+          "h264MobileW1440": "/media/e6d79536000885e94aaaf582a245f784.mp4",
+          "h264MobileW720": "/media/961075877d7016e9c8f9c74edfece0e9.mp4",
+          "hevcDesktopW1000": "/media/d3d16b5ce3d9c1717d2ac154119f23a9.mp4",
+          "hevcDesktopW500": "/media/0114c68180cac07e793b4ed7700d56a4.mp4",
+          "hevcMobileW1440": "/media/92d24ca00682ee45eaa87679ffa25bc3.mp4",
+          "hevcMobileW720": "/media/8f6d01d3a8189bbac965d3c27024e12c.mp4",
+          "isStacked": true,
+          "mp4DesktopW1000": "/media/757a570bf7011fd07c21cb5d3f7e3559.mp4",
+          "mp4DesktopW500": "/media/87171d57fe799c21b7eee2dce1276570.mp4",
+          "mp4MobileW1440": "/media/b7ec1299711fed53b107aa2f7722b644.mp4",
+          "mp4MobileW720": "/media/fbd11769a81bf68a748defa7fdff91dd.mp4",
+          "posterDesktop": "/media/88294b31fffc90a5997ac38694f31e0d.png",
+          "posterMobile": "/media/151b84df5f988a2d5db4d5c06b6f5e0c.png",
+          "title": "u-182-shop-campaigns-on-more-channels - Generated Video",
+          "webmDesktopW1000": "/media/9b6435837d2a4ed1f97db39505c508ee.webm",
+          "webmDesktopW500": "/media/5d37566a46f3f33c7128723a4c728da6.webm",
+          "webmMobileW1440": "/media/3d813658649a377337f8588ce2d0a9c8.webm",
+          "webmMobileW720": "/media/83e6c349f39139abf0ddcbb49de0d442.webm"
+        },
+        "rive": {
+          "aspectRatio": "4:3",
+          "description": "A duffel bag is next to the logos for Pinterest, ChatGPT, and Microsoft Monetize. An ad for the duffel bag is displayed for each channel. ",
+          "fallbackImage": {
+            "altText": "",
+            "height": 600,
+            "id": "gid://shopify/ImageSource/26145870577758",
+            "url": "/media/U182_Shop_Campaigns_on_more_channels_desktop_fallback.png",
+            "width": 800
+          },
+          "fontsFull": [
+            {
+              "id": "gid://shopify/GenericFile/25808766206046",
+              "mimeType": "text/plain",
+              "url": "/media/Inter.txt"
+            }
+          ],
+          "posterImage": null,
+          "posterImageMobile": null,
+          "fallbackImageMobile": null,
+          "globalRiveEnabled": "enabled",
+          "lazyRiveRuntime": true
+        }
+      },
+      "mobileHeadlineTitle": null
+    },
+    {
+      "headlineTitle": "Simplified setup and bidding in Shop Campaigns",
+      "headlineTooltip": "Read help doc",
+      "headlineAuthTooltip": "Try it",
+      "knockout": true,
+      "id": "gid://shopify/Product/7641746505822",
+      "handle": "simplified-setup-and-bidding-in-shop-campaigns",
+      "title": "Simplified setup and bidding in Shop Campaigns",
+      "descriptionHtml": "<p>Set up one campaign with custom bids for segments like new or lapsed customers, and run it across channels.</p>",
+      "ctas": [
+        {
+          "title": null,
+          "url": "https://help.shopify.com/en/manual/online-sales-channels/shop/shop-campaigns/manage#create-campaign",
+          "ariaLabel": null
+        },
+        {
+          "title": null,
+          "url": "https://admin.shopify.com/apps/shop-72/merchant/advertising",
+          "ariaLabel": null,
+          "authenticated": true
+        }
+      ],
+      "productMedia": {
+        "image": {
+          "altText": "The average customer acquistion cost is overlaid on top of an Instagram ad for a magenta tote bag that's being run by the Shop app  ",
+          "height": 600,
+          "id": "gid://shopify/ImageSource/26418969378910",
+          "url": "/media/U308_Multi-bid_in_shop_campaigns.png",
+          "width": 800
+        }
+      },
+      "mobileHeadlineTitle": null
+    },
+    {
+      "headlineTitle": "WhatsApp marketing channel",
+      "headlineTooltip": "Read help doc",
+      "isxxl": false,
+      "knockout": true,
+      "id": "gid://shopify/Product/7641747292254",
+      "handle": "whatsapp-marketing-channel",
+      "title": "WhatsApp marketing channel",
+      "descriptionHtml": "<p>Create and manage WhatsApp marketing campaigns in <a href=\"https://apps.shopify.com/shopify-messaging\" target=\"_blank\" title=\"Get app\">Shopify Messaging</a>.</p>",
+      "ctas": [
+        {
+          "title": null,
+          "url": "https://help.shopify.com/en/manual/promoting-marketing/create-marketing/shopify-messaging",
+          "ariaLabel": null
+        }
+      ],
+      "productMedia": {
+        "image": {
+          "altText": "The WhatsApp logo beside a smartphone that's composing a marketing message with a list of selectable options",
+          "height": 600,
+          "id": "gid://shopify/ImageSource/26418979930206",
+          "url": "/media/U303_WhatsApp_marketing_channel.png",
+          "width": 800
+        }
+      },
+      "mobileHeadlineTitle": null
+    },
+    {
+      "headlineTitle": "SMS and marketing automations",
+      "headlineTooltip": "Read help doc",
+      "headlineAuthTooltip": "Try it",
+      "id": "gid://shopify/Product/7576952471646",
+      "handle": "sms-and-marketing-automations-in-shopify-messaging",
+      "title": "SMS and marketing automations in Shopify Messaging",
+      "descriptionHtml": "<p>Create and manage marketing automations in <a href=\"https://apps.shopify.com/shopify-messaging\" target=\"_blank\" title=\"Get app\">Shopify Messaging</a>, now including SMS automations.</p>",
+      "ctas": [
+        {
+          "title": null,
+          "url": "https://help.shopify.com/en/manual/promoting-marketing/create-marketing/shopify-messaging/marketing-automations/create",
+          "ariaLabel": null
+        },
+        {
+          "title": null,
+          "url": "https://admin.shopify.com/apps/shopify-messaging/automations/templates",
+          "ariaLabel": null,
+          "authenticated": true
+        }
+      ],
+      "mobileHeadlineTitle": null
+    },
+    {
+      "headlineTitle": "Smart email delivery",
+      "headlineTooltip": "Read help doc",
+      "id": "gid://shopify/Product/7576952537182",
+      "handle": "smart-email-delivery-with-shopify-messaging",
+      "title": "Smart email delivery with Shopify Messaging",
+      "descriptionHtml": "<p><a href=\"https://apps.shopify.com/shopify-messaging\" target=\"_blank\" title=\"Get app\">Shopify Messaging</a> intelligently prioritizes which messages to send and hold back, optimizing for conversion. </p>",
+      "ctas": [
+        {
+          "title": null,
+          "url": "https://help.shopify.com/manual/promoting-marketing/create-marketing/shopify-messaging/delivery#smart-delivery",
+          "ariaLabel": null
+        }
+      ],
+      "mobileHeadlineTitle": null
+    },
+    {
+      "headlineTitle": "Standardized ads billing for Shop Campaigns",
+      "headlineTooltip": "Read help doc",
+      "id": "gid://shopify/Product/7576955060318",
+      "handle": "standardized-ads-billing-for-shop-campaigns",
+      "title": "Standardized ads billing for Shop Campaigns",
+      "descriptionHtml": "<p><a href=\"https://www.shopify.com/shop-campaigns\" target=\"_blank\" title=\"Learn more\">Shop Campaigns</a> charges appear on your Shopify invoice with centralized reporting and billing in the admin.</p>",
+      "ctas": [
+        {
+          "title": null,
+          "url": "https://help.shopify.com/en/manual/online-sales-channels/shop/shop-campaigns/payment#billing",
+          "ariaLabel": null
+        }
+      ],
+      "mobileHeadlineTitle": null
+    },
+    {
+      "headlineTitle": "Marketing data in analytics",
+      "headlineTooltip": "Read help doc",
+      "headlineAuthTooltip": "Try it",
+      "id": "gid://shopify/Product/7576953749598",
+      "handle": "marketing-data-in-analytics",
+      "title": "Marketing data in analytics",
+      "descriptionHtml": "<p>View marketing reports in analytics with spend, ROAS, impressions, and sessions alongside sales.</p>",
+      "ctas": [
+        {
+          "title": null,
+          "url": "https://help.shopify.com/en/manual/reports-and-analytics/shopify-reports/report-types/default-reports/marketing-reports",
+          "ariaLabel": null
+        },
+        {
+          "title": null,
+          "url": "https://admin.shopify.com/analytics/reports?category=MARKETING",
+          "ariaLabel": null,
+          "authenticated": true
+        }
+      ],
+      "mobileHeadlineTitle": null
+    },
+    {
+      "headlineTitle": "Discount links attributed to campaigns",
+      "headlineTooltip": "Read help doc",
+      "id": "gid://shopify/Product/7580268757086",
+      "handle": "discount-links-attributed-to-campaigns",
+      "title": "Discount links attributed to campaigns",
+      "descriptionHtml": "<p>Attribute discount links to their associated campaign to accurately track traffic and conversion.</p>",
+      "ctas": [
+        {
+          "title": null,
+          "url": "https://help.shopify.com/en/manual/discounts/managing-discounts#promote-a-discount-using-a-shareable-link-or-qr-code",
+          "ariaLabel": null
+        }
+      ],
+      "mobileHeadlineTitle": null
+    },
+    {
+      "headlineTitle": "Fixed bundles on Google Shopping and Meta",
+      "headlineTooltip": "Read help doc",
+      "id": "gid://shopify/Product/7576950112350",
+      "handle": "fixed-bundles-on-google-shopping-and-meta",
+      "title": "Fixed bundles on Google Shopping and Meta",
+      "descriptionHtml": "<p>Publish pre-configured bundles across Google search and ads, YouTube, Facebook, and Instagram.</p>",
+      "ctas": [
+        {
+          "title": null,
+          "url": "https://help.shopify.com/en/manual/products/bundles/index",
+          "ariaLabel": null
+        }
+      ],
+      "mobileHeadlineTitle": null
+    },
+    {
+      "headlineTitle": "Marketing consent on sign-in",
+      "headlineTooltip": "Read help doc",
+      "headlineAuthTooltip": "Try it",
+      "id": "gid://shopify/Product/7576949915742",
+      "handle": "marketing-consent-on-sign-in",
+      "title": "Marketing consent on sign-in",
+      "descriptionHtml": "<p>Capture email marketing opt-ins on your customer sign-in page.</p>",
+      "ctas": [
+        {
+          "title": null,
+          "url": "https://help.shopify.com/en/manual/promoting-marketing/create-marketing/customer-contact-information#collect-customer-emails-from-checkout-and-sign-in",
+          "ariaLabel": null
+        },
+        {
+          "title": null,
+          "url": "https://admin.shopify.com/settings/checkout",
+          "ariaLabel": null,
+          "authenticated": true
+        }
+      ],
+      "mobileHeadlineTitle": null
+    },
+    {
+      "headlineTitle": "WhatsApp consent management",
+      "headlineTooltip": "Read help doc",
+      "id": "gid://shopify/Product/7641747161182",
+      "handle": "whatsapp-consent-management",
+      "title": "WhatsApp consent management",
+      "descriptionHtml": "<p>Control WhatsApp marketing consent in each customer's profile alongside their email and SMS consent.</p>",
+      "ctas": [
+        {
+          "title": null,
+          "url": "https://help.shopify.com/en/manual/customers/manage-customers#edit-customer-profiles",
+          "ariaLabel": null
+        }
+      ],
+      "mobileHeadlineTitle": null
+    }
+  ],
+  "scenePresetName": "prod-6-marketing",
+  "drivePortalTargetSceneName": null
+}

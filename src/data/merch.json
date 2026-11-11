@@ -1,0 +1,38 @@
+{
+  "product": {
+    "title": "Everywhere Cap",
+    "handle": "ballcap",
+    "description": "Stay ahead of how the world sells, shops, and builds. Ready for wherever commerce takes you.",
+    "descriptionHtml": "<p><meta charset=\"utf-8\">Stay ahead of how the world sells, shops, and builds. Ready for wherever commerce takes you.<br></p>",
+    "featuredImage": {
+      "id": "gid://shopify/ProductImage/35079864418398",
+      "url": "/media/hat-poster.png",
+      "altText": null,
+      "width": 506,
+      "height": 268
+    },
+    "modelUrl": "/media/everywhere_hat_02.glb",
+    "variant": {
+      "id": "gid://shopify/ProductVariant/70415961587734",
+      "availableForSale": true,
+      "title": "Default Title",
+      "price": {
+        "amount": "20.26",
+        "currencyCode": "USD"
+      },
+      "numericId": "70415961587734"
+    }
+  },
+  "merchContent": {
+    "openMerchModal": "Get the Everywhere Cap",
+    "buyLabel": "Buy",
+    "closeAriaLabel": "Close modal",
+    "increaseAriaLabel": "Increase amount",
+    "decreaseAriaLabel": "Decrease amount",
+    "disclaimer": "Taxes calculated at checkout. All sales are final. We do not offer refunds or exchanges.",
+    "noProduct": "No product available at this time.",
+    "quantityLabel": "Quantity",
+    "soldOut": "Sold out"
+  },
+  "storeURL": "supplystore2021.myshopify.com"
+}

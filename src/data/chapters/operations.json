@@ -1,0 +1,1267 @@
+{
+  "id": "gid://shopify/Collection/291366928478",
+  "handle": "operations",
+  "title": "Operations",
+  "descriptionHtml": "",
+  "sceneText": null,
+  "sceneType": null,
+  "hideSubsectionTitles": false,
+  "tooltipText": null,
+  "theatreSheetUrl": "/media/operations-prod-2026-06-15T14-48-15.json",
+  "mobileFallbackBackground": {
+    "altText": null,
+    "height": 1034,
+    "id": "gid://shopify/ImageSource/26631946829918",
+    "url": "/media/operations-mobile-optimized.webp",
+    "width": 1000,
+    "__typename": "Image"
+  },
+  "desktopFallbackBackground": {
+    "altText": null,
+    "height": 1129,
+    "id": "gid://shopify/ImageSource/26635756634206",
+    "url": "/media/prod-7-operations-desktop-optimized.webp",
+    "width": 2000,
+    "__typename": "Image"
+  },
+  "products": [],
+  "nestedCollections": [
+    {
+      "id": "gid://shopify/Collection/293666259038",
+      "handle": "operations-plugins",
+      "title": "Plugins",
+      "descriptionHtml": "",
+      "sceneText": null,
+      "sceneType": null,
+      "hideSubsectionTitles": false,
+      "tooltipText": null,
+      "theatreSheetUrl": null,
+      "mobileFallbackBackground": null,
+      "desktopFallbackBackground": null,
+      "products": [
+        {
+          "headlineTitle": "More vibe-coding partners",
+          "headlineTooltip": "Learn more",
+          "eyebrow": "Plugins",
+          "isxxl": false,
+          "knockout": true,
+          "id": "gid://shopify/Product/7627664195678",
+          "handle": "vibe-coding-stores-with-manus-replit-v0-or-lovable",
+          "title": "Vibe coding stores with Manus, Replit, V0, or Lovable",
+          "descriptionHtml": "<p>Describe your business and spin up a Shopify store with Manus, Replit, V0, or Lovable.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://www.shopify.com/build-with-ai#app-builders",
+              "ariaLabel": null
+            }
+          ],
+          "productMedia": {
+            "image": {
+              "altText": "A terminal in dark mode describes vibe-coding integrations with the logos of the partner developer tools",
+              "height": 600,
+              "id": "gid://shopify/ImageSource/26474275373150",
+              "url": "/media/U281_Vibecoding_plugins.png",
+              "width": 800
+            }
+          },
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Store management with agents",
+          "headlineTooltip": "Learn more",
+          "eyebrow": "Plugins",
+          "isxxl": false,
+          "knockout": true,
+          "id": "gid://shopify/Product/7627664228446",
+          "handle": "store-management-with-agents-like-claude-chatgpt-or-perplexity",
+          "title": "Store management with agents like Claude, ChatGPT, or Perplexity",
+          "descriptionHtml": "<p>Run your store inside Claude, ChatGPT, or Perplexity. Add products, create collections, and manage orders from the chat.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://www.shopify.com/build-with-ai#chat-connectors",
+              "ariaLabel": null
+            }
+          ],
+          "productMedia": {
+            "customVideo": {
+              "h264DesktopW1000": "/media/aa150440e840aae9e8d251fb8cf4e074.mp4",
+              "h264DesktopW500": "/media/ea49023f12930b8da2c9d5810cd4ced9.mp4",
+              "h264MobileW1440": "/media/4de0a5e91fc3d25636086c4cb9cb8704.mp4",
+              "h264MobileW720": "/media/86f6050fa3787ae7f3116983dca06cd4.mp4",
+              "hevcDesktopW1000": "/media/887ebd280a4d9d6162b69e986efb2e4b.mp4",
+              "hevcDesktopW500": "/media/042b210a4ea7f12767bc7ec6eaf278cf.mp4",
+              "hevcMobileW1440": "/media/c88bf21321ee3eecf9cbd6dade79556d.mp4",
+              "hevcMobileW720": "/media/241e2cc0e716e864098768a1637bde68.mp4",
+              "isStacked": true,
+              "mp4DesktopW1000": "/media/0748927ecb8dd6234e8b676347f2d2ea.mp4",
+              "mp4DesktopW500": "/media/441d736de5087be8aa07353240ba6c6f.mp4",
+              "mp4MobileW1440": "/media/5d87c448f0460e45515ff2cb9b6a0670.mp4",
+              "mp4MobileW720": "/media/95d170137dd7f408d192215df7424dc2.mp4",
+              "posterDesktop": "/media/0d3ca72d63dd40e673f9514d34efac83.png",
+              "posterMobile": "/media/1bd0014c8410d1ba9325ce34cb96e913.png",
+              "title": "u-282-claude-gpt-perplexity - Generated Video",
+              "webmDesktopW1000": "/media/9cb793d0d9b57df86a661dd2ff9ef3a8.webm",
+              "webmDesktopW500": "/media/077e8df3cfaa1829f336ab099462bdb9.webm",
+              "webmMobileW1440": "/media/a186afdbbfc7e8fdd0b2ca5959ee6640.webm",
+              "webmMobileW720": "/media/28f178e535c080ea817e51d624a75914.webm"
+            },
+            "rive": {
+              "aspectRatio": "4:3",
+              "description": "An agent is asked to add a product to a store and a bag is added, then the logos for Claude, ChatGPT, and Perplexity are displayed",
+              "fallbackImage": {
+                "altText": "",
+                "height": 600,
+                "id": "gid://shopify/ImageSource/26418967019614",
+                "url": "/media/U282_Claude_GPT.png",
+                "width": 800
+              },
+              "fontsFull": [
+                {
+                  "id": "gid://shopify/GenericFile/25808766206046",
+                  "mimeType": "text/plain",
+                  "url": "/media/Inter.txt"
+                },
+                {
+                  "id": "gid://shopify/GenericFile/26549589639262",
+                  "mimeType": "text/plain",
+                  "url": "/media/RadioCanadaBig.txt"
+                }
+              ],
+              "posterImage": {
+                "image": {
+                  "altText": "",
+                  "height": 600,
+                  "id": "gid://shopify/ImageSource/26550997352542",
+                  "url": "/media/u282-poster.png",
+                  "width": 800
+                }
+              },
+              "posterImageMobile": null,
+              "fallbackImageMobile": null,
+              "globalRiveEnabled": "enabled",
+              "lazyRiveRuntime": true
+            }
+          },
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Shopify AI Toolkit",
+          "headlineTooltip": "Read dev docs",
+          "eyebrow": "Plugins",
+          "isxxl": false,
+          "knockout": true,
+          "id": "gid://shopify/Product/7622231097438",
+          "handle": "shopify-ai-toolkit",
+          "title": "Shopify AI Toolkit",
+          "descriptionHtml": "<p>Manage your store from AI platforms like Claude Code, Codex, Cursor, VS Code, and more.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://shopify.dev/docs/apps/build/ai-toolkit",
+              "ariaLabel": null
+            }
+          ],
+          "productMedia": {
+            "image": {
+              "altText": "A terminal in dark mode shows developer commands and configuration for the Shopify AI Toolkit",
+              "height": 600,
+              "id": "gid://shopify/ImageSource/26216523890782",
+              "url": "/media/U275_AI_toolkit.png",
+              "width": 800
+            }
+          },
+          "mobileHeadlineTitle": null
+        }
+      ],
+      "scenePresetName": null,
+      "drivePortalTargetSceneName": null
+    },
+    {
+      "id": "gid://shopify/Collection/292911579230",
+      "handle": "operations-admin",
+      "title": "Admin",
+      "descriptionHtml": "",
+      "sceneText": null,
+      "sceneType": null,
+      "hideSubsectionTitles": false,
+      "tooltipText": null,
+      "theatreSheetUrl": null,
+      "mobileFallbackBackground": null,
+      "desktopFallbackBackground": null,
+      "products": [
+        {
+          "headlineTitle": "Better context for your store's data",
+          "eyebrow": "Admin",
+          "isxxl": true,
+          "knockout": true,
+          "id": "gid://shopify/Product/7629134495838",
+          "handle": "better-context-for-your-store-s-data",
+          "title": "Better context for your store's data",
+          "descriptionHtml": "<p>Understand your numbers, so you can take action, with daily insights and more context on your store in analytics.</p>",
+          "ctas": [
+            {
+              "title": "Read what's new",
+              "url": "https://www.shopify.com/blog/analytics-spring-2026",
+              "ariaLabel": null
+            }
+          ],
+          "productMedia": {
+            "customVideo": {
+              "h264DesktopW1000": "/media/e615e40d408b2653d58e3d0ab3efbf9a.mp4",
+              "h264DesktopW1250": "/media/dbeb5af0515e482c5801e2019be893cb.mp4",
+              "h264DesktopW2500": "/media/0a5e254e3a6ae7bb2719f344c059f3ec.mp4",
+              "h264DesktopW500": "/media/8c9f2fefd9a4a8ce3010d35f19b5e179.mp4",
+              "h264MobileW1440": "/media/0e2a8e95e06a3ca249cbc5baa2a778a1.mp4",
+              "h264MobileW720": "/media/498675ebc69ae24cdb4086e06c085670.mp4",
+              "hevcDesktopW1000": "/media/d560635bc6ca284ab27a88d547abe1e0.mp4",
+              "hevcDesktopW1250": "/media/e685af58cccc7b00ea0dee83f6451603.mp4",
+              "hevcDesktopW2500": "/media/8596893f4e7a4086c57b5659e7790a20.mp4",
+              "hevcDesktopW500": "/media/c0207a67c20e1297ce921dd904a9577d.mp4",
+              "hevcMobileW1440": "/media/8fbd53dcf6a858dae11e0b3fe4f50698.mp4",
+              "hevcMobileW720": "/media/2438ca3d513c4a0fd1cb95180f07ecfb.mp4",
+              "isStacked": true,
+              "mp4DesktopW1000": "/media/b41c198cc10c57ed8fe8258bdb44410a.mp4",
+              "mp4DesktopW1250": "/media/f47d0c45729af3ebc6ffade627fd7c32.mp4",
+              "mp4DesktopW2500": "/media/086b4ba37717f4a53d7166ec478d8392.mp4",
+              "mp4DesktopW500": "/media/be2efbf5d1433ca95de774f7d26b278a.mp4",
+              "mp4MobileW1440": "/media/5f625f916081369150ca85ec4347ff43.mp4",
+              "mp4MobileW720": "/media/b611018976b4f2cde60c45fae937c8a4.mp4",
+              "posterDesktop": "/media/480f30658908cf6a18c9cd27dcd881e8.png",
+              "posterMobile": "/media/a41b84ce2f1dcedf9c55664320c75caa.png",
+              "title": "Better context for your store's data - Generated Video",
+              "webmDesktopW1000": "/media/a29d9f49a7d53aa3d8e7336b3d8f5de1.webm",
+              "webmDesktopW1250": "/media/240626d5e041bbd824d6693435a71128.webm",
+              "webmDesktopW2500": "/media/74750fe4d43afaefb3669b32092f5a0e.webm",
+              "webmDesktopW500": "/media/78bbe9a35b3638043da644367fdbe0e8.webm",
+              "webmMobileW1440": "/media/c5a3fd38d9bd5005a836ae42d8b3788a.webm",
+              "webmMobileW720": "/media/7b2da41a3f700b5f13d02f0650de27aa.webm"
+            },
+            "youtubeId": "DiJc9gsgzn8"
+          },
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "New data visualizations in analytics",
+          "headlineTooltip": "Read article",
+          "eyebrow": "Admin",
+          "id": "gid://shopify/Product/7641746538590",
+          "handle": "new-data-visualizations-in-analytics",
+          "title": "New data visualizations in analytics",
+          "descriptionHtml": "<p>Get a deeper understanding of your data with scatter plots, radars, bubble charts, and sunbursts.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://www.shopify.com/blog/new-ways-to-see-your-data",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Daily insights in analytics",
+          "headlineTooltip": "Read help doc",
+          "eyebrow": "Admin",
+          "id": "gid://shopify/Product/7608113561694",
+          "handle": "daily-insights-in-analytics",
+          "title": "Daily insights in analytics",
+          "descriptionHtml": "<p>Shopify analyzes your data and surfaces the most important trends in the analytics overview.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://help.shopify.com/en/manual/reports-and-analytics/shopify-reports/overview-dashboard/using-the-overview-dashboard#insights",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Annotations in analytics charts",
+          "headlineTooltip": "Read help doc",
+          "eyebrow": "Admin",
+          "id": "gid://shopify/Product/7608113528926",
+          "handle": "annotations-in-analytics-charts",
+          "title": "Annotations in analytics charts",
+          "descriptionHtml": "<p>Visual markers in analytics charts explain why your metrics changed.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://help.shopify.com/manual/reports-and-analytics/shopify-reports/report-types/custom-reports/annotations",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Metric targets in analytics",
+          "headlineTooltip": "Read help doc",
+          "eyebrow": "Admin",
+          "id": "gid://shopify/Product/7608113496158",
+          "handle": "metric-targets-in-analytics",
+          "title": "Metric targets in analytics",
+          "descriptionHtml": "<p>Set targets for key metrics and visually track your progress.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://help.shopify.com/manual/reports-and-analytics/shopify-reports/report-types/targets",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Multi-metric data visualizations",
+          "headlineTooltip": "Read help doc",
+          "eyebrow": "Admin",
+          "id": "gid://shopify/Product/7608113463390",
+          "handle": "plot-multiple-metrics-together-in-data-visualizations",
+          "title": "Plot multiple metrics together in data visualizations",
+          "descriptionHtml": "<p>Plot multiple metrics together in line or bar and line charts to spot patterns in your analytics.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://help.shopify.com/manual/reports-and-analytics/shopify-reports/report-types/custom-reports/visualizations#multi-metric-visualizations",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Analytics filtered by metafields",
+          "headlineTooltip": "Read help doc",
+          "eyebrow": "Admin",
+          "id": "gid://shopify/Product/7608113430622",
+          "handle": "analytics-filtered-by-metafields",
+          "title": "Analytics filtered by metafields",
+          "descriptionHtml": "<p>Filter and group analytics reports by your custom structured data.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://help.shopify.com/manual/reports-and-analytics/shopify-reports/report-types/custom-reports/filter-and-edit#metafields",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Metafields added in context of workflows",
+          "headlineTooltip": "Read help doc",
+          "eyebrow": "Admin",
+          "id": "gid://shopify/Product/7604579467358",
+          "handle": "metafields-added-in-context-of-workflows",
+          "title": "Metafields added in context of workflows",
+          "descriptionHtml": "<p>Create metafields from customers, orders, and collections in the admin without navigating to settings.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://help.shopify.com/en/manual/custom-data/metafields/metafield-definitions/creating-custom-metafield-definitions",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "More pinned metafields",
+          "headlineTooltip": "Read help doc",
+          "eyebrow": "Admin",
+          "id": "gid://shopify/Product/7604579041374",
+          "handle": "pin-up-to-50-metafields-across-the-admin",
+          "title": "Pin up to 50 metafields across the admin",
+          "descriptionHtml": "<p>Pin up to 50 metafields on product, customer, and order sections without clicking into a separate page.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://help.shopify.com/en/manual/custom-data/metafields/pinning-metafield-definitions",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Discounts on refund page",
+          "headlineTooltip": "Read help doc",
+          "eyebrow": "Admin",
+          "id": "gid://shopify/Product/7592461467742",
+          "handle": "discounts-on-refund-page",
+          "title": "Discounts on refund page",
+          "descriptionHtml": "<p>Apply discounts directly on the refund page while maintaining accurate sales and tax financials.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://help.shopify.com/en/manual/fulfillment/managing-orders/refunding-orders#refund-an-entire-order",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Consistent calculations across returns and upsells",
+          "eyebrow": "Admin",
+          "id": "gid://shopify/Product/7582952882270",
+          "handle": "consistent-calculations-across-returns-and-upsells",
+          "title": "Consistent calculations across returns and upsells",
+          "descriptionHtml": "<p>Pricing on returns and upsells uses the same logic as checkout, so there aren't discrepancies.</p>",
+          "ctas": [],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Visibility for app activity",
+          "headlineTooltip": "Read help doc",
+          "eyebrow": "Admin",
+          "id": "gid://shopify/Product/7576955322462",
+          "handle": "redesigned-app-settings",
+          "title": "Redesigned app settings",
+          "descriptionHtml": "<p>Track what apps are doing, where extensions and functions run, and what data they access.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://help.shopify.com/en/manual/apps/managing-apps",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Staff payments permissions",
+          "headlineTooltip": "Read help doc",
+          "eyebrow": "Admin",
+          "id": "gid://shopify/Product/7576954372190",
+          "handle": "staff-payments-permissions",
+          "title": "Staff payments permissions",
+          "descriptionHtml": "<p>Delegate management of payments, payouts, and disputes to staff with granular permissions.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://help.shopify.com/en/manual/your-account/users/roles/permissions/store-permissions",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Custom pricing on draft orders",
+          "headlineTooltip": "Read help doc",
+          "eyebrow": "Admin",
+          "id": "gid://shopify/Product/7576954339422",
+          "handle": "custom-pricing-on-draft-orders",
+          "title": "Custom pricing on draft orders",
+          "descriptionHtml": "<p>Override line item prices and apply custom discounts directly on draft orders.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://help.shopify.com/en/manual/fulfillment/managing-orders/create-orders/create-draft#set-custom-line-item-prices",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Filtering and saved views across admin",
+          "headlineTooltip": "Read help doc",
+          "eyebrow": "Admin",
+          "id": "gid://shopify/Product/7576953454686",
+          "handle": "filtering-and-saved-views-from-one-search-bar-across-admin",
+          "title": "Filtering and saved views from one search bar across admin",
+          "descriptionHtml": "<p>Search, filter, and save views from one search bar across sections in the admin.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://help.shopify.com/en/manual/shopify-admin/productivity-tools/searching-filtering-views#enhanced-search-filter",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Category-specific return reasons",
+          "headlineTooltip": "Read help doc",
+          "eyebrow": "Admin",
+          "id": "gid://shopify/Product/7576951521374",
+          "handle": "category-specific-return-reasons",
+          "title": "Category-specific return reasons",
+          "descriptionHtml": "<p>Whether customers return items online or in store, return reasons now match what they bought, so you get better data.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://help.shopify.com/en/manual/fulfillment/managing-orders/returns/creating-returns#create-a-return",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Code editor in Shopify Flow",
+          "headlineTooltip": "Read help doc",
+          "eyebrow": "Admin",
+          "id": "gid://shopify/Product/7588207919198",
+          "handle": "code-editor-in-shopify-flow",
+          "title": "Code editor in Shopify Flow",
+          "descriptionHtml": "<p>Write code faster with syntax highlighting, autocomplete, and formatting in Liquid variables for <a href=\"https://apps.shopify.com/flow\" target=\"_blank\" title=\"Get app\">Shopify Flow</a>.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://help.shopify.com/en/manual/shopify-flow/getting-started/concepts/variables",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Automatic shipping label purchasing",
+          "headlineTooltip": "Read help doc",
+          "headlineAuthTooltip": "Try it",
+          "eyebrow": "Admin",
+          "id": "gid://shopify/Product/7576953585758",
+          "handle": "automated-shipping-label-purchasing-with-shopify-flow",
+          "title": "Automated shipping label purchasing with Shopify Flow",
+          "descriptionHtml": "<p>Create rules in <a href=\"https://apps.shopify.com/flow\" target=\"_blank\" title=\"Get app\">Shopify Flow</a> that buy shipping labels when specific triggers occur.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://help.shopify.com/en/manual/shopify-flow/reference/actions/purchase-shipping-label",
+              "ariaLabel": null
+            },
+            {
+              "title": null,
+              "url": "https://admin.shopify.com/apps/flow/editor/templates/019c76d8-e8db-72e2-8752-6f40ee134faa",
+              "ariaLabel": null,
+              "authenticated": true
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Version history",
+          "headlineTooltip": "Read help doc",
+          "eyebrow": "Admin",
+          "id": "gid://shopify/Product/7576953552990",
+          "handle": "version-history-in-shopify-flow",
+          "title": "Version history in Shopify Flow",
+          "descriptionHtml": "<p>See who updated a workflow and when it was edited to track changes in <a href=\"https://apps.shopify.com/flow\" target=\"_blank\" title=\"Get app\">Shopify Flow</a>.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://help.shopify.com/manual/shopify-flow/manage/version-history",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Workflow notes",
+          "headlineTooltip": "Read help doc",
+          "eyebrow": "Admin",
+          "id": "gid://shopify/Product/7576953520222",
+          "handle": "workflow-notes-in-shopify-flow",
+          "title": "Workflow notes in Shopify Flow",
+          "descriptionHtml": "<p>Add notes to any <a href=\"https://apps.shopify.com/flow\" target=\"_blank\" title=\"Get app\">Shopify Flow</a> workflow, so collaborators understand your logic.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://help.shopify.com/manual/shopify-flow/manage/manage#add-note",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "ShopifyQL and more Admin API fields in automations",
+          "headlineTooltip": "Read help doc",
+          "eyebrow": "Admin",
+          "id": "gid://shopify/Product/7576953487454",
+          "handle": "shopifyql-and-more-admin-api-fields-in-automations",
+          "title": "ShopifyQL and more Admin API fields in automations",
+          "descriptionHtml": "<p>Access analytics data and more Admin API fields in your <a href=\"https://apps.shopify.com/flow\" target=\"_blank\" title=\"Get app\">Shopify Flow</a> automations without writing code.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://help.shopify.com/en/manual/shopify-flow/reference/actions",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        }
+      ],
+      "scenePresetName": null,
+      "drivePortalTargetSceneName": null
+    },
+    {
+      "id": "gid://shopify/Collection/292911710302",
+      "handle": "operations-inventory",
+      "title": "Inventory",
+      "descriptionHtml": "",
+      "sceneText": null,
+      "sceneType": null,
+      "hideSubsectionTitles": false,
+      "tooltipText": null,
+      "theatreSheetUrl": null,
+      "mobileFallbackBackground": null,
+      "desktopFallbackBackground": null,
+      "products": [
+        {
+          "headlineTitle": "Enhanced inventory management",
+          "eyebrow": "Inventory",
+          "isxxl": true,
+          "knockout": true,
+          "id": "gid://shopify/Product/7626873536606",
+          "handle": "enhanced-inventory-management",
+          "title": "Enhanced inventory management",
+          "descriptionHtml": "<p>Make purchasing decisions with <a href=\"https://www.shopify.com/sidekick\" target=\"_blank\" title=\"Learn more\">Sidekick</a>, scan barcodes to receive shipments, keep counts accurate across channels, and turn returns into data.</p>",
+          "ctas": [
+            {
+              "title": "Read what's new",
+              "url": "https://www.shopify.com/blog/enhanced-inventory-management",
+              "ariaLabel": null
+            }
+          ],
+          "productMedia": {
+            "customVideo": {
+              "h264DesktopW1250": "/media/6fcc0ba6b89aa52cf46903e3c1c3b723.mp4",
+              "h264DesktopW2500": "/media/f2022884240a2dd87208a44a006d1fb4.mp4",
+              "h264MobileW1440": "/media/535b8d2fbd373f9ab68c3b3b33dae42a.mp4",
+              "h264MobileW720": "/media/a32ad94843fbe1163b4408c7a4af474c.mp4",
+              "hevcDesktopW1250": "/media/82c26e7d6a33a3984db7ec7b2ca54c8f.mp4",
+              "hevcDesktopW2500": "/media/e1156a7640474a3d9a46ea649adf5248.mp4",
+              "hevcMobileW1440": "/media/2e06890d652a4eb0ab532ccfa3ed478d.mp4",
+              "hevcMobileW720": "/media/b8dc305c069eefb3a1f5331399de746c.mp4",
+              "isStacked": true,
+              "mp4DesktopW1250": "/media/745944d82f75451bdd3beef68735f0d0.mp4",
+              "mp4DesktopW2500": "/media/ad29b3b8ebcc7a7e0c9aa8a200719798.mp4",
+              "mp4MobileW1440": "/media/100fbfde022c65da90d9c46404f10b93.mp4",
+              "mp4MobileW720": "/media/2b9fde6f9d1fc3354e18a9540cdc5439.mp4",
+              "posterDesktop": "/media/e6eea170fb75d40c585bb3f193dbc8b8.png",
+              "posterMobile": "/media/e6eea170fb75d40c585bb3f193dbc8b8.png",
+              "title": "Enhanced inventory management - Generated Video",
+              "webmDesktopW1250": "/media/a8e0cd1a259c49a2efecd7520c4e7568.webm",
+              "webmDesktopW2500": "/media/e8be85160522b081dffae532f1f859c2.webm",
+              "webmMobileW1440": "/media/7a764a60b2585746f576bddd2d62dc2d.webm",
+              "webmMobileW720": "/media/3643d30732d8d04ab9096b11d7061a3b.webm"
+            },
+            "image": {
+              "altText": "",
+              "height": 1440,
+              "id": "gid://shopify/ImageSource/26421518925918",
+              "url": "/media/inventory_managed_preroll.png",
+              "width": 2560
+            },
+            "youtubeId": "dsW4E40Y0UI"
+          },
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "SKU sharing required across locations",
+          "headlineTooltip": "Read help doc",
+          "eyebrow": "Inventory",
+          "id": "gid://shopify/Product/7576953978974",
+          "handle": "sku-sharing-required-across-locations",
+          "title": "SKU sharing required across locations",
+          "descriptionHtml": "<p>Stock the same variant across multiple locations without duplicating inventory items.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://help.shopify.com/en/manual/products/inventory/setup/multi-managed-inventory#multi-managed-inventory",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Faster inventory syncing",
+          "headlineTooltip": "Read article",
+          "eyebrow": "Inventory",
+          "id": "gid://shopify/Product/7576954110046",
+          "handle": "faster-inventory-syncing",
+          "title": "Faster inventory syncing",
+          "descriptionHtml": "<p>Back-in-stock updates reach your online store faster during high-traffic events with performance improvements.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://www.shopify.com/blog/enhanced-inventory-management",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Pickup order fulfillment from multiple sources",
+          "headlineTooltip": "Read help doc",
+          "eyebrow": "Inventory",
+          "id": "gid://shopify/Product/7576954142814",
+          "handle": "pickup-order-fulfillment-from-multiple-sources",
+          "title": "Pickup order fulfillment from multiple sources",
+          "descriptionHtml": "<p>Fulfill pickup orders using both in-store stock and transferred inventory.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://help.shopify.com/en/manual/fulfillment/setup/delivery-methods/pickup-in-store#considerations-for-setting-up-pickup-in-store",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Shipment-level barcode receiving",
+          "headlineTooltip": "Read help doc",
+          "eyebrow": "Inventory",
+          "id": "gid://shopify/Product/7576954175582",
+          "handle": "shipment-level-barcode-receiving",
+          "title": "Shipment-level barcode receiving",
+          "descriptionHtml": "<p>Scan shipment barcodes like GS1-128 to receive inventory transfers faster in the admin.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://help.shopify.com/en/manual/products/inventory/inventory-transfers/barcode-scanner#receive-shipment-barcode-scanner",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Inventory tracking separated from active products",
+          "headlineTooltip": "Read help doc",
+          "eyebrow": "Inventory",
+          "id": "gid://shopify/Product/7576954241118",
+          "handle": "inventory-tracking-separated-from-active-products",
+          "title": "Inventory tracking separated from active products",
+          "descriptionHtml": "<p>Manage or move stock at locations independently of where products are actively for sale.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://help.shopify.com/en/manual/products/inventory/setup/multi-managed-inventory#assigning-inventory-to-locations",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Smarter purchase order workflows",
+          "headlineTooltip": "Read help doc",
+          "eyebrow": "Inventory",
+          "id": "gid://shopify/Product/7582952718430",
+          "handle": "smarter-purchase-order-workflows",
+          "title": "Smarter purchase order workflows",
+          "descriptionHtml": "<p><a href=\"https://www.shopify.com/sidekick\" target=\"_blank\" title=\"Learn more\">Sidekick</a> can generate your purchase orders, which now automatically create transfers.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://help.shopify.com/en/manual/products/inventory/purchase-orders/creating-purchase-orders",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Inventory adjustment workflows",
+          "headlineTooltip": "Read help doc",
+          "eyebrow": "Inventory",
+          "id": "gid://shopify/Product/7582958518366",
+          "handle": "inventory-adjustment-workflows",
+          "title": "Inventory adjustment workflows",
+          "descriptionHtml": "<p>Adjust or set inventory quantities with a full audit trail for every change.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://help.shopify.com/en/manual/products/inventory/adjusting-inventory/adjusting-inventory-quantities",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Order cancellation requests",
+          "headlineTooltip": "Read help doc",
+          "eyebrow": "Inventory",
+          "id": "gid://shopify/Product/7658955112542",
+          "handle": "customers-can-cancel-orders-from-order-status-page",
+          "title": "Customers can cancel orders from order status page",
+          "descriptionHtml": "<p>Customers can request to cancel their order before fulfillment or return it after fulfillment from the order status page.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://help.shopify.com/manual/fulfillment/managing-orders/returns/self-serve-cancellations",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        }
+      ],
+      "scenePresetName": null,
+      "drivePortalTargetSceneName": null
+    },
+    {
+      "id": "gid://shopify/Collection/292911677534",
+      "handle": "operations-shipping",
+      "title": "Shipping",
+      "descriptionHtml": "",
+      "sceneText": null,
+      "sceneType": null,
+      "hideSubsectionTitles": false,
+      "tooltipText": null,
+      "theatreSheetUrl": null,
+      "mobileFallbackBackground": null,
+      "desktopFallbackBackground": null,
+      "products": [
+        {
+          "headlineTitle": "Batch fulfillment workflow",
+          "eyebrow": "Shipping",
+          "isxxl": true,
+          "knockout": true,
+          "id": "gid://shopify/Product/7641746931806",
+          "handle": "batch-fulfillment-workflow",
+          "title": "Batch fulfillment workflow",
+          "descriptionHtml": "<p>Group orders into batches and fulfill them through a customizable pick, pack, scan, and ship workflow.</p>",
+          "ctas": [
+            {
+              "title": "Fulfill your orders in batches",
+              "url": "https://help.shopify.com/en/manual/fulfillment/fulfilling-orders/batch-fulfillment",
+              "ariaLabel": null
+            }
+          ],
+          "productMedia": {
+            "rive": {
+              "aspectRatio": "16:9",
+              "description": "A list of unfulfilled orders goes through a workflow to scan, pick, pack, and ship items for each order",
+              "fallbackImage": {
+                "altText": "",
+                "height": 1530,
+                "id": "gid://shopify/ImageSource/26549341388894",
+                "url": "/media/U293_Batch_fulfillment_fallback.png",
+                "width": 2720
+              },
+              "fallbackImageMobile": {
+                "altText": "",
+                "height": 590,
+                "id": "gid://shopify/ImageSource/26549341782110",
+                "url": "/media/U293_Batch_fulfillment_mobile_fallback.png",
+                "width": 786
+              },
+              "fontsFull": [
+                {
+                  "id": "gid://shopify/GenericFile/25808766206046",
+                  "mimeType": "text/plain",
+                  "url": "/media/Inter.txt"
+                }
+              ],
+              "mobileAspectRatio": "4:3",
+              "posterImage": {
+                "image": {
+                  "altText": "",
+                  "height": 1530,
+                  "id": "gid://shopify/ImageSource/26582940713054",
+                  "url": "/media/u293_poster_desktop_en.webp",
+                  "width": 2720
+                }
+              },
+              "posterImageMobile": {
+                "image": {
+                  "altText": "",
+                  "height": 1530,
+                  "id": "gid://shopify/ImageSource/26582942089310",
+                  "url": "/media/u293_poster_mobile_en.webp",
+                  "width": 2040
+                }
+              },
+              "globalRiveEnabled": "enabled",
+              "lazyRiveRuntime": true
+            }
+          },
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "FedEx One Rate®",
+          "headlineTooltip": "Read help doc",
+          "eyebrow": "Shipping",
+          "id": "gid://shopify/Product/7576953716830",
+          "handle": "fedex-one-rate",
+          "title": "FedEx One Rate®",
+          "descriptionHtml": "<p>US businesses can get flat-rate shipping with pricing based on the size of the package.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://help.shopify.com/en/manual/fulfillment/fulfilling-orders/shipping-labels/shipping-carriers/fedex#fedexone",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Advanced shipping options",
+          "headlineTooltip": "Read help doc",
+          "eyebrow": "Shipping",
+          "id": "gid://shopify/Product/7576954011742",
+          "handle": "advanced-shipping-options",
+          "title": "Advanced shipping options",
+          "descriptionHtml": "<p>Customize order value and weight conditions in one shipping option with consumer-facing descriptions and transit times.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://help.shopify.com/en/manual/fulfillment/setup/shipping-rates/setting-up-shipping-rates",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Fulfillment status for canceled orders",
+          "headlineTooltip": "Read help doc",
+          "eyebrow": "Shipping",
+          "id": "gid://shopify/Product/7576954306654",
+          "handle": "fulfillment-status-for-canceled-orders",
+          "title": "Fulfillment status for canceled orders",
+          "descriptionHtml": "<p>Canceled or refunded orders now show a \"not required\" status.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://help.shopify.com/en/manual/fulfillment/managing-orders/order-status#fulfillment-status",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Local pickup emails",
+          "headlineTooltip": "Read help doc",
+          "eyebrow": "Shipping",
+          "id": "gid://shopify/Product/7615450153054",
+          "handle": "local-pickup-emails",
+          "title": "Local pickup emails",
+          "descriptionHtml": "<p>Send and resend local pickup notification emails from the admin. Apps can also send confirmation emails using the API.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://help.shopify.com/en/manual/fulfillment/setup/delivery-methods/pickup-in-store#fulfill",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Manual delivery confirmation",
+          "headlineTooltip": "Read help doc",
+          "eyebrow": "Shipping",
+          "id": "gid://shopify/Product/7619233316958",
+          "handle": "manual-delivery-confirmation",
+          "title": "Manual delivery confirmation",
+          "descriptionHtml": "<p>Mark orders as delivered for unsupported carriers, so customers no longer see \"on its way.\"</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://help.shopify.com/en/manual/fulfillment/fulfilling-orders/single-fulfillment#mark-as-delivered",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Shipping labels billed in local currency",
+          "headlineTooltip": "Read help doc",
+          "eyebrow": "Shipping",
+          "id": "gid://shopify/Product/7576953651294",
+          "handle": "shipping-labels-billed-in-local-currency",
+          "title": "Shipping labels billed in local currency",
+          "descriptionHtml": "<p>Pay in CAD, EUR, GBP, or your local currency without conversion for label charges.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://help.shopify.com/en/manual/fulfillment/fulfilling-orders/shipping-labels/billing-and-taxes",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "FedEx in Managed Markets",
+          "headlineTooltip": "Read help doc",
+          "eyebrow": "Shipping",
+          "id": "gid://shopify/Product/7673100238942",
+          "handle": "fedex-in-managed-markets",
+          "title": "FedEx in Managed Markets",
+          "descriptionHtml": "<p>Ship orders with prepaid duties using FedEx International Connect Plus® in <a href=\"https://www.shopify.com/international/managed\" target=\"_blank\" title=\"Learn more\">Managed Markets.</a></p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://help.shopify.com/en/manual/international/managed-markets/shipping/fedex",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "DHL Kleinpaket in Germany",
+          "headlineTooltip": "Read help doc",
+          "headlineAuthTooltip": "Try it",
+          "eyebrow": "Shipping",
+          "id": "gid://shopify/Product/7576953618526",
+          "handle": "dhl-kleinpaket-in-germany",
+          "title": "DHL Kleinpaket in Germany",
+          "descriptionHtml": "<p>Ship packages under 1kg in Germany for less with DHL Kleinpaket.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://help.shopify.com/en/manual/fulfillment/fulfilling-orders/shipping-labels/shipping-carriers/dhl/dhl-de",
+              "ariaLabel": null
+            },
+            {
+              "title": null,
+              "url": "https://admin.shopify.com/shipping_labels",
+              "ariaLabel": null,
+              "authenticated": true
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Delivery carrier auto-detection",
+          "headlineTooltip": "Read help doc",
+          "eyebrow": "Shipping",
+          "id": "gid://shopify/Product/7619233349726",
+          "handle": "delivery-carrier-auto-detection",
+          "title": "Delivery carrier auto-detection",
+          "descriptionHtml": "<p>Manual tracking numbers automatically detect DHL, EVRi, Australia Post, and other top carriers.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://help.shopify.com/en/manual/fulfillment/setup/order-status-page/order-tracking#supported-shipping-carriers",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "UPS return labels",
+          "headlineTooltip": "Read help doc",
+          "eyebrow": "Shipping",
+          "id": "gid://shopify/Product/7641746899038",
+          "handle": "ups-return-labels",
+          "title": "UPS return labels",
+          "descriptionHtml": "<p>US businesses can buy UPS return labels from the admin, and only pay when the label is used.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://help.shopify.com/en/manual/fulfillment/fulfilling-orders/shipping-labels/buying-labels/return-labels",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        }
+      ],
+      "scenePresetName": null,
+      "drivePortalTargetSceneName": null
+    },
+    {
+      "id": "gid://shopify/Collection/292911611998",
+      "handle": "operations-global",
+      "title": "Global",
+      "descriptionHtml": "",
+      "sceneText": null,
+      "sceneType": null,
+      "hideSubsectionTitles": false,
+      "tooltipText": null,
+      "theatreSheetUrl": null,
+      "mobileFallbackBackground": null,
+      "desktopFallbackBackground": null,
+      "products": [
+        {
+          "headlineTitle": "Managed Markets in the UK and Canada",
+          "headlineTooltip": "Read help doc",
+          "headlineAuthTooltip": "Try it",
+          "eyebrow": "Global",
+          "isxxl": false,
+          "knockout": true,
+          "id": "gid://shopify/Product/7576954896478",
+          "handle": "managed-markets-in-the-uk-and-canada",
+          "title": "Managed Markets in the UK and Canada",
+          "descriptionHtml": "<p>Businesses in the UK and Canada can sell globally with support for duties, taxes, compliance and more.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://help.shopify.com/en/manual/international/managed-markets/requirements-and-considerations",
+              "ariaLabel": null
+            },
+            {
+              "title": null,
+              "url": "https://admin.shopify.com/markets/managed/apply",
+              "ariaLabel": null,
+              "authenticated": true
+            }
+          ],
+          "productMedia": {
+            "image": {
+              "altText": "",
+              "height": 600,
+              "id": "gid://shopify/ImageSource/26695727087710",
+              "url": "/media/U151_Managed_Markets_regional_expansion.png",
+              "width": 800
+            }
+          },
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Managed international pricing strategy",
+          "headlineTooltip": "Read help doc",
+          "headlineAuthTooltip": "Try it",
+          "eyebrow": "Global",
+          "isxxl": false,
+          "knockout": true,
+          "id": "gid://shopify/Product/7576954732638",
+          "handle": "international-pricing-strategy-with-managed-markets",
+          "title": "International pricing strategy with Managed Markets",
+          "descriptionHtml": "<p>Enable dynamically localized prices that include duties, taxes, and fees with <a href=\"https://www.shopify.com/international/managed\" target=\"_blank\" title=\"Learn more\">Managed Markets</a>.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://help.shopify.com/en/manual/international/managed-markets/adaptive-pricing",
+              "ariaLabel": null
+            },
+            {
+              "title": null,
+              "url": "https://admin.shopify.com/markets",
+              "ariaLabel": null,
+              "authenticated": true
+            }
+          ],
+          "productMedia": {
+            "rive": {
+              "aspectRatio": "4:3",
+              "fallbackImage": {
+                "altText": "",
+                "height": 872,
+                "id": "gid://shopify/ImageSource/26657746845790",
+                "url": "/media/U146_Managed_International_Pricing-expanded_mobile-fallback.png",
+                "width": 1163
+              },
+              "posterImage": {
+                "image": {
+                  "altText": "",
+                  "height": 872,
+                  "id": "gid://shopify/ImageSource/26230702407774",
+                  "url": "/media/u146poster.webp",
+                  "width": 1164
+                }
+              },
+              "posterImageMobile": {
+                "image": {
+                  "altText": "",
+                  "height": 872,
+                  "id": "gid://shopify/ImageSource/26230702407774",
+                  "url": "/media/u146poster.webp",
+                  "width": 1164
+                }
+              },
+              "fallbackImageMobile": null,
+              "globalRiveEnabled": "enabled",
+              "lazyRiveRuntime": true
+            }
+          },
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Wear Everywhere",
+          "headlineTooltip": "Buy the cap",
+          "knockout": true,
+          "id": "gid://shopify/Product/7689331834974",
+          "handle": "the-everywhere-cap",
+          "title": "The Everywhere Cap",
+          "descriptionHtml": "<p>A limited-run cap for the builders, sellers, and shoppers taking Shopify into every new surface. <a href=\"http://supplystore2021.myshopify.com/cart/70415961587734:1\" title=\"Get yours now\" target=\"_blank\">Get yours now</a></p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://shopify.supply/products/spring-editions-hat",
+              "ariaLabel": null
+            }
+          ],
+          "productMedia": {
+            "image": {
+              "altText": "",
+              "height": 600,
+              "id": "gid://shopify/ImageSource/26657898365022",
+              "url": "/media/Everywhere-cap.png",
+              "width": 800
+            }
+          },
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Product restriction reassessment",
+          "headlineTooltip": "Read help doc",
+          "headlineAuthTooltip": "Try it",
+          "eyebrow": "Global",
+          "id": "gid://shopify/Product/7576954699870",
+          "handle": "product-restriction-reassessment-in-managed-markets",
+          "title": "Product restriction reassessment in Managed Markets",
+          "descriptionHtml": "<p>Edit products to trigger a new review, and get more products approved for sale with <a href=\"https://www.shopify.com/international/managed\" target=\"_blank\" title=\"Learn more\">Managed Markets</a>.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://help.shopify.com/en/manual/international/managed-markets/prohibited-items#prohibited-admin",
+              "ariaLabel": null
+            },
+            {
+              "title": null,
+              "url": "https://admin.shopify.com/markets/managed/apply",
+              "ariaLabel": null,
+              "authenticated": true
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Faster setup for Managed Markets",
+          "headlineTooltip": "Read help doc",
+          "eyebrow": "Global",
+          "id": "gid://shopify/Product/7576954634334",
+          "handle": "faster-setup-for-managed-markets",
+          "title": "Faster setup for Managed Markets",
+          "descriptionHtml": "<p>Start selling internationally in minutes, and instantly localize your customer experience across markets.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://help.shopify.com/en/manual/international/managed-markets/requirements-and-considerations",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Duty calculation breakdown",
+          "headlineTooltip": "Read help doc",
+          "eyebrow": "Global",
+          "id": "gid://shopify/Product/7576954667102",
+          "handle": "duty-calculation-breakdown",
+          "title": "Duty calculation breakdown",
+          "descriptionHtml": "<p>See how duties are calculated with a detailed breakdown of each factor that contributes to the final amount.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://help.shopify.com/manual/international/duties-and-import-taxes/charging-duties#review-duties",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Gift cards in local currencies",
+          "headlineTooltip": "Read help doc",
+          "eyebrow": "Global",
+          "id": "gid://shopify/Product/7576950636638",
+          "handle": "gift-cards-in-local-currencies",
+          "title": "Gift cards in local currencies",
+          "descriptionHtml": "<p>Sell and redeem gift cards in your customers' local currencies across markets from one store.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://help.shopify.com/en/manual/international/pricing/gift-cards#local-currency-gift-cards",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        }
+      ],
+      "scenePresetName": null,
+      "drivePortalTargetSceneName": null
+    }
+  ],
+  "scenePresetName": "prod-7-operations",
+  "drivePortalTargetSceneName": null
+}

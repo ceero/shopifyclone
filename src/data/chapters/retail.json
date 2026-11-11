@@ -1,0 +1,865 @@
+{
+  "id": "gid://shopify/Collection/292893753438",
+  "handle": "retail",
+  "title": "Retail",
+  "descriptionHtml": "",
+  "sceneText": null,
+  "sceneType": null,
+  "hideSubsectionTitles": false,
+  "tooltipText": null,
+  "theatreSheetUrl": "/media/retail-prod-2026-06-17T03-27-20.json",
+  "mobileFallbackBackground": {
+    "altText": null,
+    "height": 1034,
+    "id": "gid://shopify/ImageSource/26635758010462",
+    "url": "/media/prod-5-retail-mobile_f8d2b2b1-bad3-467b-9040-7ecff883e9e5-optimized.webp",
+    "width": 1000,
+    "__typename": "Image"
+  },
+  "desktopFallbackBackground": {
+    "altText": null,
+    "height": 1116,
+    "id": "gid://shopify/ImageSource/26635757977694",
+    "url": "/media/prod-5-retail-optimized.webp",
+    "width": 2000,
+    "__typename": "Image"
+  },
+  "products": [
+    {
+      "headlineTitle": "Rebuilt POS checkout in action",
+      "headlineTooltip": "Read help doc",
+      "isxxl": false,
+      "knockout": true,
+      "id": "gid://shopify/Product/7658692509790",
+      "handle": "rebuilt-pos-checkout-in-action",
+      "title": "Rebuilt POS checkout in action",
+      "descriptionHtml": "<p>Retail staff at Province of Canada share how they can feel the difference using POS v11.</p>",
+      "ctas": [
+        {
+          "title": null,
+          "url": "https://www.shopify.com/blog/retail-roundup-february-2026",
+          "ariaLabel": null
+        }
+      ],
+      "productMedia": {
+        "customVideo": {
+          "h264DesktopW1000": "/media/acf6e14ba92fa650abce8b7edc7f42a9.mp4",
+          "h264DesktopW500": "/media/6c010230f5b638e81b6fbd6d891dffa1.mp4",
+          "h264MobileW1440": "/media/8be4d810d8465484a0525be318d09eda.mp4",
+          "h264MobileW720": "/media/9f93a3730a3bd4f9af8d9234ad8fd45a.mp4",
+          "hevcDesktopW1000": "/media/3747196abf920555aac963b9158af4e8.mp4",
+          "hevcDesktopW500": "/media/652c1f619a5351ea8624a4fd256f253b.mp4",
+          "hevcMobileW1440": "/media/480a0e0c7633e49599665b44712717b1.mp4",
+          "hevcMobileW720": "/media/6ccabde1513a167d61437a1a8180e710.mp4",
+          "mp4DesktopW1000": "/media/b948102472db0ac13704b39b7a70b55a.mp4",
+          "mp4DesktopW500": "/media/b0d293b9ed0bd926496c955680d2d34c.mp4",
+          "mp4MobileW1440": "/media/074e49fbaef886622ef84ccff87e1d1c.mp4",
+          "mp4MobileW720": "/media/7f25d3859730e6d94677b3d7c4c12314.mp4",
+          "posterDesktop": "/media/d6a815bb7ba4e528413564a502fc86fd.png",
+          "posterMobile": "/media/d6a815bb7ba4e528413564a502fc86fd.png",
+          "title": "Rebuilt POS checkout in action - Generated Video",
+          "webmDesktopW1000": "/media/5688fdfbed8e52913401ec1cb6f97a81.webm",
+          "webmDesktopW500": "/media/3f611d50b829d4c6218cdf2a7f4cb5a9.webm",
+          "webmMobileW1440": "/media/b783da3d70d26154438b766e356e16bc.webm",
+          "webmMobileW720": "/media/c09c5e7b5c0b1658129e9126e86e72fd.webm"
+        },
+        "youtubeId": "37zOjqRl-3Q"
+      },
+      "mobileHeadlineTitle": null
+    },
+    {
+      "headlineTitle": "Scannable discounts in Shopify POS",
+      "headlineTooltip": "Read help doc",
+      "knockout": true,
+      "id": "gid://shopify/Product/7622231064670",
+      "handle": "scannable-discounts-in-shopify-pos",
+      "title": "Scannable discounts in Shopify POS",
+      "descriptionHtml": "<p>Generate QR codes in the admin, share them with customers, then scan those codes at checkout to apply discounts in store.</p>",
+      "ctas": [
+        {
+          "title": null,
+          "url": "https://help.shopify.com/en/manual/sell-in-person/shopify-pos/discount-management/applying-discounts#qr-code",
+          "ariaLabel": null
+        }
+      ],
+      "productMedia": {
+        "image": {
+          "altText": "A phone displays a QR code being scanned at checkout with a \"Discount applied\" confirmation",
+          "height": 600,
+          "id": "gid://shopify/ImageSource/26174882480222",
+          "url": "/media/U273_Scannable_Discounts_in_POS_desktop-fallback.png",
+          "width": 800
+        }
+      },
+      "mobileHeadlineTitle": null
+    },
+    {
+      "headlineTitle": "Verifone Victa Mobile for Shopify POS",
+      "headlineTooltip": "Pre-order now",
+      "id": "gid://shopify/Product/7576950669406",
+      "handle": "verifone-victa-mobile-for-shopify-pos",
+      "title": "Verifone Victa Mobile for Shopify POS",
+      "descriptionHtml": "<p>Scan barcodes, take payments, and run <a href=\"https://www.shopify.com/pos\" target=\"_blank\" title=\"Learn more\">Shopify POS</a> on the new handheld that doubles as a terminal when docked. Pre-order available for US and Canada.</p>",
+      "ctas": [
+        {
+          "title": null,
+          "url": "https://hardware.shopify.com/products/verifone-victa-mobile",
+          "ariaLabel": null
+        }
+      ],
+      "productMedia": {
+        "image": {
+          "altText": "A hand holding a black Verifone Victa Mobile card reader against a red background",
+          "height": 600,
+          "id": "gid://shopify/ImageSource/26095717351518",
+          "url": "/media/U16_Verifone_Victa_Mobile_Early_Access_desktop-fallback.png",
+          "width": 800
+        }
+      },
+      "mobileHeadlineTitle": null
+    },
+    {
+      "headlineTitle": "Faster search in Shopify POS",
+      "headlineTooltip": "Learn more",
+      "id": "gid://shopify/Product/7592461336670",
+      "handle": "faster-search-in-shopify-pos",
+      "title": "Faster search in Shopify POS",
+      "descriptionHtml": "<p>Find products, customers, and orders faster with inline suggestions and reduced latency across every search page.</p>",
+      "ctas": [
+        {
+          "title": null,
+          "url": "https://changelog.shopify.com/posts/shopify-pos-version-11-0",
+          "ariaLabel": null
+        }
+      ],
+      "mobileHeadlineTitle": null
+    },
+    {
+      "headlineTitle": "Returns and exchanges in one cart",
+      "id": "gid://shopify/Product/7576951455838",
+      "handle": "returns-and-exchanges-in-one-cart-with-shopify-pos",
+      "title": "Returns and exchanges in one cart with Shopify POS",
+      "descriptionHtml": "<p>Process <a href=\"https://help.shopify.com/en/manual/sell-in-person/shopify-pos/order-management/complete-refund-orders#refund-an-order\" title=\"Read help doc\" target=\"_blank\">refunds</a>, <a href=\"https://help.shopify.com/en/manual/sell-in-person/shopify-pos/order-management/exchange\" title=\"Read help doc\" target=\"_blank\">exchanges</a>, and new sales in one cart with smart grid actions and modular workflows in <a href=\"https://www.shopify.com/pos\" target=\"_blank\" title=\"Learn more\">Shopify POS</a>.</p>",
+      "ctas": [],
+      "mobileHeadlineTitle": null
+    },
+    {
+      "headlineTitle": "Gift card cashout",
+      "headlineTooltip": "Read help doc",
+      "id": "gid://shopify/Product/7576950997086",
+      "handle": "gift-card-cashout-from-shopify-pos",
+      "title": "Gift card cashout from Shopify POS",
+      "descriptionHtml": "<p>Cash out low-balance gift cards directly from <a href=\"https://www.shopify.com/pos\" target=\"_blank\" title=\"Learn more\">Shopify POS</a> to meet local redemption laws.</p>",
+      "ctas": [
+        {
+          "title": null,
+          "url": "https://help.shopify.com/en/manual/sell-in-person/shopify-pos/payment-management/gift-cards/cashing-out",
+          "ariaLabel": null
+        }
+      ],
+      "mobileHeadlineTitle": null
+    },
+    {
+      "headlineTitle": "In-person pickup orders",
+      "headlineTooltip": "Read help doc",
+      "id": "gid://shopify/Product/7576951390302",
+      "handle": "pickup-orders-for-any-retail-location-from-shopify-pos",
+      "title": "Pickup orders for any retail location from Shopify POS",
+      "descriptionHtml": "<p>Create orders for pickup at any retail location in <a href=\"https://www.shopify.com/pos\" target=\"_blank\" title=\"Learn more\">Shopify POS</a>. Notify customers, and mark orders as fulfilled. Exclusive to POS Pro.</p>",
+      "ctas": [
+        {
+          "title": null,
+          "url": "https://help.shopify.com/en/manual/sell-in-person/shopify-pos/order-management/pickup-in-store-for-online-orders#create",
+          "ariaLabel": null
+        }
+      ],
+      "mobileHeadlineTitle": null
+    },
+    {
+      "headlineTitle": "Editor works with smart grid",
+      "headlineTooltip": "Read help doc",
+      "id": "gid://shopify/Product/7576951128158",
+      "handle": "editor-works-with-smart-grid-in-shopify-pos",
+      "title": "Editor works with smart grid in Shopify POS",
+      "descriptionHtml": "<p>Swap assigned products and update tile input fields in <a href=\"https://www.shopify.com/pos\" target=\"_blank\" title=\"Learn more\">Shopify POS.</a> Access the lock screen and customer display settings in a refreshed layout.</p>",
+      "ctas": [
+        {
+          "title": null,
+          "url": "https://help.shopify.com/en/manual/sell-in-person/shopify-pos/customize-pos",
+          "ariaLabel": null
+        }
+      ],
+      "mobileHeadlineTitle": null
+    },
+    {
+      "headlineTitle": "Manually enable offline checkout by device",
+      "headlineTooltip": "Read help doc",
+      "id": "gid://shopify/Product/7576950833246",
+      "handle": "manually-enable-offline-checkout-from-shopify-pos",
+      "title": "Manually enable offline checkout from Shopify POS",
+      "descriptionHtml": "<p>Staff with the right permissions can enable offline checkout from <a href=\"https://www.shopify.com/pos\" target=\"_blank\" title=\"Learn more\">Shopify POS</a> device settings to keep selling when connectivity drops.</p>",
+      "ctas": [
+        {
+          "title": null,
+          "url": "https://help.shopify.com/en/manual/sell-in-person/shopify-pos/selling-offline/offline-checkout",
+          "ariaLabel": null
+        }
+      ],
+      "mobileHeadlineTitle": null
+    },
+    {
+      "headlineTitle": "Keyboard shortcuts for Shopify POS",
+      "headlineTooltip": "Read help doc",
+      "id": "gid://shopify/Product/7576951259230",
+      "handle": "keyboard-shortcuts-for-shopify-pos",
+      "title": "Keyboard shortcuts for Shopify POS",
+      "descriptionHtml": "<p>Build carts and navigate products, orders, and customers faster with a keyboard.</p>",
+      "ctas": [
+        {
+          "title": null,
+          "url": "https://help.shopify.com/en/manual/sell-in-person/getting-started/keyboard-shortcuts",
+          "ariaLabel": null
+        }
+      ],
+      "mobileHeadlineTitle": null
+    },
+    {
+      "headlineTitle": "In-store only discounts",
+      "headlineTooltip": "Read help doc",
+      "id": "gid://shopify/Product/7592461434974",
+      "handle": "in-store-only-discounts",
+      "title": "In-store only discounts",
+      "descriptionHtml": "<p>Create code-based and automatic discounts that only apply in person, keeping in-store promotions separate from online.</p>",
+      "ctas": [
+        {
+          "title": null,
+          "url": "https://help.shopify.com/en/manual/discounts/sales-channel-discounts",
+          "ariaLabel": null
+        }
+      ],
+      "mobileHeadlineTitle": null
+    },
+    {
+      "headlineTitle": "Packing slips for outgoing transfers",
+      "headlineTooltip": "Read help doc",
+      "id": "gid://shopify/Product/7641746997342",
+      "handle": "packing-slips-for-outgoing-transfers-from-shopify-pos",
+      "title": "Packing slips for outgoing transfers from Shopify POS",
+      "descriptionHtml": "<p>Print an itemized manifest with origin, destination, and transfer details for outgoing inventory transfers from <a href=\"https://www.shopify.com/pos\" target=\"_blank\" title=\"Learn more\">Shopify POS</a>.</p>",
+      "ctas": [
+        {
+          "title": null,
+          "url": "https://help.shopify.com/en/manual/sell-in-person/shopify-pos/inventory-management/fulfilling-and-receiving-transfers#print-packing-slip",
+          "ariaLabel": null
+        }
+      ],
+      "mobileHeadlineTitle": null
+    },
+    {
+      "headlineTitle": "Permission settings for customer data",
+      "headlineTooltip": "Read help doc",
+      "id": "gid://shopify/Product/7576951095390",
+      "handle": "permission-settings-for-customer-data-in-shopify-pos",
+      "title": "Permission settings for customer data in Shopify POS",
+      "descriptionHtml": "<p>Control which staff can view sensitive customer details like names, emails, and addresses with a new permission setting in <a href=\"https://www.shopify.com/pos\" target=\"_blank\" title=\"Learn more\">Shopify POS</a>.</p>",
+      "ctas": [
+        {
+          "title": null,
+          "url": "https://help.shopify.com/en/manual/your-account/users/roles/permissions/pos-permissions#permissions",
+          "ariaLabel": null
+        }
+      ],
+      "mobileHeadlineTitle": null
+    },
+    {
+      "headlineTitle": "Receive and fulfill transfers",
+      "headlineTooltip": "Read help doc",
+      "id": "gid://shopify/Product/7576951423070",
+      "handle": "receive-and-fulfill-transfers-from-shopify-pos",
+      "title": "Receive and fulfill transfers from Shopify POS",
+      "descriptionHtml": "<p>Receive incoming purchase orders and fulfill outgoing transfers to your locations in <a href=\"https://www.shopify.com/pos\" target=\"_blank\" title=\"Learn more\">Shopify POS</a>. Exclusive to POS Pro.</p>",
+      "ctas": [
+        {
+          "title": null,
+          "url": "https://help.shopify.com/en/manual/sell-in-person/shopify-pos/inventory-management/fulfilling-and-receiving-transfers",
+          "ariaLabel": null
+        }
+      ],
+      "mobileHeadlineTitle": null
+    },
+    {
+      "headlineTitle": "Multi-entity selling across retail locations",
+      "headlineTooltip": "Read help doc",
+      "id": "gid://shopify/Product/7659806130270",
+      "handle": "multi-entity-selling-across-retail-locations",
+      "title": "Multi-entity selling across retail locations",
+      "descriptionHtml": "<p>Operate multiple retail locations within a single country from different legal entities, all managed from one Shopify store. Exclusive to Shopify Plus.</p>",
+      "ctas": [
+        {
+          "title": null,
+          "url": "https://help.shopify.com/en/manual/payments/shopify-payments/onboarding/selling-with-multiple-entities",
+          "ariaLabel": null
+        }
+      ],
+      "mobileHeadlineTitle": null
+    },
+    {
+      "headlineTitle": "Tap to Pay for multi-entity businesses",
+      "id": "gid://shopify/Product/7576950898782",
+      "handle": "tap-to-pay-for-multi-entity-businesses",
+      "title": "Tap to Pay for multi-entity businesses",
+      "descriptionHtml": "<p>Multi-entity businesses on <a href=\"https://www.shopify.com/payments\" target=\"_blank\" title=\"Learn more\">Shopify Payments</a> can activate Tap to Pay for all retail locations, and accept contactless payments for <a href=\"https://help.shopify.com/en/manual/sell-in-person/shopify-pos/payment-management/tap-to-pay-iphone#multi-entity\" target=\"_blank\" title=\"Read help doc\">iPhone</a> and <a href=\"https://help.shopify.com/en/manual/sell-in-person/shopify-pos/payment-management/tap-to-pay-android#multi-entity\" target=\"_blank\" title=\"Read help doc\">Android</a>. Exclusive to Shopify Plus.</p>",
+      "ctas": [],
+      "mobileHeadlineTitle": null
+    },
+    {
+      "headlineTitle": "Multi-entity offline payments",
+      "headlineTooltip": "Read help doc",
+      "id": "gid://shopify/Product/7576950964318",
+      "handle": "multi-entity-offline-payments",
+      "title": "Multi-entity offline payments",
+      "descriptionHtml": "<p>Offline payments work across multi-entity retail setups for <a href=\"https://www.shopify.com/payments\" target=\"_blank\" title=\"Learn more\">Shopify Payments</a>. Transaction limits are inherited across all stores.</p>",
+      "ctas": [
+        {
+          "title": null,
+          "url": "https://help.shopify.com/en/manual/sell-in-person/shopify-pos/selling-offline/offline-payments#setup",
+          "ariaLabel": null
+        }
+      ],
+      "mobileHeadlineTitle": null
+    },
+    {
+      "headlineTitle": "Cash visibility and control in Shopify POS",
+      "headlineTooltip": "Read help doc",
+      "id": "gid://shopify/Product/7580268331102",
+      "handle": "cash-visibility-and-control-in-shopify-pos",
+      "title": "Cash visibility and control in Shopify POS",
+      "descriptionHtml": "<p>Set cash rules and reason codes, track all drawer opens and activity across registers, require mid-session cash counts, and reconcile with audit trails. Exclusive to POS Pro.</p>",
+      "ctas": [
+        {
+          "title": null,
+          "url": "https://help.shopify.com/en/manual/sell-in-person/shopify-pos/cash-register-management",
+          "ariaLabel": null
+        }
+      ],
+      "mobileHeadlineTitle": null
+    }
+  ],
+  "sceneAssets": [
+    {
+      "name": "POS",
+      "type": "riveGlb",
+      "lods": {
+        "lod0": "/media/Tablet_Simplified_v3_silver5.glb"
+      },
+      "riveUrl": "/media/u28_pos_6_15_v3.riv",
+      "targetMesh": "screen",
+      "stateMachines": "State Machine 1",
+      "triggers": [
+        "goToAddProduct",
+        "goToAddDiscount",
+        "goToAddCustomer",
+        "goToSplitPayment"
+      ],
+      "artboard": "main",
+      "viewModelName": "ViewModel1",
+      "strings": {
+        "u28String1": "Brian Rodes",
+        "u28String2": "Search",
+        "u28String3": "Search for customer’s email, phone, name or address",
+        "u28String4": "Add new customer",
+        "u28String5": "Bridget Woodruff",
+        "u28String6": "bwoodruff@email.com",
+        "u28String7": "Brielle Davenport",
+        "u28String8": "brielledavenport@email.com",
+        "u28String9": "Brittany Jones",
+        "u28String10": "britterjo@email.com",
+        "u28String11": "No customers found. Create new customer.",
+        "u28String12": "First",
+        "u28String13": "Brian",
+        "u28String14": "Last",
+        "u28String15": "Rodes",
+        "u28String16": "Email or phone",
+        "u28String17": "brian.rodes@email.com",
+        "u28String18": "Accepts Marketing",
+        "u28String19": "Edit",
+        "u28String20": "Add customer",
+        "u28String21": "Duffel",
+        "u28String22": "Products",
+        "u28String23": "Orders",
+        "u28String24": "Customers",
+        "u28String25": "Recently sold",
+        "u28String26": "Heron travel duffel",
+        "u28String27": "$320.00",
+        "u28String28": "Fuji work shirt",
+        "u28String29": "5 variants • $298.00",
+        "u28String30": "Kern bag",
+        "u28String31": "$298.00",
+        "u28String32": "Torres short",
+        "u28String33": "5 variants • $198.00",
+        "u28String34": "Soca sneaker",
+        "u28String35": "12 variants • $235.00",
+        "u28String36": "Tantalus mesh pant",
+        "u28String37": "5 variants • $250.00",
+        "u28String38": "Floe jacket",
+        "u28String39": "6 variants • $198.00",
+        "u28String40": "Lyngen Shirt",
+        "u28String41": "Corrie shoe",
+        "u28String42": "12 variants • $225.00",
+        "u28String43": "Revon shirt",
+        "u28String44": "6 variants • $158.00",
+        "u28String45": "Apply",
+        "u28String46": "0%",
+        "u28String47": "Percentage",
+        "u28String48": "Amount",
+        "u28String49": "Reason",
+        "u28String50": "$584.84",
+        "u28String51": "Tap or insert card",
+        "u28String52": "Payment 01",
+        "u28String53": "Payment 02",
+        "u28String54": "$0.00",
+        "u28String55": "$0.01",
+        "u28String56": "$0.10",
+        "u28String57": "$1.00",
+        "u28String58": "$100.00",
+        "u28String59": "Cash",
+        "u28String60": "Card",
+        "u28String61": "Gift card",
+        "u28String62": "Custom",
+        "u28String63": "Split payment",
+        "u28String64": "More",
+        "u28String65": "Cancel",
+        "u28String66": "Next",
+        "u28String67": "Waiting for payment",
+        "u28String68": "Apply custom discount",
+        "u28String69": "Attribute staff",
+        "u28String70": "Ship",
+        "u28String71": "Manage taxes",
+        "u28String72": "View details",
+        "u28String73": "Cart",
+        "u28String74": "Cerro shirt",
+        "u28String75": "$158.00",
+        "u28String76": "Magenta / L ",
+        "u28String77": "Voss jacket",
+        "u28String78": "$210.00",
+        "u28String79": "Juniper / L",
+        "u28String80": "-20% • Discount",
+        "u28String81": "$64.00",
+        "u28String82": "Subtotal",
+        "u28String83": "$368.00",
+        "u28String84": "$688.00",
+        "u28String85": "$624.00",
+        "u28String86": "Taxes",
+        "u28String87": "$35.88",
+        "u28String88": "$67.08",
+        "u28String89": "$60.84",
+        "u28String90": "Gift Card",
+        "u28String91": "Checkout $403.88",
+        "u28String92": "Checkout $755.08",
+        "u28String93": "Checkout $684.84",
+        "u28String94": "$684.84",
+        "u28String95": "10:04",
+        "u28String96": "Wednesday June 17",
+        "u28String97": "36",
+        "u28String98": "Talus sneaker",
+        "u28String99": "$250.00",
+        "u28String100": "32",
+        "u28String101": "Add custom sale",
+        "u28String102": "Manage discounts",
+        "u28String103": "Ship all items",
+        "u28String104": "Save draft",
+        "u28String105": "Email to customer",
+        "u28String106": "Add gift card",
+        "u28String107": "Add tile",
+        "u28String108": "1",
+        "u28String109": "2",
+        "u28String110": "3",
+        "u28String111": "4",
+        "u28String112": "5",
+        "u28String113": "6",
+        "u28String114": "7",
+        "u28String115": "8",
+        "u28String116": "9",
+        "u28String117": "00",
+        "u28String118": "0",
+        "u28String119": "•••"
+      },
+      "assetsMap": {
+        "u28asset5": {
+          "url": "/media/u28Asset5.webp",
+          "image": null
+        },
+        "u28asset1": {
+          "url": "/media/u28Asset1.webp",
+          "image": null
+        },
+        "u28asset10": {
+          "url": "/media/u28Asset10.webp",
+          "image": null
+        },
+        "u28asset11": {
+          "url": "/media/u28Asset11.webp",
+          "image": null
+        },
+        "u28asset12": {
+          "url": "/media/u28Asset12.webp",
+          "image": null
+        },
+        "u28asset13": {
+          "url": "/media/u28Asset13.webp",
+          "image": null
+        },
+        "u28asset14": {
+          "url": "/media/u28Asset14.webp",
+          "image": null
+        },
+        "u28asset2": {
+          "url": "/media/u28Asset2.webp",
+          "image": null
+        },
+        "u28asset3": {
+          "url": "/media/u28Asset3.webp",
+          "image": null
+        },
+        "u28asset4": {
+          "url": "/media/u28Asset4.webp",
+          "image": null
+        },
+        "u28asset6": {
+          "url": "/media/u28Asset6.webp",
+          "image": null
+        },
+        "u28asset7": {
+          "url": "/media/u28Asset7.webp",
+          "image": null
+        },
+        "u28asset8": {
+          "url": "/media/u28Asset8.webp",
+          "image": null
+        },
+        "u28asset9": {
+          "url": "/media/u28Asset9.webp",
+          "image": null
+        },
+        "sf-pro-display-medium": {
+          "url": "/media/SF-Pro-Display-Medium_en.txt",
+          "font": null,
+          "isFont": true
+        },
+        "sf-pro-display-regular": {
+          "url": "/media/SF-Pro-Display-Regular_en.txt",
+          "font": null,
+          "isFont": true
+        },
+        "sf-pro-display-semibold": {
+          "url": "/media/SF-Pro-Display-Semibold_en.txt",
+          "font": null,
+          "isFont": true
+        }
+      },
+      "textureTransform": {
+        "fit": "stretch",
+        "scale": 0.96,
+        "offsetX": 0,
+        "offsetY": -0.013
+      }
+    }
+  ],
+  "nestedCollections": [
+    {
+      "id": "gid://shopify/Collection/294911574110",
+      "handle": "retail-merch",
+      "title": "Retail Merch",
+      "descriptionHtml": "",
+      "sceneText": null,
+      "sceneType": null,
+      "hideSubsectionTitles": false,
+      "tooltipText": null,
+      "theatreSheetUrl": "/media/retail-merch-merchbw-2026-06-14T13-24-51.json",
+      "mobileFallbackBackground": {
+        "altText": null,
+        "height": 2078,
+        "id": "gid://shopify/ImageSource/26572098142302",
+        "url": "/media/prod-12-merch-mobile.webp",
+        "width": 2010,
+        "__typename": "Image"
+      },
+      "desktopFallbackBackground": {
+        "altText": null,
+        "height": 2166,
+        "id": "gid://shopify/ImageSource/26572101320798",
+        "url": "/media/prod-12-merch-desktop.webp",
+        "width": 3840,
+        "__typename": "Image"
+      },
+      "products": [],
+      "scenePresetName": "prod-12-merch",
+      "drivePortalTargetSceneName": null
+    },
+    {
+      "id": "gid://shopify/Collection/294393217118",
+      "handle": "pos-xxl",
+      "title": "POS XXL",
+      "descriptionHtml": "",
+      "sceneText": null,
+      "sceneType": "posXXL",
+      "hideSubsectionTitles": false,
+      "tooltipText": null,
+      "theatreSheetUrl": null,
+      "mobileFallbackBackground": null,
+      "desktopFallbackBackground": null,
+      "products": [
+        {
+          "headlineTitle": "Our fastest-ever POS",
+          "isxxl": true,
+          "knockout": true,
+          "id": "gid://shopify/Product/7576949031006",
+          "handle": "shopify-pos-v11",
+          "title": "Shopify POS V11",
+          "descriptionHtml": "<p>Save over a minute when creating new customers, adding products, and checking out in a cart that's always present. The line never stops, and staff focus on customers.</p>",
+          "ctas": [
+            {
+              "title": "Read about our latest version",
+              "url": "https://www.shopify.com/blog/retail-roundup-february-2026",
+              "ariaLabel": null
+            }
+          ],
+          "productMedia": {
+            "image": {
+              "altText": "",
+              "height": 1324,
+              "id": "gid://shopify/ImageSource/26416856891486",
+              "url": "/media/pos-placeholder-16-9-1x_d5a2222e-0d1f-4155-9cf5-22903e55fa6f.png",
+              "width": 2354
+            }
+          },
+          "mobileHeadlineTitle": null,
+          "isPosXXL": true
+        }
+      ],
+      "sceneAssets": [
+        {
+          "name": "POS May27",
+          "type": "gltf",
+          "lods": {
+            "lod0": "/media/iPad-Only-placeholder.glb"
+          }
+        },
+        {
+          "name": "POS Screen May 26",
+          "type": "rive",
+          "lods": {
+            "lod0": "/media/u28_pos_6_15_v3.riv"
+          },
+          "artboard": "main",
+          "stateMachines": "State Machine 1",
+          "triggers": [
+            "goToAddProduct",
+            "goToAddDiscount",
+            "goToAddCustomer",
+            "goToSplitPayment"
+          ],
+          "viewModelName": "ViewModel1",
+          "strings": {
+            "u28String1": "Brian Rodes",
+            "u28String2": "Search",
+            "u28String3": "Search for customer’s email, phone, name or address",
+            "u28String4": "Add new customer",
+            "u28String5": "Bridget Woodruff",
+            "u28String6": "bwoodruff@email.com",
+            "u28String7": "Brielle Davenport",
+            "u28String8": "brielledavenport@email.com",
+            "u28String9": "Brittany Jones",
+            "u28String10": "britterjo@email.com",
+            "u28String11": "No customers found. Create new customer.",
+            "u28String12": "First",
+            "u28String13": "Brian",
+            "u28String14": "Last",
+            "u28String15": "Rodes",
+            "u28String16": "Email or phone",
+            "u28String17": "brian.rodes@email.com",
+            "u28String18": "Accepts Marketing",
+            "u28String19": "Edit",
+            "u28String20": "Add customer",
+            "u28String21": "Duffel",
+            "u28String22": "Products",
+            "u28String23": "Orders",
+            "u28String24": "Customers",
+            "u28String25": "Recently sold",
+            "u28String26": "Heron travel duffel",
+            "u28String27": "$320.00",
+            "u28String28": "Fuji work shirt",
+            "u28String29": "5 variants • $298.00",
+            "u28String30": "Kern bag",
+            "u28String31": "$298.00",
+            "u28String32": "Torres short",
+            "u28String33": "5 variants • $198.00",
+            "u28String34": "Soca sneaker",
+            "u28String35": "12 variants • $235.00",
+            "u28String36": "Tantalus mesh pant",
+            "u28String37": "5 variants • $250.00",
+            "u28String38": "Floe jacket",
+            "u28String39": "6 variants • $198.00",
+            "u28String40": "Lyngen Shirt",
+            "u28String41": "Corrie shoe",
+            "u28String42": "12 variants • $225.00",
+            "u28String43": "Revon shirt",
+            "u28String44": "6 variants • $158.00",
+            "u28String45": "Apply",
+            "u28String46": "0%",
+            "u28String47": "Percentage",
+            "u28String48": "Amount",
+            "u28String49": "Reason",
+            "u28String50": "$584.84",
+            "u28String51": "Tap or insert card",
+            "u28String52": "Payment 01",
+            "u28String53": "Payment 02",
+            "u28String54": "$0.00",
+            "u28String55": "$0.01",
+            "u28String56": "$0.10",
+            "u28String57": "$1.00",
+            "u28String58": "$100.00",
+            "u28String59": "Cash",
+            "u28String60": "Card",
+            "u28String61": "Gift card",
+            "u28String62": "Custom",
+            "u28String63": "Split payment",
+            "u28String64": "More",
+            "u28String65": "Cancel",
+            "u28String66": "Next",
+            "u28String67": "Waiting for payment",
+            "u28String68": "Apply custom discount",
+            "u28String69": "Attribute staff",
+            "u28String70": "Ship",
+            "u28String71": "Manage taxes",
+            "u28String72": "View details",
+            "u28String73": "Cart",
+            "u28String74": "Cerro shirt",
+            "u28String75": "$158.00",
+            "u28String76": "Magenta / L ",
+            "u28String77": "Voss jacket",
+            "u28String78": "$210.00",
+            "u28String79": "Juniper / L",
+            "u28String80": "-20% • Discount",
+            "u28String81": "$64.00",
+            "u28String82": "Subtotal",
+            "u28String83": "$368.00",
+            "u28String84": "$688.00",
+            "u28String85": "$624.00",
+            "u28String86": "Taxes",
+            "u28String87": "$35.88",
+            "u28String88": "$67.08",
+            "u28String89": "$60.84",
+            "u28String90": "Gift Card",
+            "u28String91": "Checkout $403.88",
+            "u28String92": "Checkout $755.08",
+            "u28String93": "Checkout $684.84",
+            "u28String94": "$684.84",
+            "u28String95": "10:04",
+            "u28String96": "Wednesday June 17",
+            "u28String97": "36",
+            "u28String98": "Talus sneaker",
+            "u28String99": "$250.00",
+            "u28String100": "32",
+            "u28String101": "Add custom sale",
+            "u28String102": "Manage discounts",
+            "u28String103": "Ship all items",
+            "u28String104": "Save draft",
+            "u28String105": "Email to customer",
+            "u28String106": "Add gift card",
+            "u28String107": "Add tile",
+            "u28String108": "1",
+            "u28String109": "2",
+            "u28String110": "3",
+            "u28String111": "4",
+            "u28String112": "5",
+            "u28String113": "6",
+            "u28String114": "7",
+            "u28String115": "8",
+            "u28String116": "9",
+            "u28String117": "00",
+            "u28String118": "0",
+            "u28String119": "•••"
+          },
+          "assetsMap": {
+            "u28asset5": {
+              "url": "/media/u28Asset5.webp",
+              "image": null
+            },
+            "u28asset1": {
+              "url": "/media/u28Asset1.webp",
+              "image": null
+            },
+            "u28asset10": {
+              "url": "/media/u28Asset10.webp",
+              "image": null
+            },
+            "u28asset11": {
+              "url": "/media/u28Asset11.webp",
+              "image": null
+            },
+            "u28asset12": {
+              "url": "/media/u28Asset12.webp",
+              "image": null
+            },
+            "u28asset13": {
+              "url": "/media/u28Asset13.webp",
+              "image": null
+            },
+            "u28asset14": {
+              "url": "/media/u28Asset14.webp",
+              "image": null
+            },
+            "u28asset2": {
+              "url": "/media/u28Asset2.webp",
+              "image": null
+            },
+            "u28asset3": {
+              "url": "/media/u28Asset3.webp",
+              "image": null
+            },
+            "u28asset4": {
+              "url": "/media/u28Asset4.webp",
+              "image": null
+            },
+            "u28asset6": {
+              "url": "/media/u28Asset6.webp",
+              "image": null
+            },
+            "u28asset7": {
+              "url": "/media/u28Asset7.webp",
+              "image": null
+            },
+            "u28asset8": {
+              "url": "/media/u28Asset8.webp",
+              "image": null
+            },
+            "u28asset9": {
+              "url": "/media/u28Asset9.webp",
+              "image": null
+            },
+            "sf-pro-display-medium": {
+              "url": "/media/SF-Pro-Display-Medium_en.txt",
+              "font": null,
+              "isFont": true
+            },
+            "sf-pro-display-regular": {
+              "url": "/media/SF-Pro-Display-Regular_en.txt",
+              "font": null,
+              "isFont": true
+            },
+            "sf-pro-display-semibold": {
+              "url": "/media/SF-Pro-Display-Semibold_en.txt",
+              "font": null,
+              "isFont": true
+            }
+          }
+        }
+      ],
+      "scenePresetName": null,
+      "drivePortalTargetSceneName": null
+    }
+  ],
+  "scenePresetName": "prod-5-retail",
+  "drivePortalTargetSceneName": null
+}

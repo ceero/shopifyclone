@@ -1,0 +1,360 @@
+{
+  "id": "gid://shopify/Collection/291366699102",
+  "handle": "shop-app",
+  "title": "Shop app",
+  "descriptionHtml": "",
+  "sceneText": null,
+  "sceneType": null,
+  "hideSubsectionTitles": false,
+  "tooltipText": null,
+  "theatreSheetUrl": "/media/shop-app-prod-2026-06-15T14-46-28.json",
+  "mobileFallbackBackground": {
+    "altText": null,
+    "height": 1034,
+    "id": "gid://shopify/ImageSource/26635758993502",
+    "url": "/media/prod-8-shopapp-mobile_110cb625-5327-422f-823b-ac32adea21c5-optimized.webp",
+    "width": 1000,
+    "__typename": "Image"
+  },
+  "desktopFallbackBackground": {
+    "altText": null,
+    "height": 1116,
+    "id": "gid://shopify/ImageSource/26635758960734",
+    "url": "/media/prod-8-shopapp-optimized.webp",
+    "width": 2000,
+    "__typename": "Image"
+  },
+  "products": [
+    {
+      "headlineTitle": "Online to in person with the Shop app",
+      "headlineTooltip": "Read help doc",
+      "id": "gid://shopify/Product/7576950702174",
+      "handle": "online-to-in-person-with-the-shop-app",
+      "title": "Online to in person with the Shop app",
+      "descriptionHtml": "<p>Connect local shoppers from <a href=\"https://www.shopify.com/shop\" target=\"_blank\" title=\"Learn more\">Shop</a> to your retail store. Get discovered, offer in-store pickup, and easy returns.</p>",
+      "ctas": [
+        {
+          "title": null,
+          "url": "https://help.shop.app/en/shop/managing-orders/returns#request-return",
+          "ariaLabel": null
+        }
+      ],
+      "productMedia": {
+        "customVideo": {
+          "h264DesktopW1000": "/media/ced256a47f24abd6b4a643729850d75c.mp4",
+          "h264DesktopW500": "/media/bb0669e47fe7ef8e8bd8fa887a4d4ba6.mp4",
+          "h264MobileW1440": "/media/bb67068b43e26880b57292d9fde3a478.mp4",
+          "h264MobileW720": "/media/20b084c74deae6f0b324c2edd9994e49.mp4",
+          "hevcDesktopW1000": "/media/2c5961bf0f8642a5188e3bede860392c.mp4",
+          "hevcDesktopW500": "/media/6fbf3a5967d60806562cc2c160b94d62.mp4",
+          "hevcMobileW1440": "/media/5616a81e899f3ccd4e9727648919cf92.mp4",
+          "hevcMobileW720": "/media/26a8c5f09a68b7c95bedabc608750307.mp4",
+          "mp4DesktopW1000": "/media/cdd55f9b16cf909e3893ea77096e926d.mp4",
+          "mp4DesktopW500": "/media/af07d2446bb53b5641e66f5bb7d66403.mp4",
+          "mp4MobileW1440": "/media/f710b3c24e75487eb6558044db4a880b.mp4",
+          "mp4MobileW720": "/media/90a259b1f17ad4d4d440a34b15353f0d.mp4",
+          "posterDesktop": "/media/99df90342473c886fcc13428ab91ea26.png",
+          "posterMobile": "/media/99df90342473c886fcc13428ab91ea26.png",
+          "title": "Online to in person with the Shop app - Generated Video",
+          "webmDesktopW1000": "/media/0db29a5c7876ae44a41a7e3f8ce9599e.webm",
+          "webmDesktopW500": "/media/31a4b9a623c590dc1b03db7a831917f5.webm",
+          "webmMobileW1440": "/media/28925565d268201ddfd4b08452404cfb.webm",
+          "webmMobileW720": "/media/c1ca241b92350c6d9c9d04d651d37fa6.webm"
+        },
+        "youtubeId": "9LkIxHbr1Ik"
+      },
+      "mobileHeadlineTitle": null
+    },
+    {
+      "headlineTitle": "Shop skill for personal AI agents",
+      "headlineTooltip": "Learn more",
+      "isxxl": false,
+      "knockout": true,
+      "id": "gid://shopify/Product/7630375780446",
+      "handle": "shop-skill-for-personal-ai-agents",
+      "title": "Shop skill for personal AI agents",
+      "descriptionHtml": "<p>Shoppers using OpenClaw, Hermes, and other AI agents can discover products across Shopify and approve purchases through <a href=\"https://www.shopify.com/shop\" target=\"_blank\" title=\"Learn more\">Shop</a>.</p>",
+      "ctas": [
+        {
+          "title": null,
+          "url": "https://shop.app/skill",
+          "ariaLabel": null
+        }
+      ],
+      "productMedia": {
+        "image": {
+          "altText": "A conversation with an AI agent shows the agent creating a cart for the shopper after they asked for shoes and connected their Shop account",
+          "height": 600,
+          "id": "gid://shopify/ImageSource/26418868846686",
+          "url": "/media/U287_Shop_app_skill_for_personal_AI_agents.png",
+          "width": 800
+        }
+      },
+      "mobileHeadlineTitle": null
+    },
+    {
+      "headlineTitle": "Blocks in Shop Editor",
+      "headlineTooltip": "Read help doc",
+      "headlineAuthTooltip": "Try it",
+      "isxxl": false,
+      "knockout": true,
+      "id": "gid://shopify/Product/7576953061470",
+      "handle": "blocks-in-shop-editor",
+      "title": "Blocks in Shop Editor",
+      "descriptionHtml": "<p>Customize your product detail pages in <a href=\"https://www.shopify.com/shop\" target=\"_blank\" title=\"Learn more\">Shop</a> with content like slideshows, collections, videos, and media.</p>",
+      "ctas": [
+        {
+          "title": null,
+          "url": "https://help.shopify.com/en/manual/online-sales-channels/shop/manage-shop-store/customize/product-page",
+          "ariaLabel": null
+        },
+        {
+          "title": null,
+          "url": "https://admin.shopify.com/apps/shop-72/merchant/editor",
+          "ariaLabel": null,
+          "authenticated": true
+        }
+      ],
+      "productMedia": {
+        "customVideo": {
+          "h264DesktopW1000": "/media/fa7578cfd27d5bdf1d5575db05aae8e0.mp4",
+          "h264DesktopW500": "/media/b2f39bf130817ef7cd62496822522d93.mp4",
+          "h264MobileW1440": "/media/b3db6f40d14390c133ae22384c94a467.mp4",
+          "h264MobileW720": "/media/fa4ccaa4035c890014ff7528ff9d08e0.mp4",
+          "hevcDesktopW1000": "/media/c7979fb36348d7edf230b435eb73d624.mp4",
+          "hevcDesktopW500": "/media/a4b248c8816a80f7d72b289c377fe886.mp4",
+          "hevcMobileW1440": "/media/54bf7241dda7e5d7c8104c6ff52070ab.mp4",
+          "hevcMobileW720": "/media/5ef237dff517af38bd03909c0dd02853.mp4",
+          "isStacked": true,
+          "mp4DesktopW1000": "/media/bf14809a73ca1b89490cb1c3e93819a5.mp4",
+          "mp4DesktopW500": "/media/8ca620581f47db5257457b731353899c.mp4",
+          "mp4MobileW1440": "/media/e46ec824cfcc1247f5fd85bec6f30662.mp4",
+          "mp4MobileW720": "/media/cf3496f6a88efc31ee78dd602ea01d58.mp4",
+          "posterDesktop": "/media/a478f3929d82163ff0fd0e92c6dc8dfb.png",
+          "posterMobile": "/media/b0815d9996481cce51ade06e45fbbf1d.png",
+          "title": "rive-animation-lcp9mkgq - Generated Video",
+          "webmDesktopW1000": "/media/de1f0026c5db7d8394babc5378103e2a.webm",
+          "webmDesktopW500": "/media/103209857d3663c782dfb49b7d92b2ee.webm",
+          "webmMobileW1440": "/media/7a3c59a24a7fa8e75ccd274443e55065.webm",
+          "webmMobileW720": "/media/7b3dc457b44b6b65d240e2dcaaccf7ce.webm"
+        },
+        "rive": {
+          "aspectRatio": "4:3",
+          "description": "A rotating display shows different content blocks in the Shop Editor, all content features yellow sneakers and a product description",
+          "fallbackImage": {
+            "altText": "",
+            "height": 600,
+            "id": "gid://shopify/ImageSource/26327101833310",
+            "url": "/media/U132_Blocks_in_the_Shop_Editor_desktop-fallback.png",
+            "width": 800
+          },
+          "fontsFull": [
+            {
+              "id": "gid://shopify/GenericFile/25808766206046",
+              "mimeType": "text/plain",
+              "url": "/media/Inter.txt"
+            },
+            {
+              "id": "gid://shopify/GenericFile/26552907300958",
+              "mimeType": "text/plain",
+              "url": "/media/GT-Standard-M-Standard-Semibold.txt"
+            },
+            {
+              "id": "gid://shopify/GenericFile/26552907268190",
+              "mimeType": "text/plain",
+              "url": "/media/GT-Standard-M-Standard-Regular.txt"
+            },
+            {
+              "id": "gid://shopify/GenericFile/26553012224094",
+              "mimeType": "text/plain",
+              "url": "/media/GT-Standard-M-Standard-Bold.txt"
+            }
+          ],
+          "posterImage": {
+            "image": {
+              "altText": "",
+              "height": 600,
+              "id": "gid://shopify/ImageSource/26327101833310",
+              "url": "/media/U132_Blocks_in_the_Shop_Editor_desktop-fallback.png",
+              "width": 800
+            }
+          },
+          "posterImageMobile": null,
+          "fallbackImageMobile": null,
+          "globalRiveEnabled": "enabled",
+          "lazyRiveRuntime": true
+        }
+      },
+      "mobileHeadlineTitle": null
+    },
+    {
+      "headlineTitle": "Demand indicators and inventory alerts",
+      "id": "gid://shopify/Product/7576953225310",
+      "handle": "demand-and-inventory-alerts-on-shop-product-pages",
+      "title": "Demand and inventory alerts on Shop product pages",
+      "descriptionHtml": "<p>Product detail pages in <a href=\"https://www.shopify.com/shop\" target=\"_blank\" title=\"Learn more\">Shop</a> show demand indicators like whether an item is trending and flag when inventory's low.</p>",
+      "ctas": [],
+      "mobileHeadlineTitle": null
+    },
+    {
+      "headlineTitle": "Merchandised categories",
+      "headlineTooltip": "Try it",
+      "id": "gid://shopify/Product/7576953159774",
+      "handle": "merchandised-categories-in-the-shop-app-and-web",
+      "title": "Merchandised categories in the Shop app and web",
+      "descriptionHtml": "<p>Shoppers can browse products and brands curated by category to find what they're looking for in <a href=\"https://www.shopify.com/shop\" target=\"_blank\" title=\"Learn more\">Shop</a>.</p>",
+      "ctas": [
+        {
+          "title": null,
+          "url": "https://open.shop.app/E2jp6/49xz/8g3s",
+          "ariaLabel": null
+        }
+      ],
+      "mobileHeadlineTitle": null
+    },
+    {
+      "headlineTitle": "Posts in the Shop app",
+      "headlineTooltip": "Read help doc",
+      "headlineAuthTooltip": "Try it",
+      "id": "gid://shopify/Product/7576953094238",
+      "handle": "posts-in-shop-home-feed-following-feed-and-stores",
+      "title": "Posts in Shop home feed, following feed, and stores",
+      "descriptionHtml": "<p>Create posts that get seen by active shoppers in the home feed, their following feeds, and on your store in <a href=\"https://www.shopify.com/shop\" target=\"_blank\" title=\"Learn more\">Shop</a>.</p>",
+      "ctas": [
+        {
+          "title": null,
+          "url": "https://help.shopify.com/en/manual/online-sales-channels/shop/marketing/posts",
+          "ariaLabel": null
+        },
+        {
+          "title": null,
+          "url": "https://admin.shopify.com/apps/shop-72/merchant/posts",
+          "ariaLabel": null,
+          "authenticated": true
+        }
+      ],
+      "mobileHeadlineTitle": null
+    },
+    {
+      "headlineTitle": "Seamless Shop sign-in and account experience",
+      "headlineTooltip": "Read help doc",
+      "id": "gid://shopify/Product/7576952995934",
+      "handle": "seamless-shop-sign-in-and-account-experience",
+      "title": "Seamless Shop sign-in and account experience",
+      "descriptionHtml": "<p><a href=\"https://www.shopify.com/shop\" target=\"_blank\" title=\"Learn more\">Shop</a> sign-in works with more customer accounts and features are consistent across sign-in experiences.</p>",
+      "ctas": [
+        {
+          "title": null,
+          "url": "https://help.shopify.com/en/manual/online-sales-channels/shop/sign-in-features",
+          "ariaLabel": null
+        }
+      ],
+      "mobileHeadlineTitle": null
+    },
+    {
+      "headlineTitle": "Search designed around shoppers",
+      "isxxl": true,
+      "knockout": true,
+      "id": "gid://shopify/Product/7576949194846",
+      "handle": "personalized-search-in-the-shop-app",
+      "title": "Personalized search in the Shop app",
+      "descriptionHtml": "<p>Discover, compare, and research products through conversation. Recommendations are shaped by shoppers' tastes and history on <a href=\"https://www.shopify.com/shop\" target=\"_blank\" title=\"Learn more\">Shop</a> and get smarter over time.</p>",
+      "ctas": [
+        {
+          "title": "Try it",
+          "url": "https://open.shop.app/E2jp6/n66j/ko3q",
+          "ariaLabel": null
+        }
+      ],
+      "productMedia": {
+        "image": {
+          "altText": "",
+          "height": 1530,
+          "id": "gid://shopify/ImageSource/26419118014558",
+          "url": "/media/U131_Shop_agent.png",
+          "width": 2720
+        },
+        "rive": {
+          "aspectRatio": "16:9",
+          "description": "A smartphone displays an agent asking the shopper what they're looking for, the shopper replies with an interest in shoes for a vacation, and the agent returns personalized results based on shopping history",
+          "fallbackImage": {
+            "altText": "",
+            "height": 1530,
+            "id": "gid://shopify/ImageSource/26549335556190",
+            "url": "/media/U131_Shop_agent_fallback.png",
+            "width": 2720
+          },
+          "fallbackImageMobile": {
+            "altText": "",
+            "height": 590,
+            "id": "gid://shopify/ImageSource/26549336735838",
+            "url": "/media/U131_Shop_agent_mobile_fallback_e02ad74f-65dd-4efc-bb3d-9394b619e7c1.png",
+            "width": 786
+          },
+          "fontsFull": [
+            {
+              "id": "gid://shopify/GenericFile/25808766206046",
+              "mimeType": "text/plain",
+              "url": "/media/Inter.txt"
+            },
+            {
+              "id": "gid://shopify/GenericFile/26552907268190",
+              "mimeType": "text/plain",
+              "url": "/media/GT-Standard-M-Standard-Regular.txt"
+            },
+            {
+              "id": "gid://shopify/GenericFile/26552907300958",
+              "mimeType": "text/plain",
+              "url": "/media/GT-Standard-M-Standard-Semibold.txt"
+            },
+            {
+              "id": "gid://shopify/GenericFile/26550801170526",
+              "mimeType": "text/plain",
+              "url": "/media/GT-Standard-L-Standard-Heavy.txt"
+            }
+          ],
+          "mobileAspectRatio": "4:3",
+          "posterImage": {
+            "image": {
+              "altText": "",
+              "height": 1530,
+              "id": "gid://shopify/ImageSource/26582928818270",
+              "url": "/media/u131_poster_desktop_en.webp",
+              "width": 2720
+            }
+          },
+          "posterImageMobile": {
+            "image": {
+              "altText": "",
+              "height": 1530,
+              "id": "gid://shopify/ImageSource/26582930161758",
+              "url": "/media/u131_poster_mobile_en.webp",
+              "width": 2040
+            }
+          },
+          "globalRiveEnabled": "enabled",
+          "lazyRiveRuntime": true
+        }
+      },
+      "mobileHeadlineTitle": null
+    },
+    {
+      "headlineTitle": "Shop Minis across the app",
+      "headlineTooltip": "Learn more",
+      "id": "gid://shopify/Product/7665235066974",
+      "handle": "shop-minis-in-home-feed-navigation-and-product-pages",
+      "title": "Shop Minis in home feed, navigation, and product pages",
+      "descriptionHtml": "<p>Shoppers can interact with <a href=\"#shop-minis-in-more-parts-of-shop\" title=\"Build a Mini\">Shop Minis</a> from the home feed, top navigation, and product pages, so more of your products show up in new ways.</p>",
+      "ctas": [
+        {
+          "title": null,
+          "url": "https://shop.app/minis#gallery",
+          "ariaLabel": null
+        }
+      ],
+      "mobileHeadlineTitle": null
+    }
+  ],
+  "scenePresetName": "prod-8-shopapp",
+  "drivePortalTargetSceneName": null
+}

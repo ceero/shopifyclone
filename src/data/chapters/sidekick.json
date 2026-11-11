@@ -1,0 +1,294 @@
+{
+  "id": "gid://shopify/Collection/293666226270",
+  "handle": "sidekick",
+  "title": "Sidekick",
+  "descriptionHtml": "",
+  "sceneText": null,
+  "sceneType": null,
+  "hideSubsectionTitles": false,
+  "tooltipText": null,
+  "theatreSheetUrl": "/media/sidekick-prod-2026-06-17T00-12-04.json",
+  "mobileFallbackBackground": {
+    "altText": null,
+    "height": 1034,
+    "id": "gid://shopify/ImageSource/26631938211934",
+    "url": "/media/sidekick-mobile-optimized.webp",
+    "width": 1000,
+    "__typename": "Image"
+  },
+  "desktopFallbackBackground": {
+    "altText": null,
+    "height": 1116,
+    "id": "gid://shopify/ImageSource/26635757158494",
+    "url": "/media/prod-3-sidekick-optimized.webp",
+    "width": 2000,
+    "__typename": "Image"
+  },
+  "products": [
+    {
+      "headlineTitle": "Sidekick works with your apps",
+      "isxxl": true,
+      "knockout": true,
+      "id": "gid://shopify/Product/7576949129310",
+      "handle": "sidekick-works-with-apps",
+      "title": "Sidekick works with apps",
+      "descriptionHtml": "<p>Starting with Judge.me, Klaviyo, Loop, Smile, and more top partners, Sidekick can answer questions about and take action in your apps.</p>",
+      "ctas": [
+        {
+          "title": "Explore apps",
+          "url": "https://apps.shopify.com/stories/guide-sidekick-app-extensions",
+          "ariaLabel": null
+        }
+      ],
+      "productMedia": {
+        "rive": {
+          "aspectRatio": "16:9",
+          "description": "From home in the admin, a merchant asks Sidekick to read and reply to recent 5-star reviews, and Sidekick goes into the Judge.me app to read and reply to all the recent product reviews with 5 stars",
+          "fallbackImage": {
+            "altText": "",
+            "height": 1530,
+            "id": "gid://shopify/ImageSource/26549327528030",
+            "url": "/media/U64_Sidekick_fallback.png",
+            "width": 2720
+          },
+          "fallbackImageMobile": {
+            "altText": "",
+            "height": 590,
+            "id": "gid://shopify/ImageSource/26549327626334",
+            "url": "/media/U64_Sidekick_mobile_fallback.png",
+            "width": 786
+          },
+          "fontsFull": [
+            {
+              "id": "gid://shopify/GenericFile/25808766206046",
+              "mimeType": "text/plain",
+              "url": "/media/Inter.txt"
+            }
+          ],
+          "mobileAspectRatio": "4:3",
+          "posterImage": {
+            "image": {
+              "altText": "",
+              "height": 1530,
+              "id": "gid://shopify/ImageSource/26582924623966",
+              "url": "/media/u64_poster_desktop_en.webp",
+              "width": 2720
+            }
+          },
+          "posterImageMobile": {
+            "image": {
+              "altText": "",
+              "height": 1530,
+              "id": "gid://shopify/ImageSource/26582926688350",
+              "url": "/media/u64_poster_mobile_en.webp",
+              "width": 2040
+            }
+          },
+          "globalRiveEnabled": "enabled",
+          "lazyRiveRuntime": true
+        }
+      },
+      "mobileHeadlineTitle": null
+    },
+    {
+      "headlineTitle": "Actionable guidance from Sidekick",
+      "headlineTooltip": "Read help doc",
+      "knockout": true,
+      "id": "gid://shopify/Product/7576949096542",
+      "handle": "actionable-guidance-from-sidekick",
+      "title": "Actionable guidance from Sidekick",
+      "descriptionHtml": "<p>Start every admin session with tips to attract customers, improve conversion, and drive repeat sales.</p>",
+      "ctas": [
+        {
+          "title": null,
+          "url": "https://help.shopify.com/en/manual/shopify-admin/shopify-home#home-cards",
+          "ariaLabel": null
+        }
+      ],
+      "productMedia": {
+        "image": {
+          "altText": "A purple Sidekick Pulse card in the admin prompts the merchant to complete the Marabou Cargo Pant product listing",
+          "height": 600,
+          "id": "gid://shopify/ImageSource/26145974714462",
+          "url": "/media/U62_Home_powered_by_Sidekick_desktop-fallback.png",
+          "width": 800
+        }
+      },
+      "mobileHeadlineTitle": null
+    },
+    {
+      "headlineTitle": "Sidekick on Apple Watch",
+      "headlineTooltip": "Read help doc",
+      "isxxl": false,
+      "knockout": true,
+      "id": "gid://shopify/Product/7618149744734",
+      "handle": "sidekick-on-apple-watch",
+      "title": "Sidekick on Apple Watch",
+      "descriptionHtml": "<p>Ask Sidekick to look up information about your business from your Apple Watch.</p>",
+      "ctas": [
+        {
+          "title": null,
+          "url": "https://help.shopify.com/en/manual/shopify-admin/shopify-app/watch-app#sidekick",
+          "ariaLabel": null
+        }
+      ],
+      "productMedia": {
+        "image": {
+          "altText": "An Apple Watch with a purple band displays a Sidekick screen showing store metrics",
+          "height": 600,
+          "id": "gid://shopify/ImageSource/26518616932446",
+          "url": "/media/U270_Sidekick_on_Apple_watch.png",
+          "width": 800
+        }
+      },
+      "mobileHeadlineTitle": null
+    },
+    {
+      "headlineTitle": "Follow-up questions from Sidekick",
+      "headlineTooltip": "Read help doc",
+      "isxxl": false,
+      "knockout": true,
+      "id": "gid://shopify/Product/7644483977310",
+      "handle": "follow-up-questions-from-sidekick",
+      "title": "Follow-up questions from Sidekick",
+      "descriptionHtml": "<p>Sidekick presents multiple choice answers when it needs more information, so you can quickly clarify the task.</p>",
+      "ctas": [
+        {
+          "title": null,
+          "url": "https://help.shopify.com/en/manual/shopify-admin/productivity-tools/sidekick/set-up#use",
+          "ariaLabel": null
+        }
+      ],
+      "productMedia": {
+        "customVideo": {
+          "h264DesktopW1000": "/media/ea24afbdef63cdf604702476613312b5.mp4",
+          "h264DesktopW500": "/media/c8d0a08d56f740ee8d343303473c6ddc.mp4",
+          "h264MobileW1440": "/media/c805c4440a266a02856e08d7a8eb710d.mp4",
+          "h264MobileW720": "/media/ab9e9a8a3ba86d2d815dc8620068add6.mp4",
+          "hevcDesktopW1000": "/media/30da39839774f41c3f0e88379d428d20.mp4",
+          "hevcDesktopW500": "/media/bf84c9b135adafc5dedb28ea79d125d4.mp4",
+          "hevcMobileW1440": "/media/21c86596890fe35b65464e35fbd537ee.mp4",
+          "hevcMobileW720": "/media/914d63c10749905443965017ed39e2d4.mp4",
+          "isStacked": true,
+          "mp4DesktopW1000": "/media/033b36961bf0c053e6e3e97afc39eb33.mp4",
+          "mp4DesktopW500": "/media/e8653c62c51a3562d41ea3513fc7349e.mp4",
+          "mp4MobileW1440": "/media/84e0e35a4d63568bb85a7ee6088f354a.mp4",
+          "mp4MobileW720": "/media/d47cbd98fd891692ef9eb39e638de5e1.mp4",
+          "posterDesktop": "/media/8b04b31c2a9e84df55f283602722c27d.png",
+          "posterMobile": "/media/5443372570d3aec73e2094b4d761cbc3.png",
+          "title": "u-316-follow-up-questions-from-sidekick - Generated Video",
+          "webmDesktopW1000": "/media/fca1a62bec090edffd11c89dc555c297.webm",
+          "webmDesktopW500": "/media/4396eec974d4f5b9d5d534ac0130140e.webm",
+          "webmMobileW1440": "/media/774bd50fe5211ee40d63bc700fe4342a.webm",
+          "webmMobileW720": "/media/e2308322cffe6edbfaeb1fca96b780e6.webm"
+        },
+        "rive": {
+          "aspectRatio": "4:3",
+          "description": "A merchant asks Sidekick to create a social asset featuring several products, and Sidekick replies with a follow-up question with multiple choice answers to get more context",
+          "fallbackImage": {
+            "altText": "",
+            "height": 600,
+            "id": "gid://shopify/ImageSource/26437129797726",
+            "url": "/media/U316_Follow-up_questions_from_Sidekick.png",
+            "width": 800
+          },
+          "fontsFull": [
+            {
+              "id": "gid://shopify/GenericFile/25808766206046",
+              "mimeType": "text/plain",
+              "url": "/media/Inter.txt"
+            }
+          ],
+          "posterImage": null,
+          "posterImageMobile": null,
+          "fallbackImageMobile": null,
+          "globalRiveEnabled": "enabled",
+          "lazyRiveRuntime": true
+        }
+      },
+      "mobileHeadlineTitle": null
+    },
+    {
+      "headlineTitle": "Multi-task with Sidekick",
+      "headlineTooltip": "Read help doc",
+      "id": "gid://shopify/Product/7576730927198",
+      "handle": "multi-task-with-sidekick",
+      "title": "Multi-task with Sidekick",
+      "descriptionHtml": "<p>Sidekick keeps working in the background, even when you start a new task, run multiple chats, or close the window.</p>",
+      "ctas": [
+        {
+          "title": null,
+          "url": "https://help.shopify.com/en/manual/shopify-admin/productivity-tools/sidekick/index",
+          "ariaLabel": null
+        }
+      ],
+      "mobileHeadlineTitle": null
+    },
+    {
+      "headlineTitle": "Improved editing for Sidekick-generated apps",
+      "headlineTooltip": "Read help doc",
+      "id": "gid://shopify/Product/7592461205598",
+      "handle": "improved-editing-for-sidekick-generated-apps",
+      "title": "Improved editing for Sidekick-generated apps",
+      "descriptionHtml": "<p>Edit code, preview on desktop and mobile, and track version history in Sidekick's app editor.</p>",
+      "ctas": [
+        {
+          "title": null,
+          "url": "https://help.shopify.com/en/manual/shopify-admin/productivity-tools/sidekick/generate-apps",
+          "ariaLabel": null
+        }
+      ],
+      "mobileHeadlineTitle": null
+    },
+    {
+      "headlineTitle": "Sidekick everywhere in the Shopify app",
+      "headlineTooltip": "Read help doc",
+      "id": "gid://shopify/Product/7576949555294",
+      "handle": "sidekick-everywhere-in-the-shopify-app",
+      "title": "Sidekick everywhere in the Shopify app",
+      "descriptionHtml": "<p>Type or talk with Sidekick on any screen to get help in context as you edit your store from your phone.</p>",
+      "ctas": [
+        {
+          "title": null,
+          "url": "https://help.shopify.com/en/manual/shopify-admin/productivity-tools/sidekick/set-up#use",
+          "ariaLabel": null
+        }
+      ],
+      "mobileHeadlineTitle": null
+    },
+    {
+      "headlineTitle": "Sidekick creates customers",
+      "headlineTooltip": "Read help doc",
+      "id": "gid://shopify/Product/7576949522526",
+      "handle": "sidekick-creates-customers",
+      "title": "Sidekick creates customers",
+      "descriptionHtml": "<p>Describe your customer in plain language, and Sidekick automatically fills out the form.</p>",
+      "ctas": [
+        {
+          "title": null,
+          "url": "https://help.shopify.com/en/manual/shopify-admin/productivity-tools/sidekick/help-and-guidance#forms",
+          "ariaLabel": null
+        }
+      ],
+      "mobileHeadlineTitle": null
+    },
+    {
+      "headlineTitle": "Automation tests with Sidekick",
+      "headlineTooltip": "Read help doc",
+      "id": "gid://shopify/Product/7576949489758",
+      "handle": "automation-tests-with-sidekick",
+      "title": "Automation tests with Sidekick",
+      "descriptionHtml": "<p>Generate test events for <a href=\"https://apps.shopify.com/flow\" target=\"_blank\" title=\"Get app\">Shopify Flow</a> automations with Sidekick, and verify your logic works.</p>",
+      "ctas": [
+        {
+          "title": null,
+          "url": "https://help.shopify.com/manual/shopify-flow/manage/test-workflow",
+          "ariaLabel": null
+        }
+      ],
+      "mobileHeadlineTitle": null
+    }
+  ],
+  "scenePresetName": "prod-3-sidekick",
+  "drivePortalTargetSceneName": null
+}

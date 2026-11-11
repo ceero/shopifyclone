@@ -1,0 +1,1 @@
+var e=`Spring 2026`,t=`0.4.0`,n=`hero`,r=null;function i(e){r=e}function a(e){n=e,r&&(r.textContent=`SECTION: ${e}`)}var o=new Map;function s(e,t){o.set(e,t)}function c(){return o}export{a,i,s as n,t as o,n as r,e as s,c as t};

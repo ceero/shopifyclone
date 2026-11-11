@@ -1,0 +1,22 @@
+.edition-brand {
+  padding-block: 0;
+}
+
+.edition-brand-mark {
+  display: block;
+  width: auto;
+  height: 44px;
+  max-width: none;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+
+.edition-brand-season { white-space: nowrap; }
+
+@media (max-width: 360px) {
+  .edition-brand-season { display: none; }
+}
+
+@media (min-width: 58.75rem) {
+  .edition-brand-mark { height: 40px; }
+}

@@ -1,0 +1,232 @@
+{
+  "id": "gid://shopify/Collection/292911775838",
+  "handle": "finance",
+  "title": "Finance",
+  "descriptionHtml": "",
+  "sceneText": null,
+  "sceneType": null,
+  "hideSubsectionTitles": false,
+  "tooltipText": null,
+  "theatreSheetUrl": "/media/finance-prod-2026-06-17T03-34-38.json",
+  "mobileFallbackBackground": {
+    "altText": null,
+    "height": 1034,
+    "id": "gid://shopify/ImageSource/26635759288414",
+    "url": "/media/prod-10-finance-mobile_246c94e8-cf22-4662-91df-3f4695201734-optimized.webp",
+    "width": 1000,
+    "__typename": "Image"
+  },
+  "desktopFallbackBackground": {
+    "altText": null,
+    "height": 1129,
+    "id": "gid://shopify/ImageSource/26635759255646",
+    "url": "/media/prod-10-finance-desktop-optimized.webp",
+    "width": 2000,
+    "__typename": "Image"
+  },
+  "products": [
+    {
+      "headlineTitle": "Cashback on ad spend from Shopify Balance",
+      "isxxl": true,
+      "knockout": true,
+      "id": "gid://shopify/Product/7608168218718",
+      "handle": "cashback-on-ad-spend-from-shopify-balance",
+      "title": "Cashback on ad spend from Shopify Balance",
+      "descriptionHtml": "<p>Earn cashback on qualifying payments made by ACH or wire transfer from your <a href=\"https://www.shopify.com/balance\" target=\"_blank\" title=\"Learn more\">Shopify Balance</a> account for Meta and Google ads. US only.</p>",
+      "ctas": [
+        {
+          "title": "See cashback rewards",
+          "url": "https://help.shopify.com/en/manual/finance/shopify-balance/rewards/cashback-rewards#eligible-transactions-for-cashback-rewards",
+          "ariaLabel": null
+        }
+      ],
+      "productMedia": {
+        "rive": {
+          "aspectRatio": "16:9",
+          "description": "Ads being run across different channels flip over and turn into different amounts of cashback ",
+          "fallbackImage": {
+            "altText": "",
+            "height": 1530,
+            "id": "gid://shopify/ImageSource/26549329264734",
+            "url": "/media/U267_Balance_ad_payments_fallback.png",
+            "width": 2720
+          },
+          "fallbackImageMobile": {
+            "altText": "",
+            "height": 590,
+            "id": "gid://shopify/ImageSource/26549329657950",
+            "url": "/media/U267_Balance_ad_payments__mobile_fallback.png",
+            "width": 786
+          },
+          "fontsFull": [
+            {
+              "id": "gid://shopify/GenericFile/25808766206046",
+              "mimeType": "text/plain",
+              "url": "/media/Inter.txt"
+            }
+          ],
+          "mobileAspectRatio": "4:3",
+          "posterImage": {
+            "image": {
+              "altText": "",
+              "height": 1530,
+              "id": "gid://shopify/ImageSource/26582936485982",
+              "url": "/media/u267_poster_desktop_en.webp",
+              "width": 2720
+            }
+          },
+          "posterImageMobile": {
+            "image": {
+              "altText": "",
+              "height": 1530,
+              "id": "gid://shopify/ImageSource/26582937895006",
+              "url": "/media/u267_poster_mobile_en.webp",
+              "width": 2040
+            }
+          },
+          "globalRiveEnabled": "enabled",
+          "lazyRiveRuntime": true
+        }
+      },
+      "mobileHeadlineTitle": null
+    },
+    {
+      "headlineTitle": "Shopify Tax available in Canada",
+      "headlineTooltip": "Read help doc",
+      "isxxl": false,
+      "knockout": true,
+      "id": "gid://shopify/Product/7576954536030",
+      "handle": "shopify-tax-available-in-canada",
+      "title": "Shopify Tax available in Canada",
+      "descriptionHtml": "<p>Auto-calculate Canadian sales tax using your product categories and track liability thresholds in the admin.</p>",
+      "ctas": [
+        {
+          "title": null,
+          "url": "https://help.shopify.com/en/manual/taxes/shopify-tax/shopify-tax-canada",
+          "ariaLabel": null
+        }
+      ],
+      "productMedia": {
+        "image": {
+          "altText": "The tax settings section of the admin shows the Canadian flag and a sales tax threshold and collection status",
+          "height": 600,
+          "id": "gid://shopify/ImageSource/26173809655902",
+          "url": "/media/U125_Shopify_Tax_Canada.png",
+          "width": 800
+        }
+      },
+      "mobileHeadlineTitle": null
+    },
+    {
+      "headlineTitle": "Cash in Shopify Balance",
+      "headlineTooltip": "Read help doc",
+      "isxxl": false,
+      "knockout": true,
+      "id": "gid://shopify/Product/7576954962014",
+      "handle": "cash-in-shopify-balance",
+      "title": "Cash in Shopify Balance",
+      "descriptionHtml": "<p>Add cash to your <a href=\"https://www.shopify.com/balance\" title=\"Learn more\" target=\"_blank\">Shopify Balance</a> account at participating retailers using a barcode generated in the <a href=\"https://www.shopify.com/mobile\" title=\"Get app\" target=\"_blank\">Shopify app</a>. US only.</p>",
+      "ctas": [
+        {
+          "title": null,
+          "url": "https://help.shopify.com/en/manual/finance/shopify-balance/adding-cash",
+          "ariaLabel": null
+        }
+      ],
+      "productMedia": {
+        "image": {
+          "altText": "A smartphone shows a Shopify Balance account with a cash deposit confirmation",
+          "height": 600,
+          "id": "gid://shopify/ImageSource/26418764939358",
+          "url": "/media/U175_Cash_in_Shopify_Balance.png",
+          "width": 800
+        }
+      },
+      "mobileHeadlineTitle": null
+    },
+    {
+      "headlineTitle": "Funding paid with Shopify Payments",
+      "headlineTooltip": "Read help doc",
+      "isxxl": false,
+      "knockout": true,
+      "id": "gid://shopify/Product/7576954863710",
+      "handle": "funding-paid-with-shopify-payments",
+      "title": "Funding paid with Shopify Payments",
+      "descriptionHtml": "<p>Repay <a href=\"https://www.shopify.com/capital\" target=\"_blank\" title=\"Learn more\">Shopify Capital</a> funding from your <a href=\"https://www.shopify.com/payments\" target=\"_blank\" title=\"Learn more\">Shopify Payments</a> balance instead of bank account debits.</p>",
+      "ctas": [
+        {
+          "title": null,
+          "url": "https://help.shopify.com/en/manual/finance/shopify-capital/united-states#managing-your-repayments-with-shopify-capital-for-the-united-states",
+          "ariaLabel": null
+        }
+      ],
+      "productMedia": {
+        "image": {
+          "altText": "A financing repayment summary shows an amount repaid automatically through Shopify Payments",
+          "height": 600,
+          "id": "gid://shopify/ImageSource/26173782523998",
+          "url": "/media/U150_Capital_remittance.png",
+          "width": 800
+        }
+      },
+      "mobileHeadlineTitle": null
+    },
+    {
+      "headlineTitle": "Repayment control for Shopify Capital flex account",
+      "headlineTooltip": "Read help doc",
+      "headlineAuthTooltip": "Try it",
+      "id": "gid://shopify/Product/7576954765406",
+      "handle": "repayment-control-for-shopify-capital-flex-account",
+      "title": "Repayment control for Shopify Capital flex account",
+      "descriptionHtml": "<p>Borrow up to your remaining capacity and adjust your repayment rate anytime. US only.</p>",
+      "ctas": [
+        {
+          "title": null,
+          "url": "https://help.shopify.com/en/manual/finance/shopify-capital/shopify-capital-flex/managing-capital-flex-account#adjusting-your-repayment-rate",
+          "ariaLabel": null
+        },
+        {
+          "title": null,
+          "url": "https://admin.shopify.com/capital/account/repayment",
+          "ariaLabel": null,
+          "authenticated": true
+        }
+      ],
+      "mobileHeadlineTitle": null
+    },
+    {
+      "headlineTitle": "Shopify Capital available in France",
+      "headlineTooltip": "Read help doc",
+      "id": "gid://shopify/Product/7576954798174",
+      "handle": "shopify-capital-available-in-france",
+      "title": "Shopify Capital available in France",
+      "descriptionHtml": "<p>Businesses in France can access flexible funding with automatic repayment through daily sales.</p>",
+      "ctas": [
+        {
+          "title": null,
+          "url": "https://help.shopify.com/fr/manual/finance/shopify-capital/france",
+          "ariaLabel": null
+        }
+      ],
+      "mobileHeadlineTitle": null
+    },
+    {
+      "headlineTitle": "Domestic wire transfers",
+      "headlineTooltip": "Read help doc",
+      "id": "gid://shopify/Product/7622402343006",
+      "handle": "domestic-wire-transfers-from-shopify-balance",
+      "title": "Domestic wire transfers from Shopify Balance",
+      "descriptionHtml": "<p>Send domestic wire transfers to vendors from <a href=\"https://www.shopify.com/balance\" target=\"_blank\" title=\"Learn more\">Shopify Balance</a> for $10 per transfer. US only.</p>",
+      "ctas": [
+        {
+          "title": null,
+          "url": "https://help.shopify.com/en/manual/finance/shopify-balance/managing-account/transfers",
+          "ariaLabel": null
+        }
+      ],
+      "mobileHeadlineTitle": null
+    }
+  ],
+  "scenePresetName": "prod-10-finance",
+  "drivePortalTargetSceneName": null
+}

@@ -1,0 +1,72 @@
+{
+  "desktop": {
+    "pixels": [
+      1425,
+      891
+    ],
+    "meanAbsoluteRGBError0to255": 29.21
+  },
+  "tablet": {
+    "pixels": [
+      805,
+      1158
+    ],
+    "meanAbsoluteRGBError0to255": 24.59
+  },
+  "mobile": {
+    "pixels": [
+      375,
+      812
+    ],
+    "meanAbsoluteRGBError0to255": 21.68
+  },
+  "mobile-menu": {
+    "pixels": [
+      375,
+      812
+    ],
+    "meanAbsoluteRGBError0to255": 0.0
+  },
+  "cards-desktop": {
+    "pixels": [
+      1425,
+      891
+    ],
+    "meanAbsoluteRGBError0to255": 6.19
+  },
+  "text-desktop": {
+    "pixels": [
+      1425,
+      891
+    ],
+    "meanAbsoluteRGBError0to255": 0.49
+  },
+  "text-tablet": {
+    "pixels": [
+      805,
+      1158
+    ],
+    "meanAbsoluteRGBError0to255": 0.0
+  },
+  "text-mobile": {
+    "pixels": [
+      375,
+      812
+    ],
+    "meanAbsoluteRGBError0to255": 0.0
+  },
+  "drive": {
+    "pixels": [
+      1440,
+      900
+    ],
+    "meanAbsoluteRGBError0to255": 1.5
+  },
+  "mobile-fallback": {
+    "pixels": [
+      375,
+      812
+    ],
+    "meanAbsoluteRGBError0to255": 14.5
+  }
+}

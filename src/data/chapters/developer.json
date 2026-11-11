@@ -1,0 +1,1127 @@
+{
+  "id": "gid://shopify/Collection/291366961246",
+  "handle": "developer",
+  "title": "Developer",
+  "descriptionHtml": "",
+  "sceneText": null,
+  "sceneType": null,
+  "hideSubsectionTitles": false,
+  "tooltipText": null,
+  "theatreSheetUrl": "/media/developer-prod-2026-06-17T03-24-43.json",
+  "mobileFallbackBackground": {
+    "altText": null,
+    "height": 1034,
+    "id": "gid://shopify/ImageSource/26635756273758",
+    "url": "/media/prod-11-dev-mobile-optimized.webp",
+    "width": 1000,
+    "__typename": "Image"
+  },
+  "desktopFallbackBackground": {
+    "altText": null,
+    "height": 1129,
+    "id": "gid://shopify/ImageSource/26635756240990",
+    "url": "/media/prod-11-dev-desktop-optimized.webp",
+    "width": 2000,
+    "__typename": "Image"
+  },
+  "products": [],
+  "nestedCollections": [
+    {
+      "id": "gid://shopify/Collection/292912431198",
+      "handle": "dev-platform",
+      "title": "Platform",
+      "descriptionHtml": "",
+      "sceneText": null,
+      "sceneType": null,
+      "hideSubsectionTitles": false,
+      "tooltipText": null,
+      "theatreSheetUrl": null,
+      "mobileFallbackBackground": null,
+      "desktopFallbackBackground": null,
+      "products": [
+        {
+          "headlineTitle": "More control over events",
+          "headlineTooltip": "Read dev docs",
+          "numberOfColumns": 6,
+          "eyebrow": "Platform",
+          "isxxl": false,
+          "knockout": true,
+          "id": "gid://shopify/Product/7576956174430",
+          "handle": "redesigned-webhook-architecture",
+          "title": "Redesigned webhook architecture",
+          "descriptionHtml": "<p>Configure triggers to fire webhooks only on specific field changes, and use custom GraphQL queries to receive only the data you need.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://shopify.dev/docs/apps/build/events",
+              "ariaLabel": null
+            }
+          ],
+          "productMedia": {
+            "image": {
+              "altText": "Two terminals in dark mode show webhook event configurations with a trigger that fires only when that specific field changes",
+              "height": 925,
+              "id": "gid://shopify/ImageSource/26485471805534",
+              "url": "/media/U162_Upgraded_events.png",
+              "width": 1233
+            }
+          },
+          "mobileMedia": {
+            "image": {
+              "altText": "Two terminals in dark mode show webhook event configurations with a trigger that fires only when that specific field changes",
+              "height": 600,
+              "id": "gid://shopify/ImageSource/26485485731934",
+              "url": "/media/U162_Upgraded_events_mobile.png",
+              "width": 800
+            }
+          },
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "GraphQL and bulk operations from the CLI",
+          "headlineTooltip": "Learn more",
+          "numberOfColumns": 6,
+          "eyebrow": "Platform",
+          "isxxl": false,
+          "knockout": true,
+          "id": "gid://shopify/Product/7576956239966",
+          "handle": "graphql-and-bulk-operations-from-the-cli",
+          "title": "GraphQL and bulk operations from the CLI",
+          "descriptionHtml": "<p>Run queries and bulk operations from agents or your terminal using <a href=\"https://shopify.dev/docs/api/shopify-cli\" target=\"_blank\" title=\"Learn more\">Shopify CLI</a>, with automatic auth and built-in status tracking.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://shopify.dev/changelog/use-the-admin-api-and-bulk-operations-in-shopify-cli",
+              "ariaLabel": null
+            }
+          ],
+          "productMedia": {
+            "image": {
+              "altText": "A terminal in dark mode shows GraphQL queries and bulk operations running from the Shopify CLI",
+              "height": 925,
+              "id": "gid://shopify/ImageSource/26485506244702",
+              "url": "/media/U164_GraphQL_and_bulk_operations.png",
+              "width": 1233
+            }
+          },
+          "mobileMedia": {
+            "image": {
+              "altText": "A terminal in dark mode shows GraphQL queries and bulk operations running from the Shopify CLI",
+              "height": 600,
+              "id": "gid://shopify/ImageSource/26485507260510",
+              "url": "/media/U164_GraphQL_and_bulk_operations_mobile.png",
+              "width": 800
+            }
+          },
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "All partner stores in Dev Dashboard",
+          "headlineTooltip": "Read article",
+          "numberOfColumns": 4,
+          "eyebrow": "Platform",
+          "isxxl": false,
+          "knockout": true,
+          "id": "gid://shopify/Product/7576955781214",
+          "handle": "all-partner-stores-in-dev-dashboard",
+          "title": "All partner stores in Dev Dashboard",
+          "descriptionHtml": "<p>Dev, client transfer, and collaborator stores live in the Dev Dashboard. It's the new home for building.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://www.shopify.com/partners/blog/improved-building-for-partners",
+              "ariaLabel": null
+            }
+          ],
+          "productMedia": {
+            "image": {
+              "altText": "The Dev Dashboard shows different types of stores together in one central view",
+              "height": 600,
+              "id": "gid://shopify/ImageSource/26173700603998",
+              "url": "/media/U74_All_partner_stores_in_Dev_Dashboard.png",
+              "width": 800
+            }
+          },
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "App Events API",
+          "headlineTooltip": "Read article",
+          "eyebrow": "Platform",
+          "isxxl": false,
+          "knockout": true,
+          "id": "gid://shopify/Product/7576955289694",
+          "handle": "app-events-api",
+          "title": "App Events API",
+          "descriptionHtml": "<p>Send events happening in your app to Shopify, then monitor and manage your app’s performance in the Dev Dashboard.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://www.shopify.com/partners/blog/app-events",
+              "ariaLabel": null
+            }
+          ],
+          "productMedia": {
+            "image": {
+              "altText": "The admin receives events from an app, and the Dev Dashboard shows logs monitoring the app's performance",
+              "height": 600,
+              "id": "gid://shopify/ImageSource/26505031254110",
+              "url": "/media/U36_App_Events_API.png",
+              "width": 800
+            }
+          },
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Revamped Polaris docs",
+          "headlineTooltip": "Read dev docs",
+          "eyebrow": "Platform",
+          "id": "gid://shopify/Product/7622231162974",
+          "handle": "revamped-polaris-docs",
+          "title": "Revamped Polaris docs",
+          "descriptionHtml": "<p>Every Polaris reference doc has more code samples and use cases, clearer descriptions, and better navigation.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://shopify.dev/docs/api/polaris",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Metafields in ShopifyQL",
+          "headlineTooltip": "Read dev docs",
+          "eyebrow": "Platform",
+          "id": "gid://shopify/Product/7608113594462",
+          "handle": "metafields-in-shopifyql",
+          "title": "Metafields in ShopifyQL",
+          "descriptionHtml": "<p>ShopifyQL supports metafields as dimensions and filters using dot-syntax with the Analytics API and online editor.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://shopify.dev/docs/api/shopifyql#metafields",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Auto-upgrades and semantic versioning in Shopify CLI",
+          "headlineTooltip": "Learn more",
+          "eyebrow": "Platform",
+          "id": "gid://shopify/Product/7604579500126",
+          "handle": "auto-upgrades-and-semantic-versioning-in-shopify-cli",
+          "title": "Auto-upgrades and semantic versioning in Shopify CLI",
+          "descriptionHtml": "<p><a href=\"https://shopify.dev/docs/api/shopify-cli\" target=\"_blank\" title=\"Learn more\">Shopify CLI</a> automatically upgrades for minor and patch releases. Major versions require opt-in, governed by new semantic versioning.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://shopify.dev/changelog/shopify-cli-40-semver-auto-updates-removing-deprecated-flags-and-commands",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Safer app deployments",
+          "headlineTooltip": "Learn more",
+          "eyebrow": "Platform",
+          "id": "gid://shopify/Product/7604579139678",
+          "handle": "safer-app-deployments",
+          "title": "Safer app deployments",
+          "descriptionHtml": "<p>Configure CI/CD pipelines that deploy new and updated extensions without accidentally deleting existing ones across live stores.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://shopify.dev/changelog/more-control-over-app-deploys-in-cicd-pipelines",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Streamlined Metafields and Metaobjects API",
+          "headlineTooltip": "Learn more",
+          "eyebrow": "Platform",
+          "id": "gid://shopify/Product/7604578975838",
+          "handle": "streamlined-metafields-and-metaobjects-api",
+          "title": "Streamlined Metafields and Metaobjects API",
+          "descriptionHtml": "<p>Read and write metafields and metaobjects more easily with a simpler GraphQL API.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://shopify.dev/changelog/streamlined-metaobject-api",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "No backend required for lightweight apps",
+          "headlineTooltip": "Read dev docs",
+          "eyebrow": "Platform",
+          "id": "gid://shopify/Product/7604578910302",
+          "handle": "no-backend-required-for-lightweight-apps",
+          "title": "No backend required for lightweight apps",
+          "descriptionHtml": "<p>Build an App Home directly in the admin without setting up or maintaining a backend server.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://shopify.dev/docs/api/app-home-ui-extension/latest",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Discount configuration with admin UI extensions",
+          "headlineTooltip": "Read dev docs",
+          "eyebrow": "Platform",
+          "id": "gid://shopify/Product/7580268724318",
+          "handle": "discount-configuration-with-admin-ui-extensions",
+          "title": "Discount configuration with admin UI extensions",
+          "descriptionHtml": "<p>Admin UI extensions can manage discount classes and render conditional UI in the admin based on discount method.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://shopify.dev/docs/apps/build/discounts/build-ui-extension",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Accelerated checkout support for add-ons",
+          "headlineTooltip": "Read dev docs",
+          "eyebrow": "Platform",
+          "id": "gid://shopify/Product/7580268691550",
+          "handle": "accelerated-checkout-support-for-add-ons",
+          "title": "Accelerated checkout support for add-ons",
+          "descriptionHtml": "<p>Shop Pay, Apple Pay, and other accelerated checkouts support nested cart lines, so customers can buy add-ons directly from the product page.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://shopify.dev/docs/storefronts/themes/pricing-payments/accelerated-checkout/multiple-product-checkout",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Declarative metaobjects don't require scopes",
+          "headlineTooltip": "Learn more",
+          "eyebrow": "Platform",
+          "id": "gid://shopify/Product/7576956600414",
+          "handle": "declarative-metaobjects-don-t-require-scopes",
+          "title": "Declarative metaobjects don't require scopes",
+          "descriptionHtml": "<p>App-owned metaobjects no longer require scopes, so data easily migrates once the app's installed.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://shopify.dev/changelog/metaobject-scopes-not-required-for-app-metaobjects",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Metaobject data in checkout functions",
+          "headlineTooltip": "Read dev docs",
+          "eyebrow": "Platform",
+          "id": "gid://shopify/Product/7576956502110",
+          "handle": "metaobject-data-in-checkout-functions",
+          "title": "Metaobject data in checkout functions",
+          "descriptionHtml": "<p>Use metaobject entries in checkout functions to power custom discounts, product rules, and personalized checkout logic.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://shopify.dev/docs/apps/build/metaobjects#use-in-shopify-functions",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Billing address and PO number in Shopify Functions",
+          "headlineTooltip": "Read dev docs",
+          "eyebrow": "Platform",
+          "id": "gid://shopify/Product/7576955682910",
+          "handle": "billing-address-and-po-number-in-shopify-functions",
+          "title": "Billing address and PO number in Shopify Functions",
+          "descriptionHtml": "<p>Query billing address and PO number in cart and checkout validation functions to enforce compliance rules and B2B requirements.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://shopify.dev/docs/api/functions/latest/cart-and-checkout-validation#supported-checkout-field-targets",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Shopify AI Toolkit for Polaris web components upgrade",
+          "headlineTooltip": "Read dev docs",
+          "eyebrow": "Platform",
+          "id": "gid://shopify/Product/7576955650142",
+          "handle": "shopify-ai-toolkit-for-polaris-web-components-upgrade",
+          "title": "Shopify AI Toolkit for Polaris web components upgrade",
+          "descriptionHtml": "<p>Upgrade checkout and customer account extensions to Polaris web components with your preferred agent using the <a href=\"https://shopify.dev/docs/apps/build/ai-toolkit\" target=\"_blank\" title=\"Learn more\">Shopify AI Toolkit</a>.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://shopify.dev/docs/apps/build/checkout/migrate-to-web-components#migrate-using-ai",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Role-based access for partners",
+          "headlineTooltip": "Read article",
+          "eyebrow": "Platform",
+          "id": "gid://shopify/Product/7576955813982",
+          "handle": "role-based-access-for-partners",
+          "title": "Role-based access for partners",
+          "descriptionHtml": "<p>Manage your team through seven system roles, and create custom ones for anything else.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://www.shopify.com/partners/blog/improved-building-for-partners",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Improved webhook monitoring",
+          "headlineTooltip": "Read dev docs",
+          "eyebrow": "Platform",
+          "id": "gid://shopify/Product/7576956076126",
+          "handle": "improved-webhook-monitoring",
+          "title": "Improved webhook monitoring",
+          "descriptionHtml": "<p>Webhook monitoring supports multi-select filters, faceted event counts, and custom time ranges in the Dev Dashboard.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://shopify.dev/docs/apps/build/dev-dashboard/monitoring-and-logs",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Localized Dev Dashboard",
+          "headlineTooltip": "Learn more",
+          "numberOfColumns": 4,
+          "eyebrow": "Platform",
+          "isxxl": false,
+          "knockout": true,
+          "id": "gid://shopify/Product/7576956272734",
+          "handle": "localized-dev-dashboard",
+          "title": "Localized Dev Dashboard",
+          "descriptionHtml": "<p>Build apps and manage dev stores in your preferred language with all text in UI and navigation localized.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://shopify.dev/changelog/the-dev-dashboard-is-now-multi-lingual",
+              "ariaLabel": null
+            }
+          ],
+          "productMedia": {
+            "image": {
+              "altText": "A module from the Dev Dashboard shows text localized for different countries",
+              "height": 600,
+              "id": "gid://shopify/ImageSource/26173601841246",
+              "url": "/media/U165_Dev_Dashboard_localization-expanded_mobile-fallback.png",
+              "width": 800
+            }
+          },
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "App automation tokens",
+          "headlineTooltip": "Learn more",
+          "eyebrow": "Platform",
+          "id": "gid://shopify/Product/7576956305502",
+          "handle": "app-automation-token-management-in-the-dev-dashboard",
+          "title": "App automation token management in the Dev Dashboard",
+          "descriptionHtml": "<p>Create app automation tokens directly in the Dev Dashboard to automate app releases in CI/CD workflows.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://shopify.dev/changelog/app-deployment-in-cicd-is-now-available-for-all-apps",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Admin performance",
+          "headlineTooltip": "Learn more",
+          "eyebrow": "Platform",
+          "id": "gid://shopify/Product/7625194405982",
+          "handle": "monitor-app-web-vitals-directly-in-dev-dashboard",
+          "title": "Monitor app web vitals directly in Dev Dashboard",
+          "descriptionHtml": "<p>Monitor your app's admin web vitals and Built for Shopify standing directly in the Dev Dashboard.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://shopify.dev/changelog/monitor-admin-web-vitals-in-the-dev-dashboard",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Parallel reads for bulk queries",
+          "headlineTooltip": "Learn more",
+          "eyebrow": "Platform",
+          "id": "gid://shopify/Product/7649839611998",
+          "handle": "parallel-reads-for-bulk-queries",
+          "title": "Parallel reads for bulk queries",
+          "descriptionHtml": "<p>Run Admin API queries up to four times faster with bulk operations.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://shopify.dev/changelog/bulk-queries-now-execute-faster",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Commerce skills for your favorite agent",
+          "eyebrow": "Platform",
+          "isxxl": true,
+          "knockout": true,
+          "id": "gid://shopify/Product/7665235329118",
+          "handle": "shopify-ai-toolkit-for-developers",
+          "title": "Shopify AI Toolkit for developers",
+          "descriptionHtml": "<p>Build and manage storefronts, apps, and themes from AI tools like Claude Code, Codex, Cursor, Hermes, and more.</p>",
+          "ctas": [
+            {
+              "title": "Get setup",
+              "url": "https://shopify.dev/docs/apps/build/ai-toolkit",
+              "ariaLabel": null
+            }
+          ],
+          "productMedia": {
+            "rive": {
+              "aspectRatio": "16:9",
+              "description": "A terminal switches between several AI coding agents. The command is entered to add a customer UI extension that shows loyalty tiers on account pages. The agent fails before succeeding at executing the command, and a customer acount page gets a loyalty tier added to it.",
+              "fallbackImage": {
+                "altText": "",
+                "height": 1530,
+                "id": "gid://shopify/ImageSource/26549361311838",
+                "url": "/media/U328_Ai_toolkit_fallback.png",
+                "width": 2720
+              },
+              "fallbackImageMobile": {
+                "altText": "",
+                "height": 600,
+                "id": "gid://shopify/ImageSource/26549361639518",
+                "url": "/media/U328_Ai_toolkit_mobile_fallback.png",
+                "width": 800
+              },
+              "mobileAspectRatio": "4:3",
+              "posterImage": {
+                "image": {
+                  "altText": "",
+                  "height": 1530,
+                  "id": "gid://shopify/ImageSource/26582945857630",
+                  "url": "/media/u328_poster_desktop_en.webp",
+                  "width": 2720
+                }
+              },
+              "posterImageMobile": {
+                "image": {
+                  "altText": "",
+                  "height": 1530,
+                  "id": "gid://shopify/ImageSource/26582947004510",
+                  "url": "/media/u328_poster_mobile_en.webp",
+                  "width": 2040
+                }
+              },
+              "globalRiveEnabled": "enabled",
+              "lazyRiveRuntime": true
+            }
+          },
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Shopify Dev MCP optimized token usage",
+          "headlineTooltip": "Read dev docs",
+          "id": "gid://shopify/Product/7576956371038",
+          "handle": "shopify-dev-mcp-optimized-token-usage",
+          "title": "Shopify Dev MCP optimized token usage",
+          "descriptionHtml": "<p>Responses in Shopify Dev MCP use fewer tokens while maintaining accuracy.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://shopify.dev/docs/apps/build/ai-toolkit#install-with-the-dev-mcp-server",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Shopify Dev MCP for all API versions",
+          "headlineTooltip": "Read dev docs",
+          "id": "gid://shopify/Product/7576956436574",
+          "handle": "shopify-dev-mcp-for-all-api-versions",
+          "title": "Shopify Dev MCP for all API versions",
+          "descriptionHtml": "<p>Get accurate context and code validation for all supported API versions.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://shopify.dev/docs/apps/build/ai-toolkit#install-with-the-dev-mcp-server",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        }
+      ],
+      "scenePresetName": null,
+      "drivePortalTargetSceneName": null
+    },
+    {
+      "id": "gid://shopify/Collection/292912463966",
+      "handle": "dev-apps-extensions",
+      "title": "Apps + Extensions",
+      "descriptionHtml": "",
+      "sceneText": null,
+      "sceneType": null,
+      "hideSubsectionTitles": false,
+      "tooltipText": null,
+      "theatreSheetUrl": null,
+      "mobileFallbackBackground": null,
+      "desktopFallbackBackground": null,
+      "products": [
+        {
+          "headlineTitle": "Simple billing with Shopify App Pricing",
+          "headlineTooltip": "Learn more",
+          "eyebrow": "Apps + Extensions",
+          "isxxl": false,
+          "knockout": true,
+          "id": "gid://shopify/Product/7576955256926",
+          "handle": "simple-billing-with-shopify-app-pricing",
+          "title": "Simple billing with Shopify App Pricing",
+          "descriptionHtml": "<p>Configure usage, recurring, or hybrid pricing models in the app submission. Shopify powers the plan selection, charge approval, and invoicing.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://community.shopify.dev/t/shopify-app-pricing-the-next-generation-of-app-billing",
+              "ariaLabel": null
+            }
+          ],
+          "productMedia": {
+            "image": {
+              "altText": "A form displays app pricing plans with fields for plan name, price, and billing interval",
+              "height": 600,
+              "id": "gid://shopify/ImageSource/26418629967966",
+              "url": "/media/U34_Price_and_bill_Shopify_App_Pricing_desktop-fallback.png",
+              "width": 800
+            }
+          },
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Shop Minis in more parts of Shop",
+          "headlineTooltip": "Read dev docs",
+          "eyebrow": "Apps + Extensions",
+          "isxxl": false,
+          "knockout": true,
+          "id": "gid://shopify/Product/7576953258078",
+          "handle": "shop-minis-in-more-parts-of-shop",
+          "title": "Shop Minis in more parts of Shop",
+          "descriptionHtml": "<p>The home feed, top navigation, and product pages surface Shop Minis, so the right shopper finds your experience at the right time.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://shopify.dev/docs/api/shop-minis",
+              "ariaLabel": null
+            }
+          ],
+          "productMedia": {
+            "image": {
+              "altText": "A smartphone displays the Shop app, featuring a virtual try-on shopping experience ",
+              "height": 600,
+              "id": "gid://shopify/ImageSource/26418661851230",
+              "url": "/media/U137_Minis_Discovery-fallback.png",
+              "width": 800
+            }
+          },
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Refreshed API for branding checkout and accounts",
+          "headlineTooltip": "Read dev docs",
+          "eyebrow": "Apps + Extensions",
+          "isxxl": false,
+          "knockout": true,
+          "id": "gid://shopify/Product/7576955617374",
+          "handle": "refreshed-api-for-branding-checkout-and-accounts",
+          "title": "Refreshed API for branding checkout and accounts",
+          "descriptionHtml": "<p>Get greater control over branding across checkout, customer accounts, and sign-in using one API for global settings and page-specific tweaks.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://shopify.dev/docs/api/admin-graphql/2026-04/mutations/checkoutAndAccountsConfigurationUpdate",
+              "ariaLabel": null
+            }
+          ],
+          "productMedia": {
+            "image": {
+              "altText": "Different checkouts display custom branding in pink, purple, and green",
+              "height": 600,
+              "id": "gid://shopify/ImageSource/26173735567454",
+              "url": "/media/U55_Branding_API.png",
+              "width": 800
+            }
+          },
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "WhatsApp marketing consent",
+          "eyebrow": "Apps + Extensions",
+          "id": "gid://shopify/Product/7641747390558",
+          "handle": "whatsapp-marketing-consent-with-customers-and-admin-apis",
+          "title": "WhatsApp marketing consent with Customers and Admin APIs",
+          "descriptionHtml": "<p>Store and manage WhatsApp marketing consent using the <a href=\"https://shopify.dev/docs/api/customer/unstable/mutations/customerWhatsAppMarketingConsentUpdate\" target=\"_blank\" title=\"Read dev doc\">Customer Account</a> and <a href=\"https://shopify.dev/docs/api/admin-graphql/unstable/mutations/customerWhatsAppMarketingConsentUpdate\" target=\"_blank\" title=\"Read dev doc\">Admin</a> APIs.</p>",
+          "ctas": [],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Access to sign-in with Shop",
+          "headlineTooltip": "Read dev docs",
+          "eyebrow": "Apps + Extensions",
+          "id": "gid://shopify/Product/7641747226718",
+          "handle": "access-to-sign-in-with-shop",
+          "title": "Access to sign-in with Shop",
+          "descriptionHtml": "<p>Use Shop APIs, docs, and an SDK to build new features that let customers authenticate with Shop in one tap directly from your app.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://shopify.dev/docs/api/shop",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Shopify AI Toolkit for optimized checkout extensions",
+          "headlineTooltip": "Read dev docs",
+          "eyebrow": "Apps + Extensions",
+          "id": "gid://shopify/Product/7641747095646",
+          "handle": "shopify-ai-toolkit-for-optimized-checkout-extensions",
+          "title": "Shopify AI Toolkit for optimized checkout extensions",
+          "descriptionHtml": "<p>Use the <a href=\"https://shopify.dev/docs/apps/build/ai-toolkit\" target=\"_blank\" title=\"Learn more\">Shopify AI Toolkit</a> to audit checkout UI extensions for performance and get optimization recommendations.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://shopify.dev/docs/apps/build/checkout/extension-performance",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "All-new Hydrogen on any stack",
+          "headlineTooltip": "Learn more",
+          "eyebrow": "Apps + Extensions",
+          "id": "gid://shopify/Product/7641746604126",
+          "handle": "all-new-hydrogen-on-any-stack",
+          "title": "All-new Hydrogen on any stack",
+          "descriptionHtml": "<p>Agent-first and rebuilt from the ground up, in collaboration with Vercel, <a href=\"https://hydrogen.shopify.dev/\" title=\"Learn more\" target=\"_blank\">Hydrogen</a> works with any framework, including Next.js.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://hydrogen.shopify.dev/update/hydrogen-developer-preview",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Prerequisites in product discount functions",
+          "headlineTooltip": "Read dev docs",
+          "eyebrow": "Apps + Extensions",
+          "id": "gid://shopify/Product/7615450185822",
+          "handle": "prerequisites-in-product-discount-functions",
+          "title": "Prerequisites in product discount functions",
+          "descriptionHtml": "<p>Use a new prerequisites field to specify which items must be purchased before the discount applies for BXGY discount functions.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://shopify.dev/docs/api/functions/latest/discount#CartLinesDiscountsGenerateRunResult.fields.operations.productDiscountsAdd.candidates.prerequisites",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Bulk editing extensions for discounts",
+          "headlineTooltip": "Read dev docs",
+          "eyebrow": "Apps + Extensions",
+          "id": "gid://shopify/Product/7592461369438",
+          "handle": "bulk-editing-extensions-for-discounts",
+          "title": "Bulk editing extensions for discounts",
+          "descriptionHtml": "<p>Build extensions for bulk actions on the discount index, so businesses can manage multiple discounts at once.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://shopify.dev/docs/apps/build/admin/actions-blocks/build-admin-action",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Cash management extensions",
+          "headlineTooltip": "Learn more",
+          "eyebrow": "Apps + Extensions",
+          "id": "gid://shopify/Product/7592461238366",
+          "handle": "cash-management-extensions",
+          "title": "Cash management extensions",
+          "descriptionHtml": "<p>Manage cash sessions, prompt counts, create audit trails, and more with register-centric APIs, reason codes, events, and Shopify POS extension targets.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://shopify.dev/changelog/new-retail-cash-management-capabilities",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "SKU sharing by default",
+          "headlineTooltip": "Learn more",
+          "eyebrow": "Apps + Extensions",
+          "id": "gid://shopify/Product/7582952816734",
+          "handle": "sku-sharing-by-default-for-inventory-apps",
+          "title": "SKU sharing by default for inventory apps",
+          "descriptionHtml": "<p>The permitsSkuSharing field is removed, so inventory can be stocked at multiple locations for any fulfillment service.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://shopify.dev/changelog/removing-permitsskusharing-field-from-fulfillment-service",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Multi-channel support for sales channel apps",
+          "headlineTooltip": "Read dev docs",
+          "eyebrow": "Apps + Extensions",
+          "id": "gid://shopify/Product/7577055952990",
+          "handle": "multi-channel-support-for-sales-channel-apps",
+          "title": "Multi-channel support for sales channel apps",
+          "descriptionHtml": "<p>Sales channel apps can create multiple channel connections, each with unique specifications for different surfaces or accounts.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://shopify.dev/docs/api/admin-graphql/latest/mutations/channelCreate",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Ship and pick up in one order",
+          "headlineTooltip": "Try it",
+          "eyebrow": "Apps + Extensions",
+          "id": "gid://shopify/Product/7576956633182",
+          "handle": "ship-and-pick-up-in-one-order",
+          "title": "Ship and pick up in one order",
+          "descriptionHtml": "<p>Test apps, integration, and workflows that interact with delivery, fulfillment, or order logic to ensure checkout compatibility.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://dev.shopify.com/dashboard",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Stronger app security",
+          "headlineTooltip": "Read dev docs",
+          "eyebrow": "Apps + Extensions",
+          "id": "gid://shopify/Product/7576956108894",
+          "handle": "stronger-app-security",
+          "title": "Stronger app security",
+          "descriptionHtml": "<p>Public apps now use expiring tokens with OAuth 2.0-compliant refresh flows for enhanced security.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://shopify.dev/docs/apps/build/authentication-authorization/access-tokens/offline-access-tokens#expiring-vs-non-expiring-offline-tokens",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "POS UI extensions activation status",
+          "headlineTooltip": "Read dev docs",
+          "eyebrow": "Apps + Extensions",
+          "id": "gid://shopify/Product/7576956043358",
+          "handle": "pos-ui-extensions-activation-status",
+          "title": "POS UI extensions activation status",
+          "descriptionHtml": "<p>Query the status of POS UI extensions alongside checkout, admin, customer account, and theme extensions in a unified interface.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://shopify.dev/docs/api/app-home/apis/authentication-and-data/app-api",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "POS UI extensions work without network access",
+          "headlineTooltip": "Read dev docs",
+          "eyebrow": "Apps + Extensions",
+          "id": "gid://shopify/Product/7576956010590",
+          "handle": "pos-ui-extensions-work-without-network-access",
+          "title": "POS UI extensions work without network access",
+          "descriptionHtml": "<p>Configure POS UI extensions to keep running when a POS device loses network connectivity.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://shopify.dev/docs/api/pos-ui-extensions/latest#run-extensions-without-network-access",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Localized POS UI extensions",
+          "headlineTooltip": "Read dev docs",
+          "eyebrow": "Apps + Extensions",
+          "id": "gid://shopify/Product/7576955977822",
+          "handle": "localized-pos-ui-extensions",
+          "title": "Localized POS UI extensions",
+          "descriptionHtml": "<p>Translate POS UI extensions into multiple languages with locale-aware currency and number formatting and pluralization support.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://shopify.dev/docs/apps/build/pos/localization",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Camera access for POS UI extensions",
+          "headlineTooltip": "Read dev docs",
+          "eyebrow": "Apps + Extensions",
+          "id": "gid://shopify/Product/7576955945054",
+          "handle": "camera-access-for-pos-ui-extensions",
+          "title": "Camera access for POS UI extensions",
+          "descriptionHtml": "<p>Access device cameras through the Camera API, so businesses can scan IDs, take product photos, and attach images in Shopify POS.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://shopify.dev/docs/api/pos-ui-extensions/latest/target-apis/platform-apis/camera-api",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Inventory API upgrades",
+          "headlineTooltip": "Read dev docs",
+          "eyebrow": "Apps + Extensions",
+          "id": "gid://shopify/Product/7576955879518",
+          "handle": "inventory-api-upgrades",
+          "title": "Inventory API upgrades",
+          "descriptionHtml": "<p>Retried commands due to network issues don't risk duplicate writes or inaccurate data with idempotency protection.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://shopify.dev/docs/api/usage/idempotent-requests",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Subscription payment methods natively replaced",
+          "headlineTooltip": "Read dev docs",
+          "eyebrow": "Apps + Extensions",
+          "id": "gid://shopify/Product/7576955584606",
+          "handle": "subscription-payment-methods-natively-replaced",
+          "title": "Subscription payment methods natively replaced",
+          "descriptionHtml": "<p>Customer account UI extensions can natively update payment methods in subscriptions.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://shopify.dev/docs/api/customer-account-ui-extensions/latest/target-apis/platform-apis/intents-api",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Cart metafields carry over to orders",
+          "headlineTooltip": "Read dev docs",
+          "eyebrow": "Apps + Extensions",
+          "id": "gid://shopify/Product/7576955551838",
+          "handle": "cart-metafields-carry-over-to-orders",
+          "title": "Cart metafields carry over to orders",
+          "descriptionHtml": "<p>Enable cartToOrderCopyable on order metafield definitions to carry cart metafield values over to orders at checkout completion.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://shopify.dev/docs/apps/build/metafields/use-metafield-capabilities#cart-to-order-copyable",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Pre-populate email on sign-in",
+          "headlineTooltip": "Read dev docs",
+          "eyebrow": "Apps + Extensions",
+          "id": "gid://shopify/Product/7576955519070",
+          "handle": "pre-populate-email-on-sign-in",
+          "title": "Pre-populate email on sign-in",
+          "descriptionHtml": "<p>Use the login_hint parameter to pre-populate the customer's email address when linking to the sign-in page.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://shopify.dev/docs/storefronts/themes/sign-in#link-to-the-sign-in-page-with-email-prepopulated",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Customer account web component",
+          "headlineTooltip": "Read dev docs",
+          "eyebrow": "Apps + Extensions",
+          "id": "gid://shopify/Product/7576955486302",
+          "handle": "customer-account-web-component",
+          "title": "Customer account web component",
+          "descriptionHtml": "<p>Use a Shopify-managed account component that lets customers sign in and access account menus without leaving the store.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://shopify.dev/docs/storefronts/themes/customer-engagement/account-component",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Standard storefront events and actions",
+          "headlineTooltip": "Read dev docs",
+          "eyebrow": "Apps + Extensions",
+          "id": "gid://shopify/Product/7576955453534",
+          "handle": "standard-storefront-events-and-actions-for-themes",
+          "title": "Standard storefront events and actions for themes",
+          "descriptionHtml": "<p>Themes can adopt storefront events and actions, so apps and AI agents can reliably interact with the site.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://shopify.dev/docs/storefronts/themes/best-practices/standard-events-and-actions",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Streamlined app store submission",
+          "headlineTooltip": "Learn more",
+          "eyebrow": "Apps + Extensions",
+          "id": "gid://shopify/Product/7576955420766",
+          "handle": "streamlined-app-submission-with-partner-dashboard",
+          "title": "Streamlined app submission with Partner Dashboard",
+          "descriptionHtml": "<p>Fix issues before submission with checks in the Partner Dashboard, and track review feedback without email threads.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://community.shopify.dev/t/app-store-review-updates-new-tools-to-speed-up-submissions/33472",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Built for Shopify category requirement",
+          "headlineTooltip": "Learn more",
+          "eyebrow": "Apps + Extensions",
+          "id": "gid://shopify/Product/7576955387998",
+          "handle": "built-for-shopify-category-requirement",
+          "title": "Built for Shopify category requirement",
+          "descriptionHtml": "<p>Apps in returns and subscriptions categories must use the Customer Account API to authenticate customers in order to keep Built for Shopify status.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://shopify.dev/changelog/built-for-shopify-requirements-for-returns-and-exchanges-and-subscription-apps",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Intents for Shop Minis",
+          "headlineTooltip": "Read dev docs",
+          "eyebrow": "Apps + Extensions",
+          "id": "gid://shopify/Product/7576955191390",
+          "handle": "intents-for-shop-minis",
+          "title": "Intents for Shop Minis",
+          "descriptionHtml": "<p>Use intents in your Shop Mini to pass product context between the Shop app and your Mini, triggering your Mini at the right moment.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://shopify.dev/docs/api/shop-minis/intents",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "Color palettes for themes",
+          "headlineTooltip": "Read dev docs",
+          "eyebrow": "Apps + Extensions",
+          "id": "gid://shopify/Product/7576949784670",
+          "handle": "color-palettes-for-themes",
+          "title": "Color palettes for themes",
+          "descriptionHtml": "<p>Define color palettes in settings that are available across the theme with a new color customization architecture.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://shopify.dev/docs/storefronts/themes/best-practices/design/color-system",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        },
+        {
+          "headlineTitle": "New Collections API",
+          "headlineTooltip": "Read dev docs",
+          "eyebrow": "Apps + Extensions",
+          "id": "gid://shopify/Product/7671720771678",
+          "handle": "new-collections-api",
+          "title": "New Collections API",
+          "descriptionHtml": "<p>Update apps with composable source groups, variant-level conditions, and exclusion rules using the Collections API before rollout to businesses.</p>",
+          "ctas": [
+            {
+              "title": null,
+              "url": "https://shopify.dev/docs/api/admin-graphql/2026-07/mutations/collectionConditionsSourceCreate",
+              "ariaLabel": null
+            }
+          ],
+          "mobileHeadlineTitle": null
+        }
+      ],
+      "scenePresetName": null,
+      "drivePortalTargetSceneName": null
+    }
+  ],
+  "scenePresetName": "prod-11-dev",
+  "drivePortalTargetSceneName": "race-track"
+}
