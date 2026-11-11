@@ -1,0 +1,121 @@
+{
+  "src": "/media/u131_shop_search_6_16.riv",
+  "assetsMap": {
+    "u131asset9": {
+      "url": "/media/u131Asset9.webp",
+      "image": null
+    },
+    "u131asset7": {
+      "url": "/media/u131Asset7.webp",
+      "image": null
+    },
+    "u131asset8": {
+      "url": "/media/u131Asset8.webp",
+      "image": null
+    },
+    "u131asset3": {
+      "url": "/media/u131Asset3.webp",
+      "image": null
+    },
+    "u131asset5": {
+      "url": "/media/u131Asset5.webp",
+      "image": null
+    },
+    "u131asset6": {
+      "url": "/media/u131Asset6.webp",
+      "image": null
+    },
+    "u131asset4": {
+      "url": "/media/u131Asset4.webp",
+      "image": null
+    },
+    "u131asset1": {
+      "url": "/media/u131Asset1.webp",
+      "image": null
+    },
+    "u131asset2": {
+      "url": "/media/u131Asset2.webp",
+      "image": null
+    },
+    "inter": {
+      "url": "/media/inter_en.txt",
+      "font": null,
+      "isFont": true
+    },
+    "gt-standard-m-standard-regular": {
+      "url": "/media/GT-Standard-M-Standard-Regular_en.txt",
+      "font": null,
+      "isFont": true
+    },
+    "gt-standard-m-standard-semibold": {
+      "url": "/media/GT-Standard-M-Standard-Semibold_en.txt",
+      "font": null,
+      "isFont": true
+    },
+    "gt-standard-l-standard-heavy": {
+      "url": "/media/GT-Standard-L-Standard-Heavy_en.txt",
+      "font": null,
+      "isFont": true
+    }
+  },
+  "strings": {
+    "u131String1": "What are you  shopping for?",
+    "u131String2": "Tops to pair with linen pants",
+    "u131String3": "Bold sunglasses for vacation ",
+    "u131String4": "Dresses that transition from day to night ",
+    "u131String5": "Comfortable and fashionable shoes for spring trip to Europe.",
+    "u131String6": "For your Spring trip in Europe you’ll want to balance ",
+    "u131String7": "high cushion support ",
+    "u131String8": "and",
+    "u131String9": " polished aesthetic.",
+    "u131String10": "High-support and cushion",
+    "u131String11": "Technical sneakers with fashionable silhouettes ",
+    "u131String12": "Refined Classics",
+    "u131String13": "Tailored cuts that take you from cafe to dinner",
+    "u131String14": "Ask a follow up",
+    "u131String15": "Needs shoes with support  for over pronation",
+    "u131String16": "Likes bright colors and  unique pieces",
+    "u131String17": "Willing to invest in high-end lasting quality",
+    "u131String18": "Chooses brands that are socially conscious ",
+    "u131String19": "Prefers relaxed silhouettes and soft fabrics",
+    "u131String20": "$250.00",
+    "u131String21": "$156.00",
+    "u131String22": "$220.00",
+    "u131String23": "$225.00",
+    "u131String24": "$189.00",
+    "u131String25": "Support for over-pronation",
+    "u131String26": "Vibrant color aligns with your taste",
+    "u131String27": "Sporty silhouette can be dressed up or down",
+    "u131String28": "Cushions your feet on cobblestone streets",
+    "u131String29": "Neutral but funky to pair well with many outfits ",
+    "u131String30": "Hidden mesh panels for breathability ",
+    "u131String31": "Chunky sole while remaining lightweight ",
+    "u131String32": "Suede upper is rugged yet stylish",
+    "u131String33": "Neutral tones that pair with any outfit",
+    "u131String37": "Velcro closure for easy on-and-off",
+    "u131String38": "Limited edtion colorway ",
+    "u131String39": "Crafted with premium materials",
+    "u131String40": "Superior lateral ankle support",
+    "u131String41": "Ethical sourcing & sustainable production",
+    "u131String42": "Ask anything",
+    "u131String43": "Comfortable and fashionable shoes for spring walking around Europe.",
+    "u131String44": "Vesna",
+    "u131String45": "Talus Sneaker",
+    "u131String46": "(85)",
+    "u131String47": "Kare Outfitters",
+    "u131String48": "Patches Sneakers",
+    "u131String49": "(38)",
+    "u131String50": "NLS Supply",
+    "u131String51": "Phantom Puff",
+    "u131String52": "Kalder",
+    "u131String53": "Terrazen Pro",
+    "u131String54": "(32)",
+    "u131String55": "Corrie Shoe",
+    "u131String56": "(44)",
+    "u131String57": "Estorius",
+    "u131String58": "Leather sneaker"
+  },
+  "stateMachines": "State Machine 1",
+  "artboard": "main",
+  "viewModelName": "ViewModel1"
+}

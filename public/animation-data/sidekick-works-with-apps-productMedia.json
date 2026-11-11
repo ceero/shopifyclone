@@ -1,0 +1,207 @@
+{
+  "src": "/media/u64_6_17.riv",
+  "assetsMap": {
+    "u64asset1": {
+      "url": "/media/u64Asset1.webp",
+      "image": null
+    },
+    "u64asset10": {
+      "url": "/media/u64Asset10.webp",
+      "image": null
+    },
+    "u64asset12": {
+      "url": "/media/u64Asset12.webp",
+      "image": null
+    },
+    "u64asset13": {
+      "url": "/media/u64Asset13.webp",
+      "image": null
+    },
+    "u64asset17": {
+      "url": "/media/u64Asset17.webp",
+      "image": null
+    },
+    "u64asset18": {
+      "url": "/media/u64Asset18.webp",
+      "image": null
+    },
+    "u64asset2": {
+      "url": "/media/u64Asset2.webp",
+      "image": null
+    },
+    "u64asset20": {
+      "url": "/media/u64Asset20.webp",
+      "image": null
+    },
+    "u64asset21": {
+      "url": "/media/u64Asset21.webp",
+      "image": null
+    },
+    "u64asset3": {
+      "url": "/media/u64Asset3.webp",
+      "image": null
+    },
+    "u64asset4": {
+      "url": "/media/u64Asset4.webp",
+      "image": null
+    },
+    "u64asset5": {
+      "url": "/media/u64Asset5.webp",
+      "image": null
+    },
+    "u64asset6": {
+      "url": "/media/u64Asset6.webp",
+      "image": null
+    },
+    "u64asset8": {
+      "url": "/media/u64Asset8.webp",
+      "image": null
+    },
+    "u64asset9": {
+      "url": "/media/u64Asset9.webp",
+      "image": null
+    },
+    "u64asset11": {
+      "url": "/media/u64Asset11.webp",
+      "image": null
+    },
+    "u64asset14": {
+      "url": "/media/u64Asset14.webp",
+      "image": null
+    },
+    "u64asset15": {
+      "url": "/media/u64Asset15.webp",
+      "image": null
+    },
+    "u64asset16": {
+      "url": "/media/u64Asset16.webp",
+      "image": null
+    },
+    "u64asset19": {
+      "url": "/media/u64Asset19.webp",
+      "image": null
+    },
+    "u64asset22": {
+      "url": "/media/u64Asset22.webp",
+      "image": null
+    },
+    "u64asset23": {
+      "url": "/media/u64Asset23.webp",
+      "image": null
+    },
+    "u64asset24": {
+      "url": "/media/u64Asset24.webp",
+      "image": null
+    },
+    "u64asset25": {
+      "url": "/media/u64Asset25.webp",
+      "image": null
+    },
+    "u64asset7": {
+      "url": "/media/u64Asset7.webp",
+      "image": null
+    },
+    "inter": {
+      "url": "/media/inter_en.txt",
+      "font": null,
+      "isFont": true
+    }
+  },
+  "strings": {
+    "u64String1": "Judge.me Reviews",
+    "u64String2": "Search",
+    "u64String3": "Home",
+    "u64String4": "Orders",
+    "u64String5": "Products",
+    "u64String6": "Customers",
+    "u64String7": "Growth",
+    "u64String8": "Discounts",
+    "u64String9": "Content",
+    "u64String10": "Markets",
+    "u64String11": "Finances",
+    "u64String12": "Analytics",
+    "u64String13": "Sales channels ",
+    "u64String14": "Online Store",
+    "u64String15": "Agentic",
+    "u64String16": "Point of Sale",
+    "u64String17": "Shop",
+    "u64String18": "Apps",
+    "u64String19": "Messaging",
+    "u64String20": "Settings",
+    "u64String21": "Sidekick conversations",
+    "u64String22": "Reply to my recent 5 star reviews",
+    "u64String23": "Build staff onboarding application",
+    "u64String24": "Best discounts for Summer vacaations",
+    "u64String25": "Sales are rising fast while during weekends",
+    "u64String26": "Live visitors",
+    "u64String27": "Sessions",
+    "u64String28": "Sales",
+    "u64String29": "Conversion",
+    "u64String30": "Your spring sales were strong. ",
+    "u64String31": "Let’s focus on repeat buyers.",
+    "u64String32": "Fulfill orders",
+    "u64String33": "Capture payments",
+    "u64String34": "Payout in 3 day",
+    "u64String35": "Find and reply to my recent 5 star product reviews",
+    "u64String36": "Find and reply to my recent  5 star product reviews",
+    "u64String37": "Updated Judge.me Reviews",
+    "u64String38": "Ask anything...",
+    "u64String39": "Let me pull up your recent 5-star reviews!",
+    "u64String40": "Searched Judge.me Reviews",
+    "u64String41": "Here are your 5 most recent 5-start review, none have replies yet. I’ll draft replies for each one. Let me send them one at a time for you to confirm.",
+    "u64String42": "Your reply has been posted to Kim’s review on the ",
+    "u64String43": "Viviane Tote",
+    "u64String44": "! It’s now live on your storefront.",
+    "u64String45": "Great news! Your reply to Indy's review on the ",
+    "u64String46": "Lunz Shirt",
+    "u64String47": " is published and now live on your storefront.",
+    "u64String48": "We've posted your reply to Sunny's review on the ",
+    "u64String49": "Talus Sneaker–",
+    "u64String50": "it's now showing on your storefront.",
+    "u64String51": "Reply publicly",
+    "u64String52": "Kim E.",
+    "u64String53": " said 5 days ago",
+    "u64String54": "Your reply",
+    "u64String55": "Thank you so much for the love, you and this bag were made for each other!",
+    "u64String56": "Cancel",
+    "u64String57": "Send reply",
+    "u64String58": "Obsessed with this bag!",
+    "u64String59": "The lime green color is SO fun and the pink zippers are the cutest little detail — I take it everywhere!",
+    "u64String60": "Indy J.",
+    "u64String61": " said 6 days ago",
+    "u64String62": "Love hearing this, you've got great taste!",
+    "u64String63": "This shirt is everything!",
+    "u64String64": "The rust orange color is so rich and the gold zip details make it incredibly sharp and I am completely obsessed!",
+    "u64String65": "Sunny L.",
+    "u64String66": "We love seeing you step out in style like this!",
+    "u64String67": "These sneakers are a whole moment",
+    "u64String68": "The chunky lugged sole is not only super grippy and comfortable but the all-over mint colorway makes them the most eye-catching shoe I own!",
+    "u64String69": "Reply to all my recent 5 star product reviews",
+    "u64String70": "Pulse",
+    "u64String71": "Complete the Moraine Cargo Pant\nproduct listing",
+    "u64String72": "Moraine Cargo Pant",
+    "u64String73": " is live with ",
+    "u64String74": "no SEO metadata",
+    "u64String75": ", making it nearly invisible to shoppers and search engines. ",
+    "u64String76": "Update 2L product page",
+    "u64String77": "See how you’re selling in AI channels",
+    "u64String78": "Track sales, sessions, orders, and conversions, and get insights to improve how your products show up, all from the Agentic page in your Admin.",
+    "u64String79": "Agentic Home",
+    "u64String80": "Automate thank you emails for every customer",
+    "u64String81": "Build customer loyalty early by sending a thank you email after your customer makes their first and second order.",
+    "u64String82": "VESNA",
+    "u64String83": "15",
+    "u64String84": "34",
+    "u64String85": "31,900",
+    "u64String86": "-5%",
+    "u64String87": "$38,420",
+    "u64String88": "+5%",
+    "u64String89": "942",
+    "u64String90": "8",
+    "u64String91": "$3,101.18",
+    "u64String92": "Create automation"
+  },
+  "stateMachines": "State Machine 1",
+  "artboard": "main",
+  "viewModelName": "ViewModel1"
+}

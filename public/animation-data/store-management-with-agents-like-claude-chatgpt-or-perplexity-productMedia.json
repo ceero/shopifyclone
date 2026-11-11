@@ -1,0 +1,35 @@
+{
+  "src": "/media/u282_6_16.riv",
+  "assetsMap": {
+    "u282asset1": {
+      "url": "/media/u282Asset1.webp",
+      "image": null
+    },
+    "u282asset2": {
+      "url": "/media/u282Asset2.webp",
+      "image": null
+    },
+    "inter": {
+      "url": "/media/inter_en.txt",
+      "font": null,
+      "isFont": true
+    },
+    "radiocanadabig": {
+      "url": "/media/RadioCanadaBig_en.txt",
+      "font": null,
+      "isFont": true
+    }
+  },
+  "strings": {
+    "u282String1": "@shopify add this product to my store",
+    "u282String2": "KERN BAG",
+    "u282String3": "$298.00",
+    "u282String4": "(42)",
+    "u282String5": "A bold bag made with tactical fabrics and color block paneling. Built to work, impossible to ignore.",
+    "u282String6": "COLOR",
+    "u282String7": "ADD TO CART"
+  },
+  "stateMachines": "default",
+  "artboard": "main",
+  "viewModelName": "ViewModel1"
+}

@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.DS_Store
+.vite/
+screenshots/
+/shopify-spring-2026.zip

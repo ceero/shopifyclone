@@ -1,0 +1,240 @@
+{
+  "src": "/media/u178_autopilot_6_16_v3.riv",
+  "assetsMap": {
+    "u178asset1": {
+      "url": "/media/u178Asset1.webp",
+      "image": null
+    },
+    "u178asset10": {
+      "url": "/media/u178Asset10.webp",
+      "image": null
+    },
+    "u178asset11": {
+      "url": "/media/u178Asset11.webp",
+      "image": null
+    },
+    "u178asset12": {
+      "url": "/media/u178Asset12.webp",
+      "image": null
+    },
+    "u178asset13": {
+      "url": "/media/u178Asset13.webp",
+      "image": null
+    },
+    "u178asset14": {
+      "url": "/media/u178Asset14.webp",
+      "image": null
+    },
+    "u178asset15": {
+      "url": "/media/u178Asset15.webp",
+      "image": null
+    },
+    "u178asset16": {
+      "url": "/media/u178Asset16.webp",
+      "image": null
+    },
+    "u178asset17": {
+      "url": "/media/u178Asset17.webp",
+      "image": null
+    },
+    "u178asset18": {
+      "url": "/media/u178Asset18.webp",
+      "image": null
+    },
+    "u178asset19": {
+      "url": "/media/u178Asset19.webp",
+      "image": null
+    },
+    "u178asset2": {
+      "url": "/media/u178Asset2.webp",
+      "image": null
+    },
+    "u178asset20": {
+      "url": "/media/u178Asset20.webp",
+      "image": null
+    },
+    "u178asset21": {
+      "url": "/media/u178Asset21.webp",
+      "image": null
+    },
+    "u178asset22": {
+      "url": "/media/u178Asset22.webp",
+      "image": null
+    },
+    "u178asset23": {
+      "url": "/media/u178Asset23.webp",
+      "image": null
+    },
+    "u178asset24": {
+      "url": "/media/u178Asset24.webp",
+      "image": null
+    },
+    "u178asset25": {
+      "url": "/media/u178Asset25.webp",
+      "image": null
+    },
+    "u178asset26": {
+      "url": "/media/u178Asset26.webp",
+      "image": null
+    },
+    "u178asset27": {
+      "url": "/media/u178Asset27.webp",
+      "image": null
+    },
+    "u178asset28": {
+      "url": "/media/u178Asset28.webp",
+      "image": null
+    },
+    "u178asset29": {
+      "url": "/media/u178Asset29.webp",
+      "image": null
+    },
+    "u178asset3": {
+      "url": "/media/u178Asset3.webp",
+      "image": null
+    },
+    "u178asset30": {
+      "url": "/media/u178Asset30.webp",
+      "image": null
+    },
+    "u178asset31": {
+      "url": "/media/u178Asset31.webp",
+      "image": null
+    },
+    "u178asset4": {
+      "url": "/media/u178Asset4.webp",
+      "image": null
+    },
+    "u178asset5": {
+      "url": "/media/u178Asset5.webp",
+      "image": null
+    },
+    "u178asset6": {
+      "url": "/media/u178Asset6.webp",
+      "image": null
+    },
+    "u178asset7": {
+      "url": "/media/u178Asset7.webp",
+      "image": null
+    },
+    "u178asset8": {
+      "url": "/media/u178Asset8.webp",
+      "image": null
+    },
+    "u178asset9": {
+      "url": "/media/u178Asset9.webp",
+      "image": null
+    },
+    "inter": {
+      "url": "/media/inter_en.txt",
+      "font": null,
+      "isFont": true
+    },
+    "radiocanadabig": {
+      "url": "/media/RadioCanadaBig_en.txt",
+      "font": null,
+      "isFont": true
+    }
+  },
+  "strings": {
+    "u178String1": "Autopilot setup",
+    "u178String2": "Channels",
+    "u178String3": "Meta Ads",
+    "u178String4": "Messaging",
+    "u178String5": "Budget",
+    "u178String6": "Edit",
+    "u178String7": "Set permissions",
+    "u178String8": "Guardrails",
+    "u178String9": "Target return on ad spend:",
+    "u178String10": "2.5x",
+    "u178String11": "Target region:",
+    "u178String12": "Canada",
+    "u178String13": "Paid marketing campaigns:",
+    "u178String14": "Ask",
+    "u178String15": "Automated email campaigns:",
+    "u178String16": "Add channels to get started",
+    "u178String17": "Continue",
+    "u178String18": "Ad",
+    "u178String19": "Finally, an outfit worth staring at.",
+    "u178String20": "Shopvesna.com",
+    "u178String21": "Spring's boldest looks are here. Shop new arrivals in color-forward styles you won't find anywhere else.",
+    "u178String22": "Bing Display Campaign",
+    "u178String23": "Coming soon",
+    "u178String24": "VESNA",
+    "u178String25": "Sponsored",
+    "u178String26": "Here are a light layers that would be great for the weather on your trip.",
+    "u178String27": "Floe Jacket",
+    "u178String28": "$198",
+    "u178String29": "2 day delivery",
+    "u178String30": "Eddy",
+    "u178String31": "$268",
+    "u178String32": "ChatGPT Ads Growth Campaign",
+    "u178String33": "Shop now",
+    "u178String34": "Autopilot Advantage + Growth",
+    "u178String35": "STILL THINKING ABOUT IT? SAME.",
+    "u178String36": "CAREZZA SCARF",
+    "u178String37": "$68",
+    "u178String38": "MAKE IT YOURS",
+    "u178String39": "Abandoned cart email automation",
+    "u178String40": "Subject",
+    "u178String41": "Pick up where you left off",
+    "u178String42": "Preview",
+    "u178String43": "See something you liked?",
+    "u178String44": "Vesna",
+    "u178String45": "Bold color, zero apologies.",
+    "u178String46": "Snapchat Campaign",
+    "u178String47": "Summary",
+    "u178String48": "Early results are promising with ",
+    "u178String49": "210 new customers",
+    "u178String50": " and ",
+    "u178String51": "$14,280 in sales.",
+    "u178String52": "Increasing your budget to $1900/month could help reach more potential customers.",
+    "u178String53": "Revenue this month",
+    "u178String54": "$14,280",
+    "u178String55": "16%",
+    "u178String56": "$750",
+    "u178String57": "spent",
+    "u178String58": "$750.00 remaining",
+    "u178String59": "Resets on July 1, 2026",
+    "u178String60": "Google Ads",
+    "u178String61": "Shop Campaigns",
+    "u178String62": "Earn 20% Shop Cash back",
+    "u178String63": "Shop Campaign - Autopilot Growth",
+    "u178String64": "Search",
+    "u178String65": "Home",
+    "u178String66": "Orders",
+    "u178String67": "15",
+    "u178String68": "Products",
+    "u178String69": "Customers",
+    "u178String70": "Attribution",
+    "u178String71": "Autopilot",
+    "u178String72": "Campaigns",
+    "u178String73": "Discounts",
+    "u178String74": "Content",
+    "u178String75": "Markets",
+    "u178String76": "Finances",
+    "u178String77": "Analytics",
+    "u178String78": "Sales channels ",
+    "u178String79": "Online Store",
+    "u178String80": "Agentic",
+    "u178String81": "Point of Sale",
+    "u178String82": "Shop",
+    "u178String83": "Apps",
+    "u178String84": "Settings",
+    "u178String85": "$",
+    "u178String86": "250",
+    "u178String87": "/month",
+    "u178String88": "Budget\n",
+    "u178String89": "Add channels to get started",
+    "u178String90": "Analyzing your sales...",
+    "u178String91": "Calibrating your budget...",
+    "u178String92": "Scouting markets...",
+    "u178String93": "Autopilot can be updated at any time",
+    "u178String94": "Connecting your channels...",
+    "u178String95": "Sizing up your catalog...",
+    "u178String96": "Autopilot ready"
+  },
+  "stateMachines": "State Machine 1",
+  "artboard": "main",
+  "viewModelName": "ViewModel1"
+}

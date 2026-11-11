@@ -1,0 +1,40 @@
+{
+  "src": "/media/u223_6_16.riv",
+  "assetsMap": {
+    "u223asset1": {
+      "url": "/media/u223Asset1.webp",
+      "image": null
+    },
+    "u223asset2": {
+      "url": "/media/u223Asset2.webp",
+      "image": null
+    },
+    "inter": {
+      "url": "/media/inter_en.txt",
+      "font": null,
+      "isFont": true
+    },
+    "radiocanadabig": {
+      "url": "/media/RadioCanadaBig_en.txt",
+      "font": null,
+      "isFont": true
+    }
+  },
+  "strings": {
+    "u223String1": "Announcement bar",
+    "u223String2": "15% OFF ACCESSORIES — SHOP NOW",
+    "u223String3": "Add a 15% off accessories promo banner",
+    "u223String4": "Announcement bar",
+    "u223String5": "Appearance",
+    "u223String6": "Padding",
+    "u223String7": "Custom CSS",
+    "u223String8": "Appearance",
+    "u223String9": "Home page",
+    "u223String10": "BLOOM INTO SPRING",
+    "u223String11": "Shop Spring",
+    "u223String12": "Announcement bar"
+  },
+  "stateMachines": "default",
+  "artboard": "main",
+  "viewModelName": "ViewModel1"
+}

@@ -1,0 +1,76 @@
+{
+  "src": "/media/u14.riv",
+  "assetsMap": {
+    "u14asset1": {
+      "url": "/media/u14Asset1.webp",
+      "image": null
+    },
+    "u14asset2": {
+      "url": "/media/u14Asset2.webp",
+      "image": null
+    },
+    "u14asset3": {
+      "url": "/media/u14Asset3.webp",
+      "image": null
+    },
+    "u14asset4": {
+      "url": "/media/u14Asset4.webp",
+      "image": null
+    },
+    "u14asset5": {
+      "url": "/media/u14Asset5.webp",
+      "image": null
+    },
+    "inter": {
+      "url": "/media/inter_en.txt",
+      "font": null,
+      "isFont": true
+    },
+    "gintocopilotuprightvariable": {
+      "url": "/media/GintoCopilotUprightVariable_en.txt",
+      "font": null,
+      "isFont": true
+    }
+  },
+  "strings": {
+    "u14String1": "Here is a functional tote in a bold color, perfect for a trip to Europe.",
+    "u14String2": "Viviane Tote",
+    "u14String3": "4.7 (138)",
+    "u14String4": "Vesna",
+    "u14String5": "$246.00",
+    "u14String6": "Details",
+    "u14String7": "Buy",
+    "u14String8": "Pay Vesna",
+    "u14String9": "Order confirmed",
+    "u14String10": "Your order with Vesna has been successfully placed. You'll receive a confirmation email shortly.",
+    "u14String11": "View order details",
+    "u14String12": "Express checkout",
+    "u14String13": "OR",
+    "u14String14": "Jordan Chen",
+    "u14String15": "789 Pinecrest Ave, Tacoma, WA 98402",
+    "u14String16": "Standard shipping · FREE",
+    "u14String17": "Arrives by Fri June 19",
+    "u14String18": "Visa ···· 8984",
+    "u14String19": "One size",
+    "u14String20": "Subtotal",
+    "u14String21": "· 1 item",
+    "u14String22": "123123123",
+    "u14String23": "Shipping",
+    "u14String24": "Free",
+    "u14String25": "Order Total",
+    "u14String26": "Estimated taxes",
+    "u14String27": "$23.40",
+    "u14String28": "$269.40",
+    "u14String29": "Your purchase is subject to ",
+    "u14String30": "Copilot Terms",
+    "u14String31": " and ",
+    "u14String32": "Privacy Policy.",
+    "u14String33": " and complete your purchase.",
+    "u14String34": " You are authorizing Copilot to share your order and payment details with ",
+    "u14String35": "Vesna to process payment",
+    "u14String36": "10:04"
+  },
+  "stateMachines": "default",
+  "artboard": "main",
+  "viewModelName": "Main"
+}

@@ -1,0 +1,82 @@
+{
+  "src": "/media/u41_inbox_6_17.riv",
+  "assetsMap": {
+    "u41asset1": {
+      "url": "/media/u41Asset1.webp",
+      "image": null
+    },
+    "u41asset2": {
+      "url": "/media/u41Asset2.webp",
+      "image": null
+    },
+    "u41asset3": {
+      "url": "/media/u41Asset3.webp",
+      "image": null
+    },
+    "u41asset4": {
+      "url": "/media/u41Asset4.webp",
+      "image": null
+    },
+    "u41asset5": {
+      "url": "/media/u41Asset5.webp",
+      "image": null
+    },
+    "u41asset6": {
+      "url": "/media/u41Asset6.webp",
+      "image": null
+    },
+    "inter": {
+      "url": "/media/inter_en.txt",
+      "font": null,
+      "isFont": true
+    },
+    "radiocanadabig": {
+      "url": "/media/RadioCanadaBig_en.txt",
+      "font": null,
+      "isFont": true
+    }
+  },
+  "strings": {
+    "u41String1": "Ask anything...",
+    "u41String2": "Ask anything",
+    "u41String3": "Perfect, add it to my cart.",
+    "u41String4": "MEN",
+    "u41String5": "WOMEN",
+    "u41String6": "SPRING IS HERE.",
+    "u41String7": "DRESS ACCORDINGLY.",
+    "u41String8": "COLOR",
+    "u41String9": "ADD TO CART",
+    "u41String10": "VIVIANE TOTE",
+    "u41String11": "Lightweight ripstop nylon that goes everywhere and takes nothing seriously, except organization. Front zip pocket for the essentials, knotted rope cinch sides to keep it all in place, and contrast pink hardware because why not.",
+    "u41String12": "Where is my order?",
+    "u41String13": "Show me shirts to match my linen shorts",
+    "u41String14": "Hi Brianna,",
+    "u41String15": "You can ask questions about shopping, sizing, shipping, returns, or order status.",
+    "u41String16": "Powered by Shopify AI. Your activity is used to personalize this chat, which  is visible to this store. See their Privacy Policy.",
+    "u41String17": "HALDOR JACKET",
+    "u41String18": "TORRES SHORT",
+    "u41String19": "TALUS SNEAKER",
+    "u41String20": "KIBO OVERSIZED TEE",
+    "u41String21": "Spanish travel outfits for Brianna",
+    "u41String22": "Since you're going to Spain, I pulled together lightweight pieces that are comfortable and designed for any kind of weather.",
+    "u41String23": "What's the material of the tote?",
+    "u41String24": "The Viviane tote is a lightweight ripstop nylon with woven webbing handles and knotted rope detailing\n\nLet me know if you'd like more details on dimensions, interior compartments, or care instructions!",
+    "u41String25": "Ok, I've added the Viviane Tote to your cart.   Looking for anything else for your trip?",
+    "u41String26": "Added",
+    "u41String27": "View cart",
+    "u41String28": "Lime / 25L",
+    "u41String29": "$246",
+    "u41String30": "$246.00",
+    "u41String31": "$220.00",
+    "u41String32": "$198.00",
+    "u41String33": "$250.00",
+    "u41String34": "$98.00",
+    "u41String35": "Curate an outfit for a trip to Spain",
+    "u41String36": "What material is the tote made of?",
+    "u41String37": "Curate an outfit for a trip to Spain",
+    "u41String38": "What material is the tote made of?"
+  },
+  "stateMachines": "State Machine 1",
+  "artboard": "main",
+  "viewModelName": "ViewModel1"
+}

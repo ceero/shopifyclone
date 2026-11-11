@@ -1,0 +1,41 @@
+{
+  "src": "/media/u316_6_15.riv",
+  "assetsMap": {
+    "u316asset1": {
+      "url": "/media/u316Asset1.webp",
+      "image": null
+    },
+    "inter": {
+      "url": "/media/inter_en.txt",
+      "font": null,
+      "isFont": true
+    }
+  },
+  "strings": {
+    "u316String1": "Ask anything...",
+    "u316String2": "Create a social image featuring some of my products.",
+    "u316String3": "Social image creation",
+    "u316String4": "Which products would you like to feature?",
+    "u316String5": "1",
+    "u316String6": "Top-selling products",
+    "u316String7": "2",
+    "u316String8": "Newest products",
+    "u316String9": "3",
+    "u316String10": "Most expensive products",
+    "u316String11": "4",
+    "u316String12": "Other",
+    "u316String13": "Dismiss",
+    "u316String14": "Submit",
+    "u316String15": "Completed",
+    "u316String16": "Done. I ",
+    "u316String17": "created a social image ",
+    "u316String18": "featuring your newest products:",
+    "u316String19": "Senja Mesh Jacket",
+    "u316String20": "Saroma Cargo Pant",
+    "u316String21": "Ledge Rain Boot",
+    "u316String22": "•"
+  },
+  "stateMachines": "default",
+  "artboard": "main",
+  "viewModelName": "ViewModel1"
+}

@@ -1,0 +1,13 @@
+{
+  "src": "/media/u93.riv",
+  "assetsMap": {
+    "inter": {
+      "url": "/media/Inter.txt",
+      "font": null,
+      "isFont": true
+    }
+  },
+  "stateMachines": "State Machine 1",
+  "artboard": "main",
+  "viewModelName": "MainVM"
+}

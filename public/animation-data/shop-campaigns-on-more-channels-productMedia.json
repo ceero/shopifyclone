@@ -1,0 +1,52 @@
+{
+  "src": "/media/u182_6_16.riv",
+  "assetsMap": {
+    "u182asset1": {
+      "url": "/media/u182Asset1.webp",
+      "image": null
+    },
+    "u182asset2": {
+      "url": "/media/u182Asset2.webp",
+      "image": null
+    },
+    "u182asset3": {
+      "url": "/media/u182Asset3.webp",
+      "image": null
+    },
+    "u182asset4": {
+      "url": "/media/u182Asset4.webp",
+      "image": null
+    },
+    "u182asset5": {
+      "url": "/media/u182Asset5.webp",
+      "image": null
+    },
+    "u182asset6": {
+      "url": "/media/u182Asset6.webp",
+      "image": null
+    },
+    "inter": {
+      "url": "/media/inter_en.txt",
+      "font": null,
+      "isFont": true
+    }
+  },
+  "strings": {
+    "u182String1": "Sponsored",
+    "u182String2": "Here are some really solid high quality and stylish utility duffle bags. ",
+    "u182String3": "VESNA Heron Duffel · $320",
+    "u182String4": "Free shipping over $100",
+    "u182String5": "VESNA Duffle 241 · $268",
+    "u182String6": "Visit site",
+    "u182String7": "Bags for Spring travel",
+    "u182String8": "VESNA",
+    "u182String9": "HERON DUFFLE",
+    "u182String10": "$268.00",
+    "u182String11": "Shop",
+    "u182String12": "Heron Duffel",
+    "u182String13": "$320.00"
+  },
+  "stateMachines": "default",
+  "artboard": "main",
+  "viewModelName": "ViewModel1"
+}

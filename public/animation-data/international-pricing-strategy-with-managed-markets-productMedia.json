@@ -1,0 +1,12 @@
+{
+  "src": "/media/u146_6_6.riv",
+  "assetsMap": {
+    "u146asset2": {
+      "url": "/media/u146asset2.webp",
+      "image": null
+    }
+  },
+  "stateMachines": "State Machine 1",
+  "artboard": "main",
+  "viewModelName": "ViewModel1"
+}

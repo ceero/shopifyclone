@@ -1,0 +1,61 @@
+{
+  "src": "/media/u285_6_12.riv",
+  "assetsMap": {
+    "u285asset1": {
+      "url": "/media/u285Asset1.webp",
+      "image": null
+    },
+    "u285asset2": {
+      "url": "/media/u285Asset2.webp",
+      "image": null
+    },
+    "u285asset3": {
+      "url": "/media/u285Asset3.webp",
+      "image": null
+    },
+    "u285asset4": {
+      "url": "/media/u285Asset4.webp",
+      "image": null
+    },
+    "u285asset5": {
+      "url": "/media/u285Asset5.webp",
+      "image": null
+    },
+    "u285asset6": {
+      "url": "/media/u285Asset6.webp",
+      "image": null
+    },
+    "u285asset7": {
+      "url": "/media/u285Asset7.webp",
+      "image": null
+    },
+    "inter": {
+      "url": "/media/inter_en.txt",
+      "font": null,
+      "isFont": true
+    },
+    "gt-standard-l-standard-heavy": {
+      "url": "/media/GT-Standard-L-Standard-Heavy_en.txt",
+      "font": null,
+      "isFont": true
+    },
+    "jetbrainsmono": {
+      "url": "/media/JetBrainsMono_en.txt",
+      "font": null,
+      "isFont": true
+    }
+  },
+  "strings": {
+    "u285String1": "Size: 7",
+    "u285String2": "Past purchase",
+    "u285String3": "Sign in with",
+    "u285String4": "Signing you in...",
+    "u285String5": "Stella Bandoc",
+    "u285String6": "bandoc.stella@email.com",
+    "u285String7": "Stella Bandoc",
+    "u285String8": "bandoc.stella@email.com"
+  },
+  "stateMachines": "default",
+  "artboard": "main",
+  "viewModelName": "MainVM"
+}

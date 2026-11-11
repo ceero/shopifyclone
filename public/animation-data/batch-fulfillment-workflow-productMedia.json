@@ -1,0 +1,196 @@
+{
+  "src": "/media/u293_6_16.riv",
+  "assetsMap": {
+    "u293asset1": {
+      "url": "/media/u293Asset1.webp",
+      "image": null
+    },
+    "u293asset10": {
+      "url": "/media/u293Asset10.webp",
+      "image": null
+    },
+    "u293asset11": {
+      "url": "/media/u293Asset11.webp",
+      "image": null
+    },
+    "u293asset12": {
+      "url": "/media/u293Asset12.webp",
+      "image": null
+    },
+    "u293asset13": {
+      "url": "/media/u293Asset13.webp",
+      "image": null
+    },
+    "u293asset14": {
+      "url": "/media/u293Asset14.webp",
+      "image": null
+    },
+    "u293asset15": {
+      "url": "/media/u293Asset15.webp",
+      "image": null
+    },
+    "u293asset16": {
+      "url": "/media/u293Asset16.webp",
+      "image": null
+    },
+    "u293asset17": {
+      "url": "/media/u293Asset17.webp",
+      "image": null
+    },
+    "u293asset18": {
+      "url": "/media/u293Asset18.webp",
+      "image": null
+    },
+    "u293asset19": {
+      "url": "/media/u293Asset19.webp",
+      "image": null
+    },
+    "u293asset2": {
+      "url": "/media/u293Asset2.webp",
+      "image": null
+    },
+    "u293asset20": {
+      "url": "/media/u293Asset20.webp",
+      "image": null
+    },
+    "u293asset21": {
+      "url": "/media/u293Asset21.webp",
+      "image": null
+    },
+    "u293asset22": {
+      "url": "/media/u293Asset22.webp",
+      "image": null
+    },
+    "u293asset3": {
+      "url": "/media/u293Asset3.webp",
+      "image": null
+    },
+    "u293asset4": {
+      "url": "/media/u293Asset4.webp",
+      "image": null
+    },
+    "u293asset5": {
+      "url": "/media/u293Asset5.webp",
+      "image": null
+    },
+    "u293asset6": {
+      "url": "/media/u293Asset6.webp",
+      "image": null
+    },
+    "u293asset7": {
+      "url": "/media/u293Asset7.webp",
+      "image": null
+    },
+    "u293asset8": {
+      "url": "/media/u293Asset8.webp",
+      "image": null
+    },
+    "u293asset9": {
+      "url": "/media/u293Asset9.webp",
+      "image": null
+    },
+    "inter": {
+      "url": "/media/inter_en.txt",
+      "font": null,
+      "isFont": true
+    }
+  },
+  "strings": {
+    "u293String1": "Today's Orders",
+    "u293String2": "Today at 1:45 p.m. • Last update today at 1:48 p.m.",
+    "u293String3": "More actions",
+    "u293String4": "Close batch\n",
+    "u293String5": "Orders",
+    "u293String6": "Create order",
+    "u293String7": "Pick",
+    "u293String8": "Pack & Ship",
+    "u293String9": "Done",
+    "u293String10": "Scan to verify",
+    "u293String11": "Move all to Pack & Ship",
+    "u293String12": "Create documents",
+    "u293String13": "Move all to done",
+    "u293String14": "Close batch",
+    "u293String15": "Close",
+    "u293String16": "Orders verified:",
+    "u293String17": " 1 of 6",
+    "u293String18": "Product",
+    "u293String19": "Location",
+    "u293String20": "Quantity",
+    "u293String21": "Magenta",
+    "u293String22": "Green / 8.5",
+    "u293String23": "Magenta / S",
+    "u293String24": "Verified",
+    "u293String25": "Order",
+    "u293String26": "SKU",
+    "u293String27": "Barcode",
+    "u293String28": "Customer",
+    "u293String29": "Fulfillment status",
+    "u293String30": "Items",
+    "u293String31": "Delivery method",
+    "u293String32": "Total",
+    "u293String33": "Unfulfilled",
+    "u293String34": "Fulfilled",
+    "u293String35": "6 items",
+    "u293String36": "Express",
+    "u293String37": "1 item",
+    "u293String38": "Standard",
+    "u293String39": "4 items",
+    "u293String40": "3 items",
+    "u293String41": "2 items",
+    "u293String42": "Marissa G",
+    "u293String43": "#2090 ",
+    "u293String44": "• Marissa G",
+    "u293String45": "Sylvia Quilted Tote",
+    "u293String46": "SQT-M",
+    "u293String47": "Bin 1",
+    "u293String48": "1",
+    "u293String49": "of 1",
+    "u293String50": "Talus Sneaker",
+    "u293String51": "TSNEAK-G-8.5",
+    "u293String52": "Bin 2",
+    "u293String53": "Haldor Cropped Jacket",
+    "u293String54": "HCJ-M-S",
+    "u293String55": "Bin 6",
+    "u293String56": "Estany Sunglasses",
+    "u293String57": "EYSUNGLS",
+    "u293String58": "Bin 8",
+    "u293String59": "#2090",
+    "u293String60": "265461388",
+    "u293String61": "Talus Sneaker ",
+    "u293String62": "153597452",
+    "u293String63": "157857935",
+    "u293String64": "587458962",
+    "u293String65": "Yara Haddad",
+    "u293String66": "$545.00",
+    "u293String67": "#2093",
+    "u293String68": "Mateo Rivera",
+    "u293String69": "$128.50",
+    "u293String70": "#2095",
+    "u293String71": "Anya Petrov",
+    "u293String72": "$478.20",
+    "u293String73": "#2097",
+    "u293String74": "Kwame Boateng",
+    "u293String75": "$356.75",
+    "u293String76": "#2099",
+    "u293String77": "Lina Bergström",
+    "u293String78": "$112.00",
+    "u293String79": "#2101",
+    "u293String80": "Caleb Foster",
+    "u293String81": "$232.99",
+    "u293String82": "#2102",
+    "u293String83": "Saoirse O'Brien",
+    "u293String84": "$364.50",
+    "u293String85": "#2104",
+    "u293String86": "Hiro Nakamura",
+    "u293String87": "$99.00",
+    "u293String88": "#2106",
+    "u293String89": "Beatriz Costa",
+    "u293String90": "$492.85",
+    "u293String91": "#2108",
+    "u293String92": "Jaxon Whitehorse",
+    "u293String93": "$268.40"
+  },
+  "stateMachines": "State Machine 1",
+  "artboard": "main",
+  "viewModelName": "ViewModel1"
+}

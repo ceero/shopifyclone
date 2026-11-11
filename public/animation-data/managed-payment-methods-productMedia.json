@@ -1,0 +1,20 @@
+{
+  "src": "/media/u190.riv",
+  "assetsMap": {
+    "inter": {
+      "url": "/media/inter_en.txt",
+      "font": null,
+      "isFont": true
+    }
+  },
+  "strings": {
+    "u190String1": "iDEAL",
+    "u190String2": "P24",
+    "u190String3": "Bancontact",
+    "u190String4": "Credit card",
+    "u190String5": "Apple Pay"
+  },
+  "stateMachines": "default",
+  "artboard": "main",
+  "viewModelName": "ViewModel1"
+}

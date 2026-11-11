@@ -1,0 +1,76 @@
+{
+  "src": "/media/u304.riv",
+  "assetsMap": {
+    "u304asset1": {
+      "url": "/media/u304Asset1.webp",
+      "image": null
+    },
+    "u304asset2": {
+      "url": "/media/u304Asset2.webp",
+      "image": null
+    },
+    "u304asset3": {
+      "url": "/media/u304Asset3.webp",
+      "image": null
+    },
+    "u304asset4": {
+      "url": "/media/u304Asset4.webp",
+      "image": null
+    },
+    "u304asset5": {
+      "url": "/media/u304Asset5.webp",
+      "image": null
+    },
+    "u304asset6": {
+      "url": "/media/u304Asset6.webp",
+      "image": null
+    },
+    "u304asset7": {
+      "url": "/media/u304Asset7.webp",
+      "image": null
+    },
+    "inter": {
+      "url": "/media/inter_en.txt",
+      "font": null,
+      "isFont": true
+    }
+  },
+  "strings": {
+    "u304String1": "Vesna",
+    "u304String2": "jordan.chen@email.com",
+    "u304String3": "Pick up and ship",
+    "u304String4": "Pickup",
+    "u304String5": "Closest location with your items",
+    "u304String6": "Canada",
+    "u304String7": "TOR UTILITY HAT",
+    "u304String8": "Mustard ",
+    "u304String9": "Pick up",
+    "u304String10": "HALDOR JACKET",
+    "u304String11": "Magenta",
+    "u304String12": "Location",
+    "u304String13": "Vesna Flagship Shop",
+    "u304String14": "Free",
+    "u304String15": "5 River Rd, Ottawa, ON, K1N 1Z9",
+    "u304String16": "Ready in 24 hours",
+    "u304String17": "Ship to address",
+    "u304String18": "SLYVA QUILTED TOTE",
+    "u304String19": "Spearmint",
+    "u304String20": "Ship to",
+    "u304String21": "Jordan Chen",
+    "u304String22": "151 O'Connor St, Ottawa, ON, \n",
+    "u304String23": "K2P 2L8, Canada",
+    "u304String24": "Shipping",
+    "u304String25": "FedEx Ground",
+    "u304String26": "$10.00",
+    "u304String27": "1-2 weeks",
+    "u304String28": "Payment",
+    "u304String29": "Visa ···· 4242",
+    "u304String30": "Email me with news and offers",
+    "u304String31": "Ship",
+    "u304String32": "·",
+    "u304String33": "Pay now"
+  },
+  "stateMachines": "default",
+  "artboard": "main",
+  "viewModelName": "ViewModel1"
+}

@@ -1,0 +1,90 @@
+{
+  "src": "/media/u267_6_17_v2.riv",
+  "assetsMap": {
+    "u267asset1": {
+      "url": "/media/u267Asset1.webp",
+      "image": null
+    },
+    "u267asset2": {
+      "url": "/media/u267Asset2.webp",
+      "image": null
+    },
+    "u267asset3": {
+      "url": "/media/u267Asset3.webp",
+      "image": null
+    },
+    "u267asset4": {
+      "url": "/media/u267Asset4.webp",
+      "image": null
+    },
+    "u267asset5": {
+      "url": "/media/u267Asset5.webp",
+      "image": null
+    },
+    "u267asset6": {
+      "url": "/media/u267Asset6.webp",
+      "image": null
+    },
+    "u267asset7": {
+      "url": "/media/u267Asset7.webp",
+      "image": null
+    },
+    "inter": {
+      "url": "/media/inter_en.txt",
+      "font": null,
+      "isFont": true
+    }
+  },
+  "strings": {
+    "u267String1": "VESNA",
+    "u267String2": "Vesna",
+    "u267String3": "Ad",
+    "u267String4": "Bank transfer",
+    "u267String5": "Meta Ads",
+    "u267String6": "Google Ads",
+    "u267String7": "1% cashback",
+    "u267String8": "Sponsored",
+    "u267String9": "Carezza scarf",
+    "u267String10": "Revon shirt",
+    "u267String11": "Senja mesh jacket",
+    "u267String12": "Heron travel duffel",
+    "u267String13": "Cashback earned",
+    "u267String14": "Cashback credit: 2026",
+    "u267String15": "Marketing spend",
+    "u267String16": "Meta",
+    "u267String17": "Google",
+    "u267String18": "Total cashback",
+    "u267String19": "-$12,000.00",
+    "u267String20": "+$120.00",
+    "u267String21": "-$10,000.00",
+    "u267String22": "+$100.00",
+    "u267String23": "-$13,500.00",
+    "u267String24": "+$135.00",
+    "u267String25": "-$2,500.00",
+    "u267String26": "+$25.00",
+    "u267String27": "-$12,500.00",
+    "u267String28": "+$125.00",
+    "u267String29": "-$1,500.00",
+    "u267String30": "+$15.00",
+    "u267String31": "$120.00",
+    "u267String32": "$100.00",
+    "u267String33": "$15.00",
+    "u267String34": "$135.00",
+    "u267String35": "$25.00",
+    "u267String36": "$125.00",
+    "u267String37": "$",
+    "u267String38": ".00",
+    "u267String39": "0",
+    "u267String40": "5",
+    "u267String41": "2",
+    "u267String42": "9",
+    "u267String43": "7",
+    "u267String44": "3",
+    "u267String45": "1",
+    "u267String46": "520",
+    "u267String47": "Shop now"
+  },
+  "stateMachines": "State Machine 1",
+  "artboard": "main",
+  "viewModelName": "ViewModel1"
+}

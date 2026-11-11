@@ -1,0 +1,16 @@
+{
+  "src": "/media/u205.riv",
+  "assetsMap": {
+    "u205asset1": {
+      "url": "/media/u205Asset1.webp",
+      "image": null
+    },
+    "u205asset2": {
+      "url": "/media/u205Asset2.webp",
+      "image": null
+    }
+  },
+  "stateMachines": "default",
+  "artboard": "main",
+  "viewModelName": "ViewModel1"
+}

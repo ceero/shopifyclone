@@ -1,0 +1,93 @@
+{
+  "src": "/media/u132_6_16.riv",
+  "assetsMap": {
+    "u132asset1": {
+      "url": "/media/u132Asset1.webp",
+      "image": null
+    },
+    "u132asset2": {
+      "url": "/media/u132Asset2.webp",
+      "image": null
+    },
+    "u132asset3": {
+      "url": "/media/u132Asset3.webp",
+      "image": null
+    },
+    "u132asset4": {
+      "url": "/media/u132Asset4.webp",
+      "image": null
+    },
+    "u132asset5": {
+      "url": "/media/u132Asset5.webp",
+      "image": null
+    },
+    "u132asset6": {
+      "url": "/media/u132Asset6.webp",
+      "image": null
+    },
+    "u132asset7": {
+      "url": "/media/u132Asset7.webp",
+      "image": null
+    },
+    "u132asset8": {
+      "url": "/media/u132Asset8.webp",
+      "image": null
+    },
+    "u132asset9": {
+      "url": "/media/u132Asset9.webp",
+      "image": null
+    },
+    "inter": {
+      "url": "/media/inter_en.txt",
+      "font": null,
+      "isFont": true
+    },
+    "gt-standard-m-standard-semibold": {
+      "url": "/media/GT-Standard-M-Standard-Semibold_en.txt",
+      "font": null,
+      "isFont": true
+    },
+    "gt-standard-m-standard-regular": {
+      "url": "/media/GT-Standard-M-Standard-Regular_en.txt",
+      "font": null,
+      "isFont": true
+    },
+    "gt-standard-m-standard-bold": {
+      "url": "/media/GT-Standard-M-Standard-Bold_en.txt",
+      "font": null,
+      "isFont": true
+    }
+  },
+  "strings": {
+    "u132String1": "Corrie Shoe",
+    "u132String2": "Step into sunshine with this platform sneaker with effortless comfort and streetwear edge.",
+    "u132String3": "New arrivals\n",
+    "u132String4": "CORRIE SHOE",
+    "u132String5": "$225.00",
+    "u132String6": "BRUME CREW",
+    "u132String7": "$198.00",
+    "u132String8": "ARETE JACKET",
+    "u132String9": "$180.00",
+    "u132String10": "CORRIE SHOE",
+    "u132String11": "$225.00",
+    "u132String12": "Corrie shoe",
+    "u132String13": "Step into sunshine with this platform sneaker \n",
+    "u132String14": "with effortless comfort and streetwear edge.",
+    "u132String15": "Ratings and reviews",
+    "u132String16": "288 ratings",
+    "u132String17": "I love these! ",
+    "u132String18": "David · 10 days ago",
+    "u132String19": "My favorite trail shoes!",
+    "u132String20": "Garette",
+    "u132String21": "View all",
+    "u132String22": "Follow",
+    "u132String23": "VESNA makes technical clothing for people who move between worlds. Technical fabrics. Bold palettes. Clothing that works as hard as it looks.",
+    "u132String24": "Media\n",
+    "u132String25": "Collections\n",
+    "u132String26": "Slideshow",
+    "u132String27": "(38)"
+  },
+  "stateMachines": "State Machine 1",
+  "artboard": "main",
+  "viewModelName": "ViewModel1"
+}

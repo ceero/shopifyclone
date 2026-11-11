@@ -1,0 +1,24 @@
+{
+  "src": "/media/u328_6_15_v4.riv",
+  "assetsMap": {
+    "u328asset1": {
+      "url": "/media/u328Asset1.webp",
+      "image": null
+    },
+    "u328asset2": {
+      "url": "/media/u328Asset2.webp",
+      "image": null
+    },
+    "u328asset3": {
+      "url": "/media/u328Asset3.webp",
+      "image": null
+    },
+    "u328asset4": {
+      "url": "/media/u328Asset4.webp",
+      "image": null
+    }
+  },
+  "stateMachines": "State Machine 1",
+  "artboard": "main",
+  "viewModelName": "ViewModel1"
+}
