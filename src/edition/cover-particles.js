@@ -119,6 +119,9 @@ function createGpuRenderer(canvas, photo) {
     const points = pass(pointVertex, pointFragment, pointSamples(desktopLimit), 'aSample', ['uPhoto','uCrop','uFluid','uTime','uPointSize']);
     texture(gl.TEXTURE0);
     gl.texImage2D(gl.TEXTURE_2D, 0, gl.RGBA, gl.RGBA, gl.UNSIGNED_BYTE, photo);
+    // WebGL upload errors do not throw. Check once at initialization so an
+    // invalid texture cannot replace the photograph with an opaque black frame.
+    if (gl.getError() !== gl.NO_ERROR || gl.isContextLost()) { dispose(); return null; }
     texture(gl.TEXTURE1);
     let gridWidth = 0, gridHeight = 0;
     function bind(pass, size, crop) {
@@ -216,6 +219,7 @@ export function createCoverParticles(host, photo, refresh) {
   return {
     reset, clearPointer() { previousPointer = null; },
     render({width, height, frame, gaze, time, now, dt, speed, scrollDelta, pointer, moving}) {
+      if (!photo.complete || !photo.naturalWidth) return null;
       if (!attempted) {
         attempted = true;
         canvas = document.createElement('canvas');

@@ -3,6 +3,7 @@ import cover from '../data/mountain-cover.json';
 import { n as loading, t as assets } from '../vendor/spring26/useAssetLoadingStore-BjdwlLYn.js';
 import { Hero } from '../vendor/spring26/presentation.js';
 import { mountCover } from './cover-orbit.js';
+import { watchCoverPhoto } from './cover-photo.js';
 import { OpeningChapterPicture } from './OpeningChapterPicture.jsx';
 import './mountain-cover.css';
 
@@ -14,17 +15,17 @@ function MountainCover({ paused, firstChapter }) {
   useEffect(() => {
     // The photograph is the hero's critical asset on every graphics tier.
     const img = photo.current;
-    const ready = () => assets.getState().markAssetLoaded('hero', cover.image);
     assets.getState().declareExpectedAssets('hero', [cover.image]);
-    img.addEventListener('load', ready);
-    img.addEventListener('error', ready);
-    if (img.complete) ready();
-    drawing.current = mountCover(stage.current, img, band.current, cover, () => loading.getState().isLoadingComplete);
+    const imageLoad = watchCoverPhoto(img, cover.image, {
+      onReady: () => drawing.current?.refresh(),
+      onSettled: () => assets.getState().markAssetLoaded('hero', cover.image),
+    });
+    drawing.current = mountCover(stage.current, img, band.current, cover,
+      () => loading.getState().isLoadingComplete, () => imageLoad.ready);
     return () => {
+      imageLoad.dispose();
       drawing.current.dispose();
       drawing.current = null;
-      img.removeEventListener('load', ready);
-      img.removeEventListener('error', ready);
       assets.getState().clearHandle('hero');
     };
   }, []);

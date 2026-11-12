@@ -105,7 +105,7 @@ export function drawOrbit(ctx, art, cover, frame, iw, w, h, dpr, turns) {
   ctx.globalCompositeOperation = 'source-over';
 }
 
-export function mountCover(stage, photo, canvas, cover, isLoaded) {
+export function mountCover(stage, photo, canvas, cover, isLoaded, isPhotoReady) {
   const ctx = canvas.getContext('2d');
   const art = ctx && makeOrbit(cover.title, cover.orbit);
   const section = stage.closest('section');
@@ -129,7 +129,7 @@ export function mountCover(stage, photo, canvas, cover, isLoaded) {
     const drive = clamp(scrollY / Math.max(1, track));
     const exit = clamp((scrollY - (track - h)) / h);
     if ((exit >= 1) !== departed) { departed = exit >= 1; stage.toggleAttribute('data-departed', departed); }
-    if (!photo.naturalWidth || !art) return;
+    if (!isPhotoReady() || !art) return;
     const moving = !motion.matches && !stage.hasAttribute('data-paused');
     const dt = last ? Math.min((now-last)/1000,.06) : 1/60;
     const scrollDelta = (scrollY - previousScroll) / h;
