@@ -1,0 +1,6 @@
+# Vite builds the site into dist/client (see vite.config.mjs), so Netlify must
+# publish that folder. Publishing "dist" puts every file under /client/ and the
+# homepage returns 404. Keep this file when syncing source from other tools.
+[build]
+  command = "npm run build"
+  publish = "dist/client"
